@@ -136,9 +136,10 @@ prob.solve(solver)
 
 # %%
 for v in prob.variables():
-  if v.varValue != 0 and '10_' in v.name and not '11_' in v.name and not '9_' in v.name:
     print(v.name)
     print(v.value())
+
+#   if v.varValue != 0 and '10_' in v.name and not '11_' in v.name and not '9_' in v.name:
 
 
 # %%
