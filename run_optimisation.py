@@ -73,7 +73,6 @@ for next_player,trans in RU_transfers.groupby(['id_next'])['Transfer'].apply(lis
   prob += lpSum([transfer_contraints[t_id] for t_id in trans]) == player_contraints[next_player], "Next player equals transfer intermediatary for "+next_player
 
 for round, transfers in RU_transfers[RU_transfers['Name_prev'] != RU_transfers['Name_next']].groupby(['Round'])['Transfer'].apply(list).iteritems():
-  print([transfer_contraints[t_id] for t_id in transfers])
   # print([transfer_contraints[t_id] for t_id in transfers])
   prob += lpSum([transfer_contraints[t_id] for t_id in transfers]) <= 4, f"Round: {round}, has less than orequal to 4 transfers"
 # END TRANFERS
