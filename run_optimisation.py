@@ -93,7 +93,7 @@ for round,player in RU_Players[['id','Price','Round']].drop_duplicates().groupby
 
 print('solving')
 
-solver = getSolver('COIN_CMD', maxSeconds=100, msg=True,gapRel = 0.1, threads=100)
+solver = getSolver('COIN_CMD', maxSeconds=2000, msg=True,gapRel = 0.1, threads=100)
 # solver = getSolver('COIN_CMD', msg=True, cuts=True)
 
 # prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=10))
