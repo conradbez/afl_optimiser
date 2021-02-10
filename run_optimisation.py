@@ -120,7 +120,7 @@ print('solving')
 # %%
 
 # solver = getSolver('COIN_CMD',  msg=True,)
-solver = getSolver('COIN_CMD', msg=True, cuts=True, maxSeconds=700)
+solver = getSolver('COIN_CMD', msg=True, cuts=True, maxSeconds=1000)
 
 # prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=10))
 # prob.solve(PULP_CBC_CMD(gapRel = 0.05))
