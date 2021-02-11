@@ -36,14 +36,10 @@ print(len(RU_Players['Name'].unique()))
 
 
 # Only take players in top quater of average values (score/price)
+# print(len(RU_Players['Name'].unique()))
+# player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/4)]
+# RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
 print(len(RU_Players['Name'].unique()))
-player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
-RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
-print(len(RU_Players['Name'].unique()))
-
-
-# RU_Players = RU_Players.head(4)
-
 
 trades_allowed = None
 player_contraints = {}
@@ -87,7 +83,7 @@ for round, transfers in RU_transfers[RU_transfers['Name_prev'] != RU_transfers['
 allowed_holds_per_position = {'DE': 8, "MI" : 10, 'RU' : 3, 'FO':9}
 
 for (position,round), player in RU_Players[['id','Position','Round']].drop_duplicates().groupby(['Position', 'Round'])['id'].apply(list).iteritems():
-  prob += lpSum([player_contraints[p_id] for p_id in player]) <= allowed_holds_per_position[position], f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}"
+  prob += lpSum([player_contraints[p_id] for p_id in player]) == allowed_holds_per_position[position], f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}"
 
 # END max players from each position
 
@@ -100,11 +96,33 @@ for round,player in RU_Players[['id','Price','Round']].drop_duplicates().groupby
 print('done with pre-work')
 
 
-solver = getSolver('PULP_CBC_CMD', maxSeconds=100, msg=True,gapRel = 0.1, threads=100)
-prob.solve(solver)
 
-for v in prob.variables():
-  # if v.varValue != 0 and '10_' in v.name and not '11_' in v.name and not '9_' in v.name:
-  if v.varValue != 0:
-    print(v.name)
-    print(v.value())
+solver = getSolver('COIN_CMD', maxSeconds=2000, msg=True,gapRel = 0.15, threads=100)
+# solver = getSolver('PULP_CBC_CMD', maxSeconds=100, msg=True,gapRel = 0.1, threads=100)
+# solver = getSolver('COIN_CMD', msg=True, cuts=True)
+# prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=10))
+# prob.solve(PULP_CBC_CMD(gapRel = 0.05))
+# solver = getSolver('GLPK_CMD')
+prob.solve(solver)
+# pulp.COIN(maxSeconds=your_time_limit))
+# prob.solve(solver)
+# list_solvers(onlyAvailable=True)
+
+roundplayers = {}
+roundchanges = {}
+for round in range(1,30):
+  roundplayers[round] = []
+  for n,t in player_contraints.items():
+      if t.value()>0.5:
+        if n[:len(f'Round:{round}_')] == f'Round:{round}_':
+          roundplayers[round].append(n[len(f'Round:{round}_Player:'):])
+  if not round == 1:
+    roundchanges[f'{round}_out'] = set(roundplayers[round-1]).difference(set(roundplayers[round]))
+    roundchanges[f'{round}_in'] = set(roundplayers[round]).difference(set(roundplayers[round-1]))
+
+
+print(roundchanges)
+print(roundplayers)
+
+
+
