@@ -4,7 +4,15 @@ full_player_scores = pd.read_csv('full_players.csv', index_col=0)
 full_player_scores = full_player_scores.reset_index(drop=True)
 full_player_scores['Score'] = pd.to_numeric(full_player_scores['Score'], errors='coerce')
 # full_player_scores['Value'] = full_player_scores['Score']/full_player_scores['Price']
+
+full_player_scores_2021 = full_player_scores[full_player_scores['Year']==2021]
 full_player_scores = full_player_scores[full_player_scores['Year']==2020]
+
+# Only keep players who are playing this season
+full_player_scores[full_player_scores['Name'].isin(full_player_scores_2021['Name'].unique())].dropna(how='all').dropna(how='all')
+
+
+# full_player_scores = full_player_scores[full_player_scores.isin(full_player_scores_2021['Name'].unique())]['Name'].dropna(how='all')
 
 player_num_games_played = full_player_scores[full_player_scores['Score']>0].groupby('Name')['Team 2'].transform('count')
 
@@ -40,6 +48,10 @@ print(len(RU_Players['Name'].unique()))
 # player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/4)]
 # RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
 print(len(RU_Players['Name'].unique()))
+
+
+# RU_Players = RU_Players.head(4)
+
 
 trades_allowed = None
 player_contraints = {}
@@ -94,10 +106,8 @@ for round,player in RU_Players[['id','Price','Round']].drop_duplicates().groupby
 # END money contraint
 
 print('done with pre-work')
-
-
-
 solver = getSolver('COIN_CMD', maxSeconds=2000, msg=True,gapRel = 0.15, threads=100)
+
 # solver = getSolver('PULP_CBC_CMD', maxSeconds=100, msg=True,gapRel = 0.1, threads=100)
 # solver = getSolver('COIN_CMD', msg=True, cuts=True)
 # prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=10))
@@ -107,6 +117,7 @@ prob.solve(solver)
 # pulp.COIN(maxSeconds=your_time_limit))
 # prob.solve(solver)
 # list_solvers(onlyAvailable=True)
+
 
 roundplayers = {}
 roundchanges = {}
@@ -123,6 +134,4 @@ for round in range(1,30):
 
 print(roundchanges)
 print(roundplayers)
-
-
 
