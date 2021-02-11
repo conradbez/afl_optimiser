@@ -1,6 +1,5 @@
 import pandas as pd
 from pulp import *
-
 full_player_scores = pd.read_csv('full_players.csv', index_col=0)
 full_player_scores = full_player_scores.reset_index(drop=True)
 full_player_scores['Score'] = pd.to_numeric(full_player_scores['Score'], errors='coerce')
@@ -20,22 +19,30 @@ full_player_scores.loc[na_locs,'Score'] = ((opponent_average_score+player_averag
 # RU_Players = full_player_scores[(full_player_scores['Round']<=2)&(full_player_scores['Year']==2020)] # Only two rounds
 # RU_Players = full_player_scores[(full_player_scores['Round']<=5)&(full_player_scores['Position']=='RU')&(full_player_scores['Year']==2020)] # Only rucks
 # RU_Players = full_player_scores[(full_player_scores['Round']<=2)&(full_player_scores['Year']==2020)]
-RU_Players = full_player_scores[(full_player_scores['Year']==2020)]
 # RU_Players = full_player_scores[(full_player_scores['Position']=='RU')&(full_player_scores['Year']==2020)] # Only rucks
+
+RU_Players = full_player_scores[(full_player_scores['Year']==2020)]
+
 
 RU_Players = RU_Players.sort_values('Score',ascending=False)
 RU_Players['id'] = "Round:"+RU_Players['Round'].astype(str)+"_Player:"+RU_Players['Name']
 # RU_Players = RU_Players[RU_Players['Round']<3]
 
-# Only take players in top quater of average values (score/price)
-# player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/4)]
-# RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
-
 # Only take players who played more than 5 games
-# players_to_keep = player_num_games_played[player_num_games_played>5].index.values
-# RU_Players = RU_Players.reindex(index=players_to_keep).dropna(how='all') 
-# RU_Players = RU_Players.head(400)
+print(len(RU_Players['Name'].unique()))
+players_to_keep = player_num_games_played[player_num_games_played>5].index.values
+RU_Players = RU_Players.reindex(index=players_to_keep).dropna(how='all')
+print(len(RU_Players['Name'].unique()))
 
+
+# Only take players in top quater of average values (score/price)
+print(len(RU_Players['Name'].unique()))
+player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
+RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
+print(len(RU_Players['Name'].unique()))
+
+
+# RU_Players = RU_Players.head(4)
 
 
 trades_allowed = None
@@ -73,7 +80,6 @@ for next_player,trans in RU_transfers.groupby(['id_next'])['Transfer'].apply(lis
   prob += lpSum([transfer_contraints[t_id] for t_id in trans]) == player_contraints[next_player], "Next player equals transfer intermediatary for "+next_player
 
 for round, transfers in RU_transfers[RU_transfers['Name_prev'] != RU_transfers['Name_next']].groupby(['Round'])['Transfer'].apply(list).iteritems():
-  # print([transfer_contraints[t_id] for t_id in transfers])
   prob += lpSum([transfer_contraints[t_id] for t_id in transfers]) <= 4, f"Round: {round}, has less than orequal to 4 transfers"
 # END TRANFERS
 
@@ -91,27 +97,14 @@ for round,player in RU_Players[['id','Price','Round']].drop_duplicates().groupby
   prob += lpSum([player_contraints[p_id]*RU_Players[RU_Players['id']==p_id]['Price'].values[0] for p_id in player]) <= money, f"Round: {round}, has less than ${money}"
 # END money contraint
 
-print('solving')
+print('done with pre-work')
 
-solver = getSolver('COIN_CMD', maxSeconds=2000, msg=True,gapRel = 0.1, threads=100)
-# solver = getSolver('COIN_CMD', msg=True, cuts=True)
 
-# prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=10))
-# prob.solve(PULP_CBC_CMD(gapRel = 0.05))
-
-# solver = getSolver('GLPK_CMD')
+solver = getSolver('PULP_CBC_CMD', maxSeconds=100, msg=True,gapRel = 0.1, threads=100)
 prob.solve(solver)
-
-# pulp.COIN(maxSeconds=your_time_limit))
-# prob.solve(solver)
-# list_solvers(onlyAvailable=True)
 
 for v in prob.variables():
   # if v.varValue != 0 and '10_' in v.name and not '11_' in v.name and not '9_' in v.name:
   if v.varValue != 0:
     print(v.name)
     print(v.value())
-
-import pickle
-with open('results','wb') as r:
-    pickle.dump(prob.variables(), r)
