@@ -1,1471 +1,478 @@
+{1: ['Brad Ebert',
+  'Heath Shaw',
+  'Gary Ablett',
+  'Jasper Pittard',
+  'Darcy Tucker',
+  'Dustin Martin',
+  'Taylor Adams',
+  'Steele Sidebottom',
+  'Curtis Taylor',
+  'Joel Selwood',
+  'Brody Mihocek',
+  'Mitch Robinson',
+  'Timothy English',
+  'Brodie Grundy',
+  'Sam Docherty',
+  'Zach Tuohy',
+  'Shaun Atley',
+  'Tom Clurey',
+  'Isaac Smith',
+  'Adam Tomlinson',
+  'Luke Parker'],
+ 2: ['Brad Ebert',
+  'Heath Shaw',
+  'Gary Ablett',
+  'Jasper Pittard',
+  'Darcy Tucker',
+  'Taylor Adams',
+  'Curtis Taylor',
+  'Joel Selwood',
+  'Brody Mihocek',
+  'Mitch Robinson',
+  'Patrick Dangerfield',
+  'Rowan Marshall',
+  'Timothy English',
+  'Brodie Grundy',
+  'Sam Docherty',
+  'Zach Tuohy',
+  'Jarrod Berry',
+  'Shaun Atley',
+  'Tom Clurey',
+  'Adam Tomlinson',
+  'Luke Parker'],
+ 3: ['Brad Ebert',
+  'Heath Shaw',
+  'Justin Westhoff',
+  'Gary Ablett',
+  'Jasper Pittard',
+  'Darcy Tucker',
+  'Taylor Adams',
+  'Steele Sidebottom',
+  'Curtis Taylor',
+  'Joel Selwood',
+  'Brody Mihocek',
+  'Mitch Robinson',
+  'Timothy English',
+  'Hugh McCluggage',
+  'Brodie Grundy',
+  'Sam Docherty',
+  'Zach Tuohy',
+  'Jarrod Berry',
+  'Shaun Atley',
+  'Tom Clurey',
+  'Isaac Smith'],
+ 4: ['Brad Ebert',
+  'Heath Shaw',
+  'Jasper Pittard',
+  'Darcy Tucker',
+  'Sam Menegola',
+  'Taylor Adams',
+  'Curtis Taylor',
+  'Joel Selwood',
+  'Brody Mihocek',
+  'Mitch Robinson',
+  'Patrick Dangerfield',
+  'Rowan Marshall',
+  'Timothy English',
+  'Hugh McCluggage',
+  'Brodie Grundy',
+  'Sam Docherty',
+  'Zach Tuohy',
+  'Jarrod Berry',
+  'Shaun Atley',
+  'Tom Clurey',
+  'Adam Tomlinson'],
+ 5: ['Brad Ebert',
+  'Heath Shaw',
+  'Kane Lambert',
+  'Jasper Pittard',
+  'Darcy Tucker',
+  'Sam Menegola',
+  'Harry Taylor',
+  'Taylor Adams',
+  'Curtis Taylor',
+  'Joel Selwood',
+  'Brody Mihocek',
+  'Mitch Robinson',
+  'Rowan Marshall',
+  'Timothy English',
+  'Hugh McCluggage',
+  'Brodie Grundy',
+  'Sam Docherty',
+  'Zach Tuohy',
+  'Jarrod Berry',
+  'Shaun Atley',
+  'Steven May'],
+ 6: ['Heath Shaw',
+  'Kane Lambert',
+  'Jasper Pittard',
+  'Darcy Tucker',
+  'Orazio Fantasia',
+  'Sam Menegola',
+  'Harry Taylor',
+  'Taylor Adams',
+  'Curtis Taylor',
+  'Joel Selwood',
+  'Brody Mihocek',
+  'Patrick Dangerfield',
+  'Timothy English',
+  'Hugh McCluggage',
+  'Dylan Grimes',
+  'Brodie Grundy',
+  'Zach Tuohy',
+  'Jarrod Berry',
+  'Shaun Atley',
+  'Steven May',
+  'Isaac Smith'],
+ 7: ['Heath Shaw',
+  'Kane Lambert',
+  'Jasper Pittard',
+  'Darcy Tucker',
+  'Sam Menegola',
+  'Harry Taylor',
+  'Taylor Adams',
+  'Curtis Taylor',
+  'Paul Seedsman',
+  'Brody Mihocek',
+  'Patrick Dangerfield',
+  'Marlion Pickett',
+  'Timothy English',
+  'Hugh McCluggage',
+  'Dylan Grimes',
+  'Brodie Grundy',
+  'Zach Tuohy',
+  'Jarrod Berry',
+  'Shaun Atley',
+  'Steven May',
+  'Jake Lever'],
+ 8: ['Heath Shaw',
+  'Matthew Kennedy',
+  'Kane Lambert',
+  'Jasper Pittard',
+  'Dustin Martin',
+  'Sam Menegola',
+  'Harry Taylor',
+  'Taylor Adams',
+  'Paul Seedsman',
+  'Brody Mihocek',
+  'Marlion Pickett',
+  'Rowan Marshall',
+  'Hugh McCluggage',
+  'Dylan Grimes',
+  'Brodie Grundy',
+  'Zach Tuohy',
+  'Jarrod Berry',
+  'Nick Hind',
+  'Shaun Atley',
+  'Steven May',
+  'Jake Lever'],
+ 9: ['Heath Shaw',
+  'Kane Lambert',
+  'Jasper Pittard',
+  'Dustin Martin',
+  'Sam Menegola',
+  'Harry Taylor',
+  'Taylor Adams',
+  'Steele Sidebottom',
+  'Paul Seedsman',
+  'Brody Mihocek',
+  'Marlion Pickett',
+  'Rowan Marshall',
+  'Hugh McCluggage',
+  'Dylan Grimes',
+  'Brodie Grundy',
+  'James Stewart',
+  'Zach Tuohy',
+  'Nick Hind',
+  'Shaun Atley',
+  'Steven May',
+  'Jake Lever'],
+ 10: ['Heath Shaw',
+  'Kane Lambert',
+  'Jasper Pittard',
+  'Sam Menegola',
+  'Robbie Gray',
+  'Taylor Adams',
+  'Paul Seedsman',
+  'Brody Mihocek',
+  'Marlion Pickett',
+  'Rowan Marshall',
+  'Hugh McCluggage',
+  'Dylan Grimes',
+  'Brodie Grundy',
+  'James Stewart',
+  'Zach Tuohy',
+  'Nick Hind',
+  'Christian Salem',
+  'Shaun Atley',
+  'Steven May',
+  'Shai Bolton',
+  'Jake Lever'],
+ 11: ['Kane Lambert',
+  'Jasper Pittard',
+  'Zac Fisher',
+  'Sam Menegola',
+  'Robbie Gray',
+  'Taylor Adams',
+  'Brody Mihocek',
+  'Patrick Dangerfield',
+  'Marlion Pickett',
+  'Hugh McCluggage',
+  'Dylan Grimes',
+  'Brodie Grundy',
+  'James Stewart',
+  'Nathan Wilson',
+  'Zach Tuohy',
+  'Nick Hind',
+  'Christian Salem',
+  'Patrick Cripps',
+  'Shaun Atley',
+  'Steven May',
+  'Jake Lever'],
+ 12: ['Kane Lambert',
+  'Zac Fisher',
+  'Sam Menegola',
+  'Robbie Gray',
+  'Taylor Adams',
+  'Steele Sidebottom',
+  'Marlion Pickett',
+  'Liam Ryan',
+  'Lachie Whitfield',
+  'Dylan Grimes',
+  'Brodie Grundy',
+  'James Stewart',
+  'Nathan Wilson',
+  'Zach Tuohy',
+  "Tim O'Brien",
+  'Nick Hind',
+  'Christian Salem',
+  'Patrick Cripps',
+  'Shaun Atley',
+  'Steven May',
+  'Jake Lever'],
+ 13: ['James Cousins',
+  'Kane Lambert',
+  'Zac Fisher',
+  'Kade Simpson',
+  'Dustin Martin',
+  'Sam Menegola',
+  'Robbie Gray',
+  'Taylor Adams',
+  'Marlion Pickett',
+  'Liam Ryan',
+  'Lachie Whitfield',
+  'Brodie Grundy',
+  'James Stewart',
+  'Nathan Wilson',
+  "Tim O'Brien",
+  'Christian Salem',
+  'Patrick Cripps',
+  'Shaun Atley',
+  'Steven May',
+  'Shai Bolton',
+  'Jake Lever'],
+ 14: ['James Cousins',
+  'Zac Fisher',
+  'Kade Simpson',
+  'Robbie Gray',
+  'Taylor Adams',
+  'Patrick Dangerfield',
+  'Marlion Pickett',
+  'Liam Ryan',
+  'Lachie Whitfield',
+  'Josh Kennedy',
+  'Brodie Grundy',
+  'James Stewart',
+  'Nathan Wilson',
+  "Tim O'Brien",
+  'Jamie Elliott',
+  'Christian Salem',
+  'Patrick Cripps',
+  'Shaun Atley',
+  'Steven May',
+  'Jake Lever',
+  'Tim Taranto'],
+ 15: ['James Cousins',
+  'Blake Acres',
+  'Harry Schoenberg',
+  'Zac Fisher',
+  'Kade Simpson',
+  'Taylor Adams',
+  'Marlion Pickett',
+  'Liam Ryan',
+  'Lachie Whitfield',
+  'Josh Kennedy',
+  'Brodie Grundy',
+  'James Stewart',
+  'Nathan Wilson',
+  "Tim O'Brien",
+  'Christian Salem',
+  'Patrick Cripps',
+  'Steven May',
+  'Adam Tomlinson',
+  'Luke Parker',
+  'Jake Lever',
+  'Tim Taranto'],
+ 16: ['James Cousins',
+  'Blake Acres',
+  'Harry Schoenberg',
+  'Zac Fisher',
+  'Kade Simpson',
+  'Jye Caldwell',
+  'Patrick Dangerfield',
+  'Tom Rockliff',
+  'Rowan Marshall',
+  'Liam Ryan',
+  'Lachie Whitfield',
+  'Josh Kennedy',
+  'James Stewart',
+  'Nathan Wilson',
+  "Tim O'Brien",
+  'Christian Salem',
+  'Patrick Cripps',
+  'Steven May',
+  'Luke Parker',
+  'Jake Lever',
+  'Tim Taranto'],
+ 17: ['James Cousins',
+  'Tom Green',
+  'Blake Acres',
+  'Harry Schoenberg',
+  'Lachlan Sholl',
+  'Kade Simpson',
+  'Dustin Martin',
+  'Tom Rockliff',
+  'Liam Ryan',
+  'Jesse Hogan',
+  'Lachie Whitfield',
+  'Josh Kennedy',
+  'James Stewart',
+  'Nathan Wilson',
+  "Tim O'Brien",
+  'Christian Salem',
+  'Patrick Cripps',
+  'Steven May',
+  'Luke Parker',
+  'Jake Lever',
+  'Tim Taranto'],
+ 18: ['James Cousins',
+  'Tom Green',
+  'Blake Acres',
+  'Matthew Kennedy',
+  'Paul Puopolo',
+  'Harry Schoenberg',
+  'Lachlan Sholl',
+  'Kade Simpson',
+  'Jesse Hogan',
+  'Lachie Whitfield',
+  'Josh Kennedy',
+  'James Stewart',
+  'Nathan Wilson',
+  "Tim O'Brien",
+  'Christian Salem',
+  'Patrick Cripps',
+  'Steven May',
+  'Adam Tomlinson',
+  'Luke Parker',
+  'Jake Lever',
+  'Tim Taranto'],
 
-player_contraints_Round:10_Player:Alex_Witherden
-1.0
-player_contraints_Round:10_Player:Alex_Witherden__Round:11_Player:Robbie_Tarrant
-1.0
-player_contraints_Round:10_Player:Brandon_Zerk_Thatcher
-1.0
-player_contraints_Round:10_Player:Brandon_Zerk_Thatcher__Round:11_Player:Brodie_Smith
-1.0
-player_contraints_Round:10_Player:Callum_Sinclair
-1.0
-player_contraints_Round:10_Player:Callum_Sinclair__Round:11_Player:Sean_Darcy
-1.0
-player_contraints_Round:10_Player:Clayton_Oliver
-1.0
-player_contraints_Round:10_Player:Clayton_Oliver__Round:11_Player:Dayne_Zorko
-1.0
-player_contraints_Round:10_Player:Dayne_Zorko
-1.0
-player_contraints_Round:10_Player:Dayne_Zorko__Round:11_Player:Peter_Ladhams
-1.0
-player_contraints_Round:10_Player:Dustin_Martin
-1.0
-player_contraints_Round:10_Player:Dustin_Martin__Round:11_Player:Angus_Brayshaw
-1.0
-player_contraints_Round:10_Player:Harris_Andrews
-1.0
-player_contraints_Round:10_Player:Harris_Andrews__Round:11_Player:Luke_McDonald
-1.0
-player_contraints_Round:10_Player:Jack_Steven
-1.0
-player_contraints_Round:10_Player:Jack_Steven__Round:11_Player:Mitchell_Crowden
-1.0
-player_contraints_Round:10_Player:Jackson_Thurlow
-1.0
-player_contraints_Round:10_Player:Jackson_Thurlow__Round:11_Player:Jordan_Ridley
-1.0
-player_contraints_Round:10_Player:Jake_Carlisle
-1.0
-player_contraints_Round:10_Player:Jake_Carlisle__Round:11_Player:Tom_Williamson
-1.0
-player_contraints_Round:10_Player:Jordan_Roughead
-1.0
-player_contraints_Round:10_Player:Jordan_Roughead__Round:11_Player:Rory_Laird
-1.0
-player_contraints_Round:10_Player:Josh_Dunkley
-1.0
-player_contraints_Round:10_Player:Josh_Dunkley__Round:11_Player:Gary_Rohan
-1.0
-player_contraints_Round:10_Player:Liam_Baker
-1.0
-player_contraints_Round:10_Player:Liam_Baker__Round:11_Player:Mark_O'Connor
-1.0
-player_contraints_Round:10_Player:Peter_Ladhams
-1.0
-player_contraints_Round:10_Player:Peter_Ladhams__Round:11_Player:Zac_Bailey
-1.0
-player_contraints_Round:10_Player:Rowan_Marshall
-1.0
-player_contraints_Round:10_Player:Rowan_Marshall__Round:11_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:10_Player:Ryley_Stoddart
-1.0
-player_contraints_Round:10_Player:Ryley_Stoddart__Round:11_Player:Nathan_Wilson
-1.0
-player_contraints_Round:10_Player:Sam_Powell_Pepper
-1.0
-player_contraints_Round:10_Player:Sam_Powell_Pepper__Round:11_Player:Rowan_Marshall
-1.0
-player_contraints_Round:10_Player:Shai_Bolton
-1.0
-player_contraints_Round:10_Player:Shai_Bolton__Round:11_Player:Darcy_Cameron
-1.0
-player_contraints_Round:10_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:10_Player:Steele_Sidebottom__Round:11_Player:Oliver_Wines
-1.0
-player_contraints_Round:10_Player:Tim_Taranto
-1.0
-player_contraints_Round:10_Player:Tim_Taranto__Round:11_Player:Jackson_Macrae
-1.0
-player_contraints_Round:10_Player:Tom_Rockliff
-1.0
-player_contraints_Round:10_Player:Tom_Rockliff__Round:11_Player:Tom_Phillips
-1.0
-player_contraints_Round:11_Player:Angus_Brayshaw
-1.0
-player_contraints_Round:11_Player:Angus_Brayshaw__Round:12_Player:Tom_Phillips
-1.0
-player_contraints_Round:11_Player:Brodie_Smith
-1.0
-player_contraints_Round:11_Player:Brodie_Smith__Round:12_Player:Easton_Wood
-1.0
-player_contraints_Round:11_Player:Darcy_Cameron
-1.0
-player_contraints_Round:11_Player:Darcy_Cameron__Round:12_Player:Nick_Blakey
-1.0
-player_contraints_Round:11_Player:Dayne_Zorko
-1.0
-player_contraints_Round:11_Player:Dayne_Zorko__Round:12_Player:Taylor_Duryea
-1.0
-player_contraints_Round:11_Player:Gary_Rohan
-1.0
-player_contraints_Round:11_Player:Gary_Rohan__Round:12_Player:Tom_Hawkins
-1.0
-player_contraints_Round:11_Player:Jackson_Macrae
-1.0
-player_contraints_Round:11_Player:Jackson_Macrae__Round:12_Player:Jed_Anderson
-1.0
-player_contraints_Round:11_Player:Jordan_Ridley
-1.0
-player_contraints_Round:11_Player:Jordan_Ridley__Round:12_Player:Jack_Lukosius
-1.0
-player_contraints_Round:11_Player:Luke_McDonald
-1.0
-player_contraints_Round:11_Player:Luke_McDonald__Round:12_Player:Conor_Glass
-1.0
-player_contraints_Round:11_Player:Mark_O'Connor
-1.0
-player_contraints_Round:11_Player:Mark_O'Connor__Round:12_Player:Mark_Blicavs
-1.0
-player_contraints_Round:11_Player:Mitchell_Crowden
-1.0
-player_contraints_Round:11_Player:Mitchell_Crowden__Round:12_Player:Josh_Battle
-1.0
-player_contraints_Round:11_Player:Nathan_Wilson
-1.0
-player_contraints_Round:11_Player:Nathan_Wilson__Round:12_Player:Jackson_Thurlow
-1.0
-player_contraints_Round:11_Player:Oliver_Wines
-1.0
-player_contraints_Round:11_Player:Oliver_Wines__Round:12_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:11_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:11_Player:Patrick_Dangerfield__Round:12_Player:Marcus_Bontempelli
-1.0
-player_contraints_Round:11_Player:Peter_Ladhams
-1.0
-player_contraints_Round:11_Player:Peter_Ladhams__Round:12_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:11_Player:Robbie_Tarrant
-1.0
-player_contraints_Round:11_Player:Robbie_Tarrant__Round:12_Player:Tom_Barrass
-1.0
-player_contraints_Round:11_Player:Rory_Laird
-1.0
-player_contraints_Round:11_Player:Rory_Laird__Round:12_Player:Dayne_Zorko
-1.0
-player_contraints_Round:11_Player:Rowan_Marshall
-1.0
-player_contraints_Round:11_Player:Rowan_Marshall__Round:12_Player:Braydon_Preuss
-1.0
-player_contraints_Round:11_Player:Sean_Darcy
-1.0
-player_contraints_Round:11_Player:Sean_Darcy__Round:12_Player:Reilly_O'Brien
-1.0
-player_contraints_Round:11_Player:Tom_Phillips
-1.0
-player_contraints_Round:11_Player:Tom_Phillips__Round:12_Player:Bailey_Smith
-1.0
-player_contraints_Round:11_Player:Tom_Williamson
-1.0
-player_contraints_Round:11_Player:Tom_Williamson__Round:12_Player:Jack_Bowes
-1.0
-player_contraints_Round:11_Player:Zac_Bailey
-1.0
-player_contraints_Round:11_Player:Zac_Bailey__Round:12_Player:Rowan_Marshall
-1.0
-player_contraints_Round:12_Player:Bailey_Smith
-1.0
-player_contraints_Round:12_Player:Bailey_Smith__Round:13_Player:Bailey_Scott
-1.0
-player_contraints_Round:12_Player:Braydon_Preuss
-1.0
-player_contraints_Round:12_Player:Braydon_Preuss__Round:13_Player:Ivan_SoldoI
-1.0
-player_contraints_Round:12_Player:Conor_Glass
-1.0
-player_contraints_Round:12_Player:Conor_Glass__Round:13_Player:Josh_Rotham
-1.0
-player_contraints_Round:12_Player:Dayne_Zorko
-1.0
-player_contraints_Round:12_Player:Dayne_Zorko__Round:13_Player:Lachlan_Schultz
-1.0
-player_contraints_Round:12_Player:Easton_Wood
-1.0
-player_contraints_Round:12_Player:Easton_Wood__Round:13_Player:Ben_McEvoy
-1.0
-player_contraints_Round:12_Player:Jack_Bowes
-1.0
-player_contraints_Round:12_Player:Jack_Bowes__Round:13_Player:Brayden_Maynard
-1.0
-player_contraints_Round:12_Player:Jack_Lukosius
-1.0
-player_contraints_Round:12_Player:Jack_Lukosius__Round:13_Player:Luke_McDonald
-1.0
-player_contraints_Round:12_Player:Jackson_Thurlow
-1.0
-player_contraints_Round:12_Player:Jackson_Thurlow__Round:13_Player:Jeremy_McGovern
-1.0
-player_contraints_Round:12_Player:Jed_Anderson
-1.0
-player_contraints_Round:12_Player:Jed_Anderson__Round:13_Player:Shai_Bolton
-1.0
-player_contraints_Round:12_Player:Josh_Battle
-1.0
-player_contraints_Round:12_Player:Josh_Battle__Round:13_Player:Matt_Crouch
-1.0
-player_contraints_Round:12_Player:Marcus_Bontempelli
-1.0
-player_contraints_Round:12_Player:Marcus_Bontempelli__Round:13_Player:Sam_Powell_Pepper
-1.0
-player_contraints_Round:12_Player:Mark_Blicavs
-1.0
-player_contraints_Round:12_Player:Mark_Blicavs__Round:13_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:12_Player:Nick_Blakey
-1.0
-player_contraints_Round:12_Player:Nick_Blakey__Round:13_Player:Jake_Riccardi
-1.0
-player_contraints_Round:12_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:12_Player:Patrick_Dangerfield__Round:13_Player:Cameron_Guthrie
-1.0
-player_contraints_Round:12_Player:Reilly_O'Brien
-1.0
-player_contraints_Round:12_Player:Reilly_O'Brien__Round:13_Player:Sam_Draper
-1.0
-player_contraints_Round:12_Player:Rowan_Marshall
-1.0
-player_contraints_Round:12_Player:Rowan_Marshall__Round:13_Player:Jack_Steven
-1.0
-player_contraints_Round:12_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:12_Player:Steele_Sidebottom__Round:13_Player:Rory_Laird
-1.0
-player_contraints_Round:12_Player:Taylor_Duryea
-1.0
-player_contraints_Round:12_Player:Taylor_Duryea__Round:13_Player:Tom_Clurey
-1.0
-player_contraints_Round:12_Player:Tom_Barrass
-1.0
-player_contraints_Round:12_Player:Tom_Barrass__Round:13_Player:Matt_Guelfi
-1.0
-player_contraints_Round:12_Player:Tom_Hawkins
-1.0
-player_contraints_Round:12_Player:Tom_Hawkins__Round:13_Player:Dustin_Martin
-1.0
-player_contraints_Round:12_Player:Tom_Phillips
-1.0
-player_contraints_Round:12_Player:Tom_Phillips__Round:13_Player:Travis_Boak
-1.0
-player_contraints_Round:13_Player:Bailey_Scott
-1.0
-player_contraints_Round:13_Player:Bailey_Scott__Round:14_Player:Zachary_Merrett
-1.0
-player_contraints_Round:13_Player:Ben_McEvoy
-1.0
-player_contraints_Round:13_Player:Ben_McEvoy__Round:14_Player:Noah_Balta
-1.0
-player_contraints_Round:13_Player:Brayden_Maynard
-1.0
-player_contraints_Round:13_Player:Brayden_Maynard__Round:14_Player:Jack_Crisp
-1.0
-player_contraints_Round:13_Player:Cameron_Guthrie
-1.0
-player_contraints_Round:13_Player:Cameron_Guthrie__Round:14_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:13_Player:Dustin_Martin
-1.0
-player_contraints_Round:13_Player:Dustin_Martin__Round:14_Player:Rowan_Marshall
-1.0
-player_contraints_Round:13_Player:Ivan_SoldoI
-1.0
-player_contraints_Round:13_Player:Ivan_SoldoI__Round:14_Player:Callum_Sinclair
-1.0
-player_contraints_Round:13_Player:Jack_Steven
-1.0
-player_contraints_Round:13_Player:Jack_Steven__Round:14_Player:David_Mundy
-1.0
-player_contraints_Round:13_Player:Jake_Riccardi
-1.0
-player_contraints_Round:13_Player:Jake_Riccardi__Round:14_Player:Kyle_Langford
-1.0
-player_contraints_Round:13_Player:Jeremy_McGovern
-1.0
-player_contraints_Round:13_Player:Jeremy_McGovern__Round:14_Player:Jake_Lloyd
-1.0
-player_contraints_Round:13_Player:Josh_Rotham
-1.0
-player_contraints_Round:13_Player:Josh_Rotham__Round:14_Player:Steven_May
-1.0
-player_contraints_Round:13_Player:Lachlan_Schultz
-1.0
-player_contraints_Round:13_Player:Lachlan_Schultz__Round:14_Player:Xavier_O'Neill
-1.0
-player_contraints_Round:13_Player:Luke_McDonald
-1.0
-player_contraints_Round:13_Player:Luke_McDonald__Round:14_Player:Isaac_Quaynor
-1.0
-player_contraints_Round:13_Player:Matt_Crouch
-1.0
-player_contraints_Round:13_Player:Matt_Crouch__Round:14_Player:Jamie_Elliott
-1.0
-player_contraints_Round:13_Player:Matt_Guelfi
-1.0
-player_contraints_Round:13_Player:Matt_Guelfi__Round:14_Player:Jarryn_Geary
-1.0
-player_contraints_Round:13_Player:Rory_Laird
-1.0
-player_contraints_Round:13_Player:Rory_Laird__Round:14_Player:Tom_Phillips
-1.0
-player_contraints_Round:13_Player:Sam_Draper
-1.0
-player_contraints_Round:13_Player:Sam_Draper__Round:14_Player:Ben_McEvoy
-1.0
-player_contraints_Round:13_Player:Sam_Powell_Pepper
-1.0
-player_contraints_Round:13_Player:Sam_Powell_Pepper__Round:14_Player:Edward_Curnow
-1.0
-player_contraints_Round:13_Player:Shai_Bolton
-1.0
-player_contraints_Round:13_Player:Shai_Bolton__Round:14_Player:Ben_Ainsworth
-1.0
-player_contraints_Round:13_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:13_Player:Steele_Sidebottom__Round:14_Player:Luke_Shuey
-1.0
-player_contraints_Round:13_Player:Tom_Clurey
-1.0
-player_contraints_Round:13_Player:Tom_Clurey__Round:14_Player:Liam_Duggan
-1.0
-player_contraints_Round:13_Player:Travis_Boak
-1.0
-player_contraints_Round:13_Player:Travis_Boak__Round:14_Player:Jack_Newnes
-1.0
-player_contraints_Round:14_Player:Ben_Ainsworth
-1.0
-player_contraints_Round:14_Player:Ben_Ainsworth__Round:15_Player:Kyle_Langford
-1.0
-player_contraints_Round:14_Player:Ben_McEvoy
-1.0
-player_contraints_Round:14_Player:Ben_McEvoy__Round:15_Player:Keegan_Brooksby
-1.0
-player_contraints_Round:14_Player:Callum_Sinclair
-1.0
-player_contraints_Round:14_Player:Callum_Sinclair__Round:15_Player:Reilly_O'Brien
-1.0
-player_contraints_Round:14_Player:David_Mundy
-1.0
-player_contraints_Round:14_Player:David_Mundy__Round:15_Player:Blake_Acres
-1.0
-player_contraints_Round:14_Player:Edward_Curnow
-1.0
-player_contraints_Round:14_Player:Edward_Curnow__Round:15_Player:Tom_Phillips
-1.0
-player_contraints_Round:14_Player:Isaac_Quaynor
-1.0
-player_contraints_Round:14_Player:Isaac_Quaynor__Round:15_Player:Rory_Laird
-1.0
-player_contraints_Round:14_Player:Jack_Crisp
-1.0
-player_contraints_Round:14_Player:Jack_Crisp__Round:15_Player:Jack_Scrimshaw
-1.0
-player_contraints_Round:14_Player:Jack_Newnes
-1.0
-player_contraints_Round:14_Player:Jack_Newnes__Round:15_Player:Toby_Greene
-1.0
-player_contraints_Round:14_Player:Jake_Lloyd
-1.0
-player_contraints_Round:14_Player:Jake_Lloyd__Round:15_Player:James_Harmes
-1.0
-player_contraints_Round:14_Player:Jamie_Elliott
-1.0
-player_contraints_Round:14_Player:Jamie_Elliott__Round:15_Player:Callum_Brown
-1.0
-player_contraints_Round:14_Player:Jarryn_Geary
-1.0
-player_contraints_Round:14_Player:Jarryn_Geary__Round:15_Player:Shannon_Hurn
-1.0
-player_contraints_Round:14_Player:Kyle_Langford
-1.0
-player_contraints_Round:14_Player:Kyle_Langford__Round:15_Player:Ed_Langdon
-1.0
-player_contraints_Round:14_Player:Liam_Duggan
-1.0
-player_contraints_Round:14_Player:Liam_Duggan__Round:15_Player:Jack_Crisp
-1.0
-player_contraints_Round:14_Player:Luke_Shuey
-1.0
-player_contraints_Round:14_Player:Luke_Shuey__Round:15_Player:Tom_Scully
-1.0
-player_contraints_Round:14_Player:Noah_Balta
-1.0
-player_contraints_Round:14_Player:Noah_Balta__Round:15_Player:Brodie_Smith
-1.0
-player_contraints_Round:14_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:14_Player:Patrick_Dangerfield__Round:15_Player:Ryan_Clarke
-1.0
-player_contraints_Round:14_Player:Rowan_Marshall
-1.0
-player_contraints_Round:14_Player:Rowan_Marshall__Round:15_Player:Liam_Ryan
-1.0
-player_contraints_Round:14_Player:Steven_May
-1.0
-player_contraints_Round:14_Player:Steven_May__Round:15_Player:Jordan_Ridley
-1.0
-player_contraints_Round:14_Player:Tom_Phillips
-1.0
-player_contraints_Round:14_Player:Tom_Phillips__Round:15_Player:Adam_Tomlinson
-1.0
-player_contraints_Round:14_Player:Xavier_O'Neill
-1.0
-player_contraints_Round:14_Player:Xavier_O'Neill__Round:15_Player:Rory_Lobb
-1.0
-player_contraints_Round:14_Player:Zachary_Merrett
-1.0
-player_contraints_Round:14_Player:Zachary_Merrett__Round:15_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:15_Player:Adam_Tomlinson
-1.0
-player_contraints_Round:15_Player:Adam_Tomlinson__Round:16_Player:Sam_Petrevski_Seton
-1.0
-player_contraints_Round:15_Player:Blake_Acres
-1.0
-player_contraints_Round:15_Player:Blake_Acres__Round:16_Player:Sam_Menegola
-1.0
-player_contraints_Round:15_Player:Brodie_Smith
-1.0
-player_contraints_Round:15_Player:Brodie_Smith__Round:16_Player:Nicholas_Coffield
-1.0
-player_contraints_Round:15_Player:Callum_Brown
-1.0
-player_contraints_Round:15_Player:Callum_Brown__Round:16_Player:Kyle_Langford
-1.0
-player_contraints_Round:15_Player:Ed_Langdon
-1.0
-player_contraints_Round:15_Player:Ed_Langdon__Round:16_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:15_Player:Jack_Crisp
-1.0
-player_contraints_Round:15_Player:Jack_Crisp__Round:16_Player:Ben_Long
-1.0
-player_contraints_Round:15_Player:Jack_Scrimshaw
-1.0
-player_contraints_Round:15_Player:Jack_Scrimshaw__Round:16_Player:Heath_Shaw
-1.0
-player_contraints_Round:15_Player:James_Harmes
-1.0
-player_contraints_Round:15_Player:James_Harmes__Round:16_Player:Ryley_Stoddart
-1.0
-player_contraints_Round:15_Player:Jordan_Ridley
-1.0
-player_contraints_Round:15_Player:Jordan_Ridley__Round:16_Player:Lachie_Whitfield
-1.0
-player_contraints_Round:15_Player:Keegan_Brooksby
-1.0
-player_contraints_Round:15_Player:Keegan_Brooksby__Round:16_Player:Sam_Jacobs
-1.0
-player_contraints_Round:15_Player:Kyle_Langford
-1.0
-player_contraints_Round:15_Player:Kyle_Langford__Round:16_Player:Rowan_Marshall
-1.0
-player_contraints_Round:15_Player:Liam_Ryan
-1.0
-player_contraints_Round:15_Player:Liam_Ryan__Round:16_Player:Josh_Dunkley
-1.0
-player_contraints_Round:15_Player:Reilly_O'Brien
-1.0
-player_contraints_Round:15_Player:Reilly_O'Brien__Round:16_Player:Tom_De_Koning
-1.0
-player_contraints_Round:15_Player:Rory_Laird
-1.0
-player_contraints_Round:15_Player:Rory_Laird__Round:16_Player:Dayne_Zorko
-1.0
-player_contraints_Round:15_Player:Rory_Lobb
-1.0
-player_contraints_Round:15_Player:Rory_Lobb__Round:16_Player:Sam_Powell_Pepper
-1.0
-player_contraints_Round:15_Player:Ryan_Clarke
-1.0
-player_contraints_Round:15_Player:Ryan_Clarke__Round:16_Player:Sam_Walsh
-1.0
-player_contraints_Round:15_Player:Shannon_Hurn
-1.0
-player_contraints_Round:15_Player:Shannon_Hurn__Round:16_Player:Jacob_Weitering
-1.0
-player_contraints_Round:15_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:15_Player:Steele_Sidebottom__Round:16_Player:Rory_Laird
-1.0
-player_contraints_Round:15_Player:Toby_Greene
-1.0
-player_contraints_Round:15_Player:Toby_Greene__Round:16_Player:Jye_Caldwell
-1.0
-player_contraints_Round:15_Player:Tom_Phillips
-1.0
-player_contraints_Round:15_Player:Tom_Phillips__Round:16_Player:Matt_Crouch
-1.0
-player_contraints_Round:15_Player:Tom_Scully
-1.0
-player_contraints_Round:15_Player:Tom_Scully__Round:16_Player:Charlie_Cameron
-1.0
-player_contraints_Round:16_Player:Ben_Long
-1.0
-player_contraints_Round:16_Player:Ben_Long__Round:17_Player:Taylor_Duryea
-1.0
-player_contraints_Round:16_Player:Charlie_Cameron
-1.0
-player_contraints_Round:16_Player:Charlie_Cameron__Round:17_Player:Tom_Atkins
-1.0
-player_contraints_Round:16_Player:Dayne_Zorko
-1.0
-player_contraints_Round:16_Player:Dayne_Zorko__Round:17_Player:Harry_Schoenberg
-1.0
-player_contraints_Round:16_Player:Heath_Shaw
-1.0
-player_contraints_Round:16_Player:Heath_Shaw__Round:17_Player:Rory_Laird
-1.0
-player_contraints_Round:16_Player:Jacob_Weitering
-1.0
-player_contraints_Round:16_Player:Jacob_Weitering__Round:17_Player:Caleb_Daniel
-1.0
-player_contraints_Round:16_Player:Josh_Dunkley
-1.0
-player_contraints_Round:16_Player:Josh_Dunkley__Round:17_Player:Rory_Lobb
-1.0
-player_contraints_Round:16_Player:Jye_Caldwell
-1.0
-player_contraints_Round:16_Player:Jye_Caldwell__Round:17_Player:Tim_Kelly
-1.0
-player_contraints_Round:16_Player:Kyle_Langford
-1.0
-player_contraints_Round:16_Player:Kyle_Langford__Round:17_Player:Alex_Sexton
-1.0
-player_contraints_Round:16_Player:Lachie_Whitfield
-1.0
-player_contraints_Round:16_Player:Lachie_Whitfield__Round:17_Player:Mark_Blicavs
-1.0
-player_contraints_Round:16_Player:Matt_Crouch
-1.0
-player_contraints_Round:16_Player:Matt_Crouch__Round:17_Player:Lachlan_Sholl
-1.0
-player_contraints_Round:16_Player:Nicholas_Coffield
-1.0
-player_contraints_Round:16_Player:Nicholas_Coffield__Round:17_Player:Stephen_Hill
-1.0
-player_contraints_Round:16_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:16_Player:Patrick_Dangerfield__Round:17_Player:Marcus_Bontempelli
-1.0
-player_contraints_Round:16_Player:Rory_Laird
-1.0
-player_contraints_Round:16_Player:Rory_Laird__Round:17_Player:Tom_Rockliff
-1.0
-player_contraints_Round:16_Player:Rowan_Marshall
-1.0
-player_contraints_Round:16_Player:Rowan_Marshall__Round:17_Player:Josh_Dunkley
-1.0
-player_contraints_Round:16_Player:Ryley_Stoddart
-1.0
-player_contraints_Round:16_Player:Ryley_Stoddart__Round:17_Player:Daniel_Rich
-1.0
-player_contraints_Round:16_Player:Sam_Jacobs
-1.0
-player_contraints_Round:16_Player:Sam_Jacobs__Round:17_Player:Esava_Ratugolea
-1.0
-player_contraints_Round:16_Player:Sam_Menegola
-1.0
-player_contraints_Round:16_Player:Sam_Menegola__Round:17_Player:Michael_Walters
-1.0
-player_contraints_Round:16_Player:Sam_Petrevski_Seton
-1.0
-player_contraints_Round:16_Player:Sam_Petrevski_Seton__Round:17_Player:Bryce_Gibbs
-1.0
-player_contraints_Round:16_Player:Sam_Powell_Pepper
-1.0
-player_contraints_Round:16_Player:Sam_Powell_Pepper__Round:17_Player:Josh_Kennedy
-1.0
-player_contraints_Round:16_Player:Sam_Walsh
-1.0
-player_contraints_Round:16_Player:Sam_Walsh__Round:17_Player:Dustin_Martin
-1.0
-player_contraints_Round:16_Player:Tom_De_Koning
-1.0
-player_contraints_Round:16_Player:Tom_De_Koning__Round:17_Player:Patrick_Ryder
-1.0
-player_contraints_Round:17_Player:Alex_Sexton
-1.0
-player_contraints_Round:17_Player:Alex_Sexton__Round:18_Player:David_Cuningham
-1.0
-player_contraints_Round:17_Player:Bryce_Gibbs
-1.0
-player_contraints_Round:17_Player:Bryce_Gibbs__Round:18_Player:Christian_Salem
-1.0
-player_contraints_Round:17_Player:Caleb_Daniel
-1.0
-player_contraints_Round:17_Player:Caleb_Daniel__Round:18_Player:Brodie_Smith
-1.0
-player_contraints_Round:17_Player:Daniel_Rich
-1.0
-player_contraints_Round:17_Player:Daniel_Rich__Round:18_Player:Adam_Tomlinson
-1.0
-player_contraints_Round:17_Player:Dustin_Martin
-1.0
-player_contraints_Round:17_Player:Dustin_Martin__Round:18_Player:Rory_Laird
-1.0
-player_contraints_Round:17_Player:Esava_Ratugolea
-1.0
-player_contraints_Round:17_Player:Esava_Ratugolea__Round:18_Player:Reilly_O'Brien
-1.0
-player_contraints_Round:17_Player:Harry_Schoenberg
-1.0
-player_contraints_Round:17_Player:Harry_Schoenberg__Round:18_Player:Rory_Lobb
-1.0
-player_contraints_Round:17_Player:Josh_Dunkley
-1.0
-player_contraints_Round:17_Player:Josh_Dunkley__Round:18_Player:Zachary_Merrett
-1.0
-player_contraints_Round:17_Player:Josh_Kennedy
-1.0
-player_contraints_Round:17_Player:Josh_Kennedy__Round:18_Player:Jack_Newnes
-1.0
-player_contraints_Round:17_Player:Lachlan_Sholl
-1.0
-player_contraints_Round:17_Player:Lachlan_Sholl__Round:18_Player:Luke_Ryan
-1.0
-player_contraints_Round:17_Player:Marcus_Bontempelli
-1.0
-player_contraints_Round:17_Player:Marcus_Bontempelli__Round:18_Player:Kyle_Langford
-1.0
-player_contraints_Round:17_Player:Mark_Blicavs
-1.0
-player_contraints_Round:17_Player:Mark_Blicavs__Round:18_Player:Lachie_Whitfield
-1.0
-player_contraints_Round:17_Player:Michael_Walters
-1.0
-player_contraints_Round:17_Player:Michael_Walters__Round:18_Player:Ed_Langdon
-1.0
-player_contraints_Round:17_Player:Patrick_Ryder
-1.0
-player_contraints_Round:17_Player:Patrick_Ryder__Round:18_Player:Keegan_Brooksby
-1.0
-player_contraints_Round:17_Player:Rory_Laird
-1.0
-player_contraints_Round:17_Player:Rory_Laird__Round:18_Player:Tom_Mitchell
-1.0
-player_contraints_Round:17_Player:Rory_Lobb
-1.0
-player_contraints_Round:17_Player:Rory_Lobb__Round:18_Player:Jack_Gunston
-1.0
-player_contraints_Round:17_Player:Stephen_Hill
-1.0
-player_contraints_Round:17_Player:Stephen_Hill__Round:18_Player:Jake_Lever
-1.0
-player_contraints_Round:17_Player:Taylor_Duryea
-1.0
-player_contraints_Round:17_Player:Taylor_Duryea__Round:18_Player:Dylan_Moore
-1.0
-player_contraints_Round:17_Player:Tim_Kelly
-1.0
-player_contraints_Round:17_Player:Tim_Kelly__Round:18_Player:Lachlan_Sholl
-1.0
-player_contraints_Round:17_Player:Tom_Atkins
-1.0
-player_contraints_Round:17_Player:Tom_Atkins__Round:18_Player:Mitchell_Brown
-1.0
-player_contraints_Round:17_Player:Tom_Rockliff
-1.0
-player_contraints_Round:17_Player:Tom_Rockliff__Round:18_Player:Matthew_Kennedy
-1.0
-player_contraints_Round:18_Player:Adam_Tomlinson
-1.0
-player_contraints_Round:18_Player:Brodie_Smith
-1.0
-player_contraints_Round:18_Player:Christian_Salem
-1.0
-player_contraints_Round:18_Player:David_Cuningham
-1.0
-player_contraints_Round:18_Player:Dylan_Moore
-1.0
-player_contraints_Round:18_Player:Ed_Langdon
-1.0
-player_contraints_Round:18_Player:Jack_Gunston
-1.0
-player_contraints_Round:18_Player:Jack_Newnes
-1.0
-player_contraints_Round:18_Player:Jake_Lever
-1.0
-player_contraints_Round:18_Player:Keegan_Brooksby
-1.0
-player_contraints_Round:18_Player:Kyle_Langford
-1.0
-player_contraints_Round:18_Player:Lachie_Whitfield
-1.0
-player_contraints_Round:18_Player:Lachlan_Sholl
-1.0
-player_contraints_Round:18_Player:Luke_Ryan
-1.0
-player_contraints_Round:18_Player:Matthew_Kennedy
-1.0
-player_contraints_Round:18_Player:Mitchell_Brown
-1.0
-player_contraints_Round:18_Player:Reilly_O'Brien
-1.0
-player_contraints_Round:18_Player:Rory_Laird
-1.0
-player_contraints_Round:18_Player:Rory_Lobb
-1.0
-player_contraints_Round:18_Player:Tom_Mitchell
-1.0
-player_contraints_Round:18_Player:Zachary_Merrett
-1.0
-player_contraints_Round:1_Player:Adam_Saad
-1.0
-player_contraints_Round:1_Player:Adam_Saad__Round:2_Player:Jordan_Clark
-1.0
-player_contraints_Round:1_Player:Alex_Keath
-1.0
-player_contraints_Round:1_Player:Alex_Keath__Round:2_Player:Hunter_Clark
-1.0
-player_contraints_Round:1_Player:Ben_Cunnington
-1.0
-player_contraints_Round:1_Player:Ben_Cunnington__Round:2_Player:Josh_Dunkley
-1.0
-player_contraints_Round:1_Player:Brett_Bewley
-1.0
-player_contraints_Round:1_Player:Brett_Bewley__Round:2_Player:Steven_Motlop
-1.0
-player_contraints_Round:1_Player:Brodie_Grundy
-1.0
-player_contraints_Round:1_Player:Brodie_Grundy__Round:2_Player:Todd_Goldstein
-1.0
-player_contraints_Round:1_Player:Dustin_Martin
-1.0
-player_contraints_Round:1_Player:Dustin_Martin__Round:2_Player:Adam_Tomlinson
-1.0
-player_contraints_Round:1_Player:Dylan_Shiel
-1.0
-player_contraints_Round:1_Player:Dylan_Shiel__Round:2_Player:Michael_Walters
-1.0
-player_contraints_Round:1_Player:Isaac_Smith
-1.0
-player_contraints_Round:1_Player:Isaac_Smith__Round:2_Player:Rowan_Marshall
-1.0
-player_contraints_Round:1_Player:Jack_Viney
-1.0
-player_contraints_Round:1_Player:Jack_Viney__Round:2_Player:Kyle_Langford
-1.0
-player_contraints_Round:1_Player:Jeremy_Howe
-1.0
-player_contraints_Round:1_Player:Jeremy_Howe__Round:2_Player:Jake_Lloyd
-1.0
-player_contraints_Round:1_Player:Kyle_Langford
-1.0
-player_contraints_Round:1_Player:Kyle_Langford__Round:2_Player:Matt_Rowell
-1.0
-player_contraints_Round:1_Player:Lewis_Jetta
-1.0
-player_contraints_Round:1_Player:Lewis_Jetta__Round:2_Player:Bachar_Houli
-1.0
-player_contraints_Round:1_Player:Luke_Shuey
-1.0
-player_contraints_Round:1_Player:Luke_Shuey__Round:2_Player:Justin_Westhoff
-1.0
-player_contraints_Round:1_Player:Mason_Redman
-1.0
-player_contraints_Round:1_Player:Mason_Redman__Round:2_Player:Tom_Clurey
-1.0
-player_contraints_Round:1_Player:Rory_Lobb
-1.0
-player_contraints_Round:1_Player:Rory_Lobb__Round:2_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:1_Player:Sam_Jacobs
-1.0
-player_contraints_Round:1_Player:Sam_Jacobs__Round:2_Player:Callum_Sinclair
-1.0
-player_contraints_Round:1_Player:Shai_Bolton
-1.0
-player_contraints_Round:1_Player:Shai_Bolton__Round:2_Player:Zak_Butters
-1.0
-player_contraints_Round:1_Player:Shannon_Hurn
-1.0
-player_contraints_Round:1_Player:Shannon_Hurn__Round:2_Player:Dane_Rampe
-1.0
-player_contraints_Round:1_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:1_Player:Steele_Sidebottom__Round:2_Player:Sebastian_Ross
-1.0
-player_contraints_Round:1_Player:Taylor_Duryea
-1.0
-player_contraints_Round:1_Player:Taylor_Duryea__Round:2_Player:Tom_Phillips
-1.0
-player_contraints_Round:1_Player:Tom_Barrass
-1.0
-player_contraints_Round:1_Player:Tom_Barrass__Round:2_Player:Brandon_Starcevich
-1.0
-player_contraints_Round:2_Player:Adam_Tomlinson
-1.0
-player_contraints_Round:2_Player:Adam_Tomlinson__Round:3_Player:Sam_Docherty
-1.0
-player_contraints_Round:2_Player:Bachar_Houli
-1.0
-player_contraints_Round:2_Player:Bachar_Houli__Round:3_Player:Aidan_Corr
-1.0
-player_contraints_Round:2_Player:Brandon_Starcevich
-1.0
-player_contraints_Round:2_Player:Brandon_Starcevich__Round:3_Player:Tom_Doedee
-1.0
-player_contraints_Round:2_Player:Callum_Sinclair
-1.0
-player_contraints_Round:2_Player:Callum_Sinclair__Round:3_Player:Nicholas_Naitanui
-1.0
-player_contraints_Round:2_Player:Dane_Rampe
-1.0
-player_contraints_Round:2_Player:Dane_Rampe__Round:3_Player:Brayden_Maynard
-1.0
-player_contraints_Round:2_Player:Hunter_Clark
-1.0
-player_contraints_Round:2_Player:Hunter_Clark__Round:3_Player:Sam_Taylor
-1.0
-player_contraints_Round:2_Player:Jake_Lloyd
-1.0
-player_contraints_Round:2_Player:Jake_Lloyd__Round:3_Player:Jake_Carlisle
-1.0
-player_contraints_Round:2_Player:Jordan_Clark
-1.0
-player_contraints_Round:2_Player:Jordan_Clark__Round:3_Player:Jye_Caldwell
-1.0
-player_contraints_Round:2_Player:Josh_Dunkley
-1.0
-player_contraints_Round:2_Player:Josh_Dunkley__Round:3_Player:Lachie_Neale
-1.0
-player_contraints_Round:2_Player:Justin_Westhoff
-1.0
-player_contraints_Round:2_Player:Justin_Westhoff__Round:3_Player:Hugh_McCluggage
-1.0
-player_contraints_Round:2_Player:Kyle_Langford
-1.0
-player_contraints_Round:2_Player:Kyle_Langford__Round:3_Player:Matt_Rowell
-1.0
-player_contraints_Round:2_Player:Matt_Rowell
-1.0
-player_contraints_Round:2_Player:Matt_Rowell__Round:3_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:2_Player:Michael_Walters
-1.0
-player_contraints_Round:2_Player:Michael_Walters__Round:3_Player:Josh_Jenkins
-1.0
-player_contraints_Round:2_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:2_Player:Patrick_Dangerfield__Round:3_Player:Taylor_Duryea
-1.0
-player_contraints_Round:2_Player:Rowan_Marshall
-1.0
-player_contraints_Round:2_Player:Rowan_Marshall__Round:3_Player:Jarrod_Brander
-1.0
-player_contraints_Round:2_Player:Sebastian_Ross
-1.0
-player_contraints_Round:2_Player:Sebastian_Ross__Round:3_Player:Jamie_Elliott
-1.0
-player_contraints_Round:2_Player:Steven_Motlop
-1.0
-player_contraints_Round:2_Player:Steven_Motlop__Round:3_Player:Isaac_Smith
-1.0
-player_contraints_Round:2_Player:Todd_Goldstein
-1.0
-player_contraints_Round:2_Player:Todd_Goldstein__Round:3_Player:Todd_Goldstein
-1.0
-player_contraints_Round:2_Player:Tom_Clurey
-1.0
-player_contraints_Round:2_Player:Tom_Clurey__Round:3_Player:Rory_Laird
-1.0
-player_contraints_Round:2_Player:Tom_Phillips
-1.0
-player_contraints_Round:2_Player:Tom_Phillips__Round:3_Player:Aaron_Hall
-1.0
-player_contraints_Round:2_Player:Zak_Butters
-1.0
-player_contraints_Round:2_Player:Zak_Butters__Round:3_Player:Justin_Westhoff
-1.0
-player_contraints_Round:3_Player:Aaron_Hall
-1.0
-player_contraints_Round:3_Player:Aaron_Hall__Round:4_Player:Charlie_Dixon
-1.0
-player_contraints_Round:3_Player:Aidan_Corr
-1.0
-player_contraints_Round:3_Player:Aidan_Corr__Round:4_Player:Brodie_Smith
-1.0
-player_contraints_Round:3_Player:Brayden_Maynard
-1.0
-player_contraints_Round:3_Player:Brayden_Maynard__Round:4_Player:Jasper_Pittard
-1.0
-player_contraints_Round:3_Player:Hugh_McCluggage
-1.0
-player_contraints_Round:3_Player:Hugh_McCluggage__Round:4_Player:Jarrod_Berry
-1.0
-player_contraints_Round:3_Player:Isaac_Smith
-1.0
-player_contraints_Round:3_Player:Isaac_Smith__Round:4_Player:Lachie_Neale
-1.0
-player_contraints_Round:3_Player:Jake_Carlisle
-1.0
-player_contraints_Round:3_Player:Jake_Carlisle__Round:4_Player:Mark_O'Connor
-1.0
-player_contraints_Round:3_Player:Jamie_Elliott
-1.0
-player_contraints_Round:3_Player:Jamie_Elliott__Round:4_Player:Taylor_Duryea
-1.0
-player_contraints_Round:3_Player:Jarrod_Brander
-1.0
-player_contraints_Round:3_Player:Jarrod_Brander__Round:4_Player:Adam_Tomlinson
-1.0
-player_contraints_Round:3_Player:Josh_Jenkins
-1.0
-player_contraints_Round:3_Player:Josh_Jenkins__Round:4_Player:Justin_Westhoff
-1.0
-player_contraints_Round:3_Player:Justin_Westhoff
-1.0
-player_contraints_Round:3_Player:Justin_Westhoff__Round:4_Player:David_Cuningham
-1.0
-player_contraints_Round:3_Player:Jye_Caldwell
-1.0
-player_contraints_Round:3_Player:Jye_Caldwell__Round:4_Player:Michael_Gibbons
-1.0
-player_contraints_Round:3_Player:Lachie_Neale
-1.0
-player_contraints_Round:3_Player:Lachie_Neale__Round:4_Player:Hugh_McCluggage
-1.0
-player_contraints_Round:3_Player:Matt_Rowell
-1.0
-player_contraints_Round:3_Player:Matt_Rowell__Round:4_Player:Michael_Walters
-1.0
-player_contraints_Round:3_Player:Nicholas_Naitanui
-1.0
-player_contraints_Round:3_Player:Nicholas_Naitanui__Round:4_Player:Brodie_Grundy
-1.0
-player_contraints_Round:3_Player:Rory_Laird
-1.0
-player_contraints_Round:3_Player:Rory_Laird__Round:4_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:3_Player:Sam_Docherty
-1.0
-player_contraints_Round:3_Player:Sam_Docherty__Round:4_Player:Hayden_Young
-1.0
-player_contraints_Round:3_Player:Sam_Taylor
-1.0
-player_contraints_Round:3_Player:Sam_Taylor__Round:4_Player:Sam_Docherty
-1.0
-player_contraints_Round:3_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:3_Player:Steele_Sidebottom__Round:4_Player:Rowan_Marshall
-1.0
-player_contraints_Round:3_Player:Taylor_Duryea
-1.0
-player_contraints_Round:3_Player:Taylor_Duryea__Round:4_Player:Josh_Battle
-1.0
-player_contraints_Round:3_Player:Todd_Goldstein
-1.0
-player_contraints_Round:3_Player:Todd_Goldstein__Round:4_Player:Toby_Nankervis
-1.0
-player_contraints_Round:3_Player:Tom_Doedee
-1.0
-player_contraints_Round:3_Player:Tom_Doedee__Round:4_Player:Mark_Blicavs
-1.0
-player_contraints_Round:4_Player:Adam_Tomlinson
-1.0
-player_contraints_Round:4_Player:Adam_Tomlinson__Round:5_Player:Ben_McEvoy
-1.0
-player_contraints_Round:4_Player:Brodie_Grundy
-1.0
-player_contraints_Round:4_Player:Brodie_Grundy__Round:5_Player:Rowan_Marshall
-1.0
-player_contraints_Round:4_Player:Brodie_Smith
-1.0
-player_contraints_Round:4_Player:Brodie_Smith__Round:5_Player:Nick_Blakey
-1.0
-player_contraints_Round:4_Player:Charlie_Dixon
-1.0
-player_contraints_Round:4_Player:Charlie_Dixon__Round:5_Player:Jack_Steven
-1.0
-player_contraints_Round:4_Player:David_Cuningham
-1.0
-player_contraints_Round:4_Player:David_Cuningham__Round:5_Player:Jake_Stringer
-1.0
-player_contraints_Round:4_Player:Hayden_Young
-1.0
-player_contraints_Round:4_Player:Hayden_Young__Round:5_Player:Heath_Shaw
-1.0
-player_contraints_Round:4_Player:Hugh_McCluggage
-1.0
-player_contraints_Round:4_Player:Hugh_McCluggage__Round:5_Player:Dominic_Sheed
-1.0
-player_contraints_Round:4_Player:Jarrod_Berry
-1.0
-player_contraints_Round:4_Player:Jarrod_Berry__Round:5_Player:Harry_Perryman
-1.0
-player_contraints_Round:4_Player:Jasper_Pittard
-1.0
-player_contraints_Round:4_Player:Jasper_Pittard__Round:5_Player:Nick_Haynes
-1.0
-player_contraints_Round:4_Player:Josh_Battle
-1.0
-player_contraints_Round:4_Player:Josh_Battle__Round:5_Player:Josh_Bruce
-1.0
-player_contraints_Round:4_Player:Justin_Westhoff
-1.0
-player_contraints_Round:4_Player:Justin_Westhoff__Round:5_Player:Harrison_Himmelberg
-1.0
-player_contraints_Round:4_Player:Lachie_Neale
-1.0
-player_contraints_Round:4_Player:Lachie_Neale__Round:5_Player:Joshua_Kelly
-1.0
-player_contraints_Round:4_Player:Mark_Blicavs
-1.0
-player_contraints_Round:4_Player:Mark_Blicavs__Round:5_Player:Bradley_Sheppard
-1.0
-player_contraints_Round:4_Player:Mark_O'Connor
-1.0
-player_contraints_Round:4_Player:Mark_O'Connor__Round:5_Player:Rory_Laird
-1.0
-player_contraints_Round:4_Player:Michael_Gibbons
-1.0
-player_contraints_Round:4_Player:Michael_Gibbons__Round:5_Player:Taylor_Duryea
-1.0
-player_contraints_Round:4_Player:Michael_Walters
-1.0
-player_contraints_Round:4_Player:Michael_Walters__Round:5_Player:Brodie_Smith
-1.0
-player_contraints_Round:4_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:4_Player:Patrick_Dangerfield__Round:5_Player:Hugh_Greenwood
-1.0
-player_contraints_Round:4_Player:Rowan_Marshall
-1.0
-player_contraints_Round:4_Player:Rowan_Marshall__Round:5_Player:Laitham_Vandermeer
-1.0
-player_contraints_Round:4_Player:Sam_Docherty
-1.0
-player_contraints_Round:4_Player:Sam_Docherty__Round:5_Player:Jordan_Clark
-1.0
-player_contraints_Round:4_Player:Taylor_Duryea
-1.0
-player_contraints_Round:4_Player:Taylor_Duryea__Round:5_Player:Kane_Lambert
-1.0
-player_contraints_Round:4_Player:Toby_Nankervis
-1.0
-player_contraints_Round:4_Player:Toby_Nankervis__Round:5_Player:Max_Gawn
-1.0
-player_contraints_Round:5_Player:Ben_McEvoy
-1.0
-player_contraints_Round:5_Player:Ben_McEvoy__Round:6_Player:Thomas_Jonas
-1.0
-player_contraints_Round:5_Player:Bradley_Sheppard
-1.0
-player_contraints_Round:5_Player:Bradley_Sheppard__Round:6_Player:Jayden_Short
-1.0
-player_contraints_Round:5_Player:Brodie_Smith
-1.0
-player_contraints_Round:5_Player:Brodie_Smith__Round:6_Player:Jeremy_McGovern
-1.0
-player_contraints_Round:5_Player:Dominic_Sheed
-1.0
-player_contraints_Round:5_Player:Dominic_Sheed__Round:6_Player:Michael_Walters
-1.0
-player_contraints_Round:5_Player:Harrison_Himmelberg
-1.0
-player_contraints_Round:5_Player:Harrison_Himmelberg__Round:6_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:5_Player:Harry_Perryman
-1.0
-player_contraints_Round:5_Player:Harry_Perryman__Round:6_Player:Bailey_Smith
-1.0
-player_contraints_Round:5_Player:Heath_Shaw
-1.0
-player_contraints_Round:5_Player:Heath_Shaw__Round:6_Player:Callum_Mills
-1.0
-player_contraints_Round:5_Player:Hugh_Greenwood
-1.0
-player_contraints_Round:5_Player:Hugh_Greenwood__Round:6_Player:Harry_Morrison
-1.0
-player_contraints_Round:5_Player:Jack_Steven
-1.0
-player_contraints_Round:5_Player:Jack_Steven__Round:6_Player:Sam_Simpson
-1.0
-player_contraints_Round:5_Player:Jake_Stringer
-1.0
-player_contraints_Round:5_Player:Jake_Stringer__Round:6_Player:Isaac_Smith
-1.0
-player_contraints_Round:5_Player:Jordan_Clark
-1.0
-player_contraints_Round:5_Player:Jordan_Clark__Round:6_Player:Hugh_Greenwood
-1.0
-player_contraints_Round:5_Player:Josh_Bruce
-1.0
-player_contraints_Round:5_Player:Josh_Bruce__Round:6_Player:Rory_Lobb
-1.0
-player_contraints_Round:5_Player:Joshua_Kelly
-1.0
-player_contraints_Round:5_Player:Joshua_Kelly__Round:6_Player:Kane_Farrell
-1.0
-player_contraints_Round:5_Player:Kane_Lambert
-1.0
-player_contraints_Round:5_Player:Kane_Lambert__Round:6_Player:Laitham_Vandermeer
-1.0
-player_contraints_Round:5_Player:Laitham_Vandermeer
-1.0
-player_contraints_Round:5_Player:Laitham_Vandermeer__Round:6_Player:Kane_Lambert
-1.0
-player_contraints_Round:5_Player:Max_Gawn
-1.0
-player_contraints_Round:5_Player:Max_Gawn__Round:6_Player:Todd_Goldstein
-1.0
-player_contraints_Round:5_Player:Nick_Blakey
-1.0
-player_contraints_Round:5_Player:Nick_Blakey__Round:6_Player:Brodie_Smith
-1.0
-player_contraints_Round:5_Player:Nick_Haynes
-1.0
-player_contraints_Round:5_Player:Nick_Haynes__Round:6_Player:Tom_Doedee
-1.0
-player_contraints_Round:5_Player:Rory_Laird
-1.0
-player_contraints_Round:5_Player:Rory_Laird__Round:6_Player:James_Sicily
-1.0
-player_contraints_Round:5_Player:Rowan_Marshall
-1.0
-player_contraints_Round:5_Player:Rowan_Marshall__Round:6_Player:Reilly_O'Brien
-1.0
-player_contraints_Round:5_Player:Taylor_Duryea
-1.0
-player_contraints_Round:5_Player:Taylor_Duryea__Round:6_Player:Eddie_Betts
-1.0
-player_contraints_Round:6_Player:Bailey_Smith
-1.0
-player_contraints_Round:6_Player:Bailey_Smith__Round:7_Player:Dayne_Zorko
-1.0
-player_contraints_Round:6_Player:Brodie_Smith
-1.0
-player_contraints_Round:6_Player:Brodie_Smith__Round:7_Player:Tom_Doedee
-1.0
-player_contraints_Round:6_Player:Callum_Mills
-1.0
-player_contraints_Round:6_Player:Callum_Mills__Round:7_Player:Ryan_Burton
-1.0
-player_contraints_Round:6_Player:Eddie_Betts
-1.0
-player_contraints_Round:6_Player:Eddie_Betts__Round:7_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:6_Player:Harry_Morrison
-1.0
-player_contraints_Round:6_Player:Harry_Morrison__Round:7_Player:Adam_Treloar
-1.0
-player_contraints_Round:6_Player:Hugh_Greenwood
-1.0
-player_contraints_Round:6_Player:Hugh_Greenwood__Round:7_Player:Hugh_Greenwood
-1.0
-player_contraints_Round:6_Player:Isaac_Smith
-1.0
-player_contraints_Round:6_Player:Isaac_Smith__Round:7_Player:Peter_Ladhams
-1.0
-player_contraints_Round:6_Player:James_Sicily
-1.0
-player_contraints_Round:6_Player:James_Sicily__Round:7_Player:Derek_Eggmolesse_Smith
-1.0
-player_contraints_Round:6_Player:Jayden_Short
-1.0
-player_contraints_Round:6_Player:Jayden_Short__Round:7_Player:Daniel_Talia
-1.0
-player_contraints_Round:6_Player:Jeremy_McGovern
-1.0
-player_contraints_Round:6_Player:Jeremy_McGovern__Round:7_Player:Jackson_Nelson
-1.0
-player_contraints_Round:6_Player:Kane_Farrell
-1.0
-player_contraints_Round:6_Player:Kane_Farrell__Round:7_Player:Clayton_Oliver
-1.0
-player_contraints_Round:6_Player:Kane_Lambert
-1.0
-player_contraints_Round:6_Player:Kane_Lambert__Round:7_Player:Zac_Bailey
-1.0
-player_contraints_Round:6_Player:Laitham_Vandermeer
-1.0
-player_contraints_Round:6_Player:Laitham_Vandermeer__Round:7_Player:Taylor_Duryea
-1.0
-player_contraints_Round:6_Player:Michael_Walters
-1.0
-player_contraints_Round:6_Player:Michael_Walters__Round:7_Player:Shaun_Higgins
-1.0
-player_contraints_Round:6_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:6_Player:Patrick_Dangerfield__Round:7_Player:Jordan_De_Goey
-1.0
-player_contraints_Round:6_Player:Reilly_O'Brien
-1.0
-player_contraints_Round:6_Player:Reilly_O'Brien__Round:7_Player:Timothy_English
-1.0
-player_contraints_Round:6_Player:Rory_Lobb
-1.0
-player_contraints_Round:6_Player:Rory_Lobb__Round:7_Player:Tom_Phillips
-1.0
-player_contraints_Round:6_Player:Sam_Simpson
-1.0
-player_contraints_Round:6_Player:Sam_Simpson__Round:7_Player:Michael_Walters
-1.0
-player_contraints_Round:6_Player:Thomas_Jonas
-1.0
-player_contraints_Round:6_Player:Thomas_Jonas__Round:7_Player:Thomas_Jonas
-1.0
-player_contraints_Round:6_Player:Todd_Goldstein
-1.0
-player_contraints_Round:6_Player:Todd_Goldstein__Round:7_Player:Rory_Lobb
-1.0
-player_contraints_Round:6_Player:Tom_Doedee
-1.0
-player_contraints_Round:6_Player:Tom_Doedee__Round:7_Player:Dylan_Grimes
-1.0
-player_contraints_Round:7_Player:Adam_Treloar
-1.0
-player_contraints_Round:7_Player:Adam_Treloar__Round:8_Player:Zac_Bailey
-1.0
-player_contraints_Round:7_Player:Clayton_Oliver
-1.0
-player_contraints_Round:7_Player:Clayton_Oliver__Round:8_Player:Dayne_Zorko
-1.0
-player_contraints_Round:7_Player:Daniel_Talia
-1.0
-player_contraints_Round:7_Player:Daniel_Talia__Round:8_Player:Will_Hamill
-1.0
-player_contraints_Round:7_Player:Dayne_Zorko
-1.0
-player_contraints_Round:7_Player:Dayne_Zorko__Round:8_Player:Andrew_McGrath
-1.0
-player_contraints_Round:7_Player:Derek_Eggmolesse_Smith
-1.0
-player_contraints_Round:7_Player:Derek_Eggmolesse_Smith__Round:8_Player:Lachlan_Plowman
-1.0
-player_contraints_Round:7_Player:Dylan_Grimes
-1.0
-player_contraints_Round:7_Player:Dylan_Grimes__Round:8_Player:Brodie_Smith
-1.0
-player_contraints_Round:7_Player:Hugh_Greenwood
-1.0
-player_contraints_Round:7_Player:Hugh_Greenwood__Round:8_Player:Matthew_Kennedy
-1.0
-player_contraints_Round:7_Player:Jackson_Nelson
-1.0
-player_contraints_Round:7_Player:Jackson_Nelson__Round:8_Player:Mark_Blicavs
-1.0
-player_contraints_Round:7_Player:Jordan_De_Goey
-1.0
-player_contraints_Round:7_Player:Jordan_De_Goey__Round:8_Player:Dustin_Martin
-1.0
-player_contraints_Round:7_Player:Michael_Walters
-1.0
-player_contraints_Round:7_Player:Michael_Walters__Round:8_Player:Paul_Seedsman
-1.0
-player_contraints_Round:7_Player:Patrick_Dangerfield
-1.0
-player_contraints_Round:7_Player:Patrick_Dangerfield__Round:8_Player:Will_Snelling
-1.0
-player_contraints_Round:7_Player:Peter_Ladhams
-1.0
-player_contraints_Round:7_Player:Peter_Ladhams__Round:8_Player:Michael_Walters
-1.0
-player_contraints_Round:7_Player:Rory_Lobb
-1.0
-player_contraints_Round:7_Player:Rory_Lobb__Round:8_Player:Tom_Bellchambers
-1.0
-player_contraints_Round:7_Player:Ryan_Burton
-1.0
-player_contraints_Round:7_Player:Ryan_Burton__Round:8_Player:Harry_Taylor
-1.0
-player_contraints_Round:7_Player:Shaun_Higgins
-1.0
-player_contraints_Round:7_Player:Shaun_Higgins__Round:8_Player:Zachary_Merrett
-1.0
-player_contraints_Round:7_Player:Taylor_Duryea
-1.0
-player_contraints_Round:7_Player:Taylor_Duryea__Round:8_Player:Toby_Greene
-1.0
-player_contraints_Round:7_Player:Thomas_Jonas
-1.0
-player_contraints_Round:7_Player:Thomas_Jonas__Round:8_Player:James_Sicily
-1.0
-player_contraints_Round:7_Player:Timothy_English
-1.0
-player_contraints_Round:7_Player:Timothy_English__Round:8_Player:Jarrod_Witts
-1.0
-player_contraints_Round:7_Player:Tom_Doedee
-1.0
-player_contraints_Round:7_Player:Tom_Doedee__Round:8_Player:Jake_Lloyd
-1.0
-player_contraints_Round:7_Player:Tom_Phillips
-1.0
-player_contraints_Round:7_Player:Tom_Phillips__Round:8_Player:Rowan_Marshall
-1.0
-player_contraints_Round:7_Player:Zac_Bailey
-1.0
-player_contraints_Round:7_Player:Zac_Bailey__Round:8_Player:Joshua_Kennedy
-1.0
-player_contraints_Round:8_Player:Andrew_McGrath
-1.0
-player_contraints_Round:8_Player:Andrew_McGrath__Round:9_Player:David_Mundy
-1.0
-player_contraints_Round:8_Player:Brodie_Smith
-1.0
-player_contraints_Round:8_Player:Brodie_Smith__Round:9_Player:Lachie_Whitfield
-1.0
-player_contraints_Round:8_Player:Dayne_Zorko
-1.0
-player_contraints_Round:8_Player:Dayne_Zorko__Round:9_Player:Jacob_Hopper
-1.0
-player_contraints_Round:8_Player:Dustin_Martin
-1.0
-player_contraints_Round:8_Player:Dustin_Martin__Round:9_Player:Rory_Laird
-1.0
-player_contraints_Round:8_Player:Harry_Taylor
-1.0
-player_contraints_Round:8_Player:Harry_Taylor__Round:9_Player:Ben_McKay
-1.0
-player_contraints_Round:8_Player:Jake_Lloyd
-1.0
-player_contraints_Round:8_Player:Jake_Lloyd__Round:9_Player:Luke_McDonald
-1.0
-player_contraints_Round:8_Player:James_Sicily
-1.0
-player_contraints_Round:8_Player:James_Sicily__Round:9_Player:Luke_Ryan
-1.0
-player_contraints_Round:8_Player:Jarrod_Witts
-1.0
-player_contraints_Round:8_Player:Jarrod_Witts__Round:9_Player:Rowan_Marshall
-1.0
-player_contraints_Round:8_Player:Joshua_Kennedy
-1.0
-player_contraints_Round:8_Player:Joshua_Kennedy__Round:9_Player:Jack_Mahony
-1.0
-player_contraints_Round:8_Player:Lachlan_Plowman
-1.0
-player_contraints_Round:8_Player:Lachlan_Plowman__Round:9_Player:John_Noble
-1.0
-player_contraints_Round:8_Player:Mark_Blicavs
-1.0
-player_contraints_Round:8_Player:Mark_Blicavs__Round:9_Player:Dustin_Martin
-1.0
-player_contraints_Round:8_Player:Matthew_Kennedy
-1.0
-player_contraints_Round:8_Player:Matthew_Kennedy__Round:9_Player:Nick_Hind
-1.0
-player_contraints_Round:8_Player:Michael_Walters
-1.0
-player_contraints_Round:8_Player:Michael_Walters__Round:9_Player:Aaron_Hall
-1.0
-player_contraints_Round:8_Player:Paul_Seedsman
-1.0
-player_contraints_Round:8_Player:Paul_Seedsman__Round:9_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:8_Player:Rowan_Marshall
-1.0
-player_contraints_Round:8_Player:Rowan_Marshall__Round:9_Player:Dayne_Zorko
-1.0
-player_contraints_Round:8_Player:Toby_Greene
-1.0
-player_contraints_Round:8_Player:Toby_Greene__Round:9_Player:Zac_Bailey
-1.0
-player_contraints_Round:8_Player:Tom_Bellchambers
-1.0
-player_contraints_Round:8_Player:Tom_Bellchambers__Round:9_Player:Braydon_Preuss
-1.0
-player_contraints_Round:8_Player:Will_Hamill
-1.0
-player_contraints_Round:8_Player:Will_Hamill__Round:9_Player:Sam_Mayes
-1.0
-player_contraints_Round:8_Player:Will_Snelling
-1.0
-player_contraints_Round:8_Player:Will_Snelling__Round:9_Player:Esava_Ratugolea
-1.0
-player_contraints_Round:8_Player:Zac_Bailey
-1.0
-player_contraints_Round:8_Player:Zac_Bailey__Round:9_Player:Mark_Blicavs
-1.0
-player_contraints_Round:8_Player:Zachary_Merrett
-1.0
-player_contraints_Round:8_Player:Zachary_Merrett__Round:9_Player:Jed_Anderson
-1.0
-player_contraints_Round:9_Player:Aaron_Hall
-1.0
-player_contraints_Round:9_Player:Aaron_Hall__Round:10_Player:Sam_Powell_Pepper
-1.0
-player_contraints_Round:9_Player:Ben_McKay
-1.0
-player_contraints_Round:9_Player:Ben_McKay__Round:10_Player:Brandon_Zerk_Thatcher
-1.0
-player_contraints_Round:9_Player:Braydon_Preuss
-1.0
-player_contraints_Round:9_Player:Braydon_Preuss__Round:10_Player:Callum_Sinclair
-1.0
-player_contraints_Round:9_Player:David_Mundy
-1.0
-player_contraints_Round:9_Player:David_Mundy__Round:10_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:9_Player:Dayne_Zorko
-1.0
-player_contraints_Round:9_Player:Dayne_Zorko__Round:10_Player:Rowan_Marshall
-1.0
-player_contraints_Round:9_Player:Dustin_Martin
-1.0
-player_contraints_Round:9_Player:Dustin_Martin__Round:10_Player:Clayton_Oliver
-1.0
-player_contraints_Round:9_Player:Esava_Ratugolea
-1.0
-player_contraints_Round:9_Player:Esava_Ratugolea__Round:10_Player:Jack_Steven
-1.0
-player_contraints_Round:9_Player:Jack_Mahony
-1.0
-player_contraints_Round:9_Player:Jack_Mahony__Round:10_Player:Shai_Bolton
-1.0
-player_contraints_Round:9_Player:Jacob_Hopper
-1.0
-player_contraints_Round:9_Player:Jacob_Hopper__Round:10_Player:Josh_Dunkley
-1.0
-player_contraints_Round:9_Player:Jed_Anderson
-1.0
-player_contraints_Round:9_Player:Jed_Anderson__Round:10_Player:Tom_Rockliff
-1.0
-player_contraints_Round:9_Player:John_Noble
-1.0
-player_contraints_Round:9_Player:John_Noble__Round:10_Player:Liam_Baker
-1.0
-player_contraints_Round:9_Player:Lachie_Whitfield
-1.0
-player_contraints_Round:9_Player:Lachie_Whitfield__Round:10_Player:Jake_Carlisle
-1.0
-player_contraints_Round:9_Player:Luke_McDonald
-1.0
-player_contraints_Round:9_Player:Luke_McDonald__Round:10_Player:Alex_Witherden
-1.0
-player_contraints_Round:9_Player:Luke_Ryan
-1.0
-player_contraints_Round:9_Player:Luke_Ryan__Round:10_Player:Harris_Andrews
-1.0
-player_contraints_Round:9_Player:Mark_Blicavs
-1.0
-player_contraints_Round:9_Player:Mark_Blicavs__Round:10_Player:Jordan_Roughead
-1.0
-player_contraints_Round:9_Player:Nick_Hind
-1.0
-player_contraints_Round:9_Player:Nick_Hind__Round:10_Player:Dayne_Zorko
-1.0
-player_contraints_Round:9_Player:Rory_Laird
-1.0
-player_contraints_Round:9_Player:Rory_Laird__Round:10_Player:Ryley_Stoddart
-1.0
-player_contraints_Round:9_Player:Rowan_Marshall
-1.0
-player_contraints_Round:9_Player:Rowan_Marshall__Round:10_Player:Dustin_Martin
-1.0
-player_contraints_Round:9_Player:Sam_Mayes
-1.0
-player_contraints_Round:9_Player:Sam_Mayes__Round:10_Player:Jackson_Thurlow
-1.0
-player_contraints_Round:9_Player:Steele_Sidebottom
-1.0
-player_contraints_Round:9_Player:Steele_Sidebottom__Round:10_Player:Tim_Taranto
-1.0
-player_contraints_Round:9_Player:Zac_Bailey
-1.0
-player_contraints_Round:9_Player:Zac_Bailey__Round:10_Player:Peter_Ladhams
-1.0
+roundchanges
+
+{'2_out': {'Dustin Martin', 'Isaac Smith', 'Steele Sidebottom'},
+ '2_in': {'Jarrod Berry', 'Patrick Dangerfield', 'Rowan Marshall'},
+ '3_out': {'Adam Tomlinson',
+  'Luke Parker',
+  'Patrick Dangerfield',
+  'Rowan Marshall'},
+ '3_in': {'Hugh McCluggage',
+  'Isaac Smith',
+  'Justin Westhoff',
+  'Steele Sidebottom'},
+ '4_out': {'Gary Ablett',
+  'Isaac Smith',
+  'Justin Westhoff',
+  'Steele Sidebottom'},
+ '4_in': {'Adam Tomlinson',
+  'Patrick Dangerfield',
+  'Rowan Marshall',
+  'Sam Menegola'},
+ '5_out': {'Adam Tomlinson', 'Patrick Dangerfield', 'Tom Clurey'},
+ '5_in': {'Harry Taylor', 'Kane Lambert', 'Steven May'},
+ '6_out': {'Brad Ebert', 'Mitch Robinson', 'Rowan Marshall', 'Sam Docherty'},
+ '6_in': {'Dylan Grimes',
+  'Isaac Smith',
+  'Orazio Fantasia',
+  'Patrick Dangerfield'},
+ '7_out': {'Isaac Smith', 'Joel Selwood', 'Orazio Fantasia'},
+ '7_in': {'Jake Lever', 'Marlion Pickett', 'Paul Seedsman'},
+ '8_out': {'Curtis Taylor',
+  'Darcy Tucker',
+  'Patrick Dangerfield',
+  'Timothy English'},
+ '8_in': {'Dustin Martin', 'Matthew Kennedy', 'Nick Hind', 'Rowan Marshall'},
+ '9_out': {'Jarrod Berry', 'Matthew Kennedy'},
+ '9_in': {'James Stewart', 'Steele Sidebottom'},
+ '10_out': {'Dustin Martin', 'Harry Taylor', 'Steele Sidebottom'},
+ '10_in': {'Christian Salem', 'Robbie Gray', 'Shai Bolton'},
+ '11_out': {'Heath Shaw', 'Paul Seedsman', 'Rowan Marshall', 'Shai Bolton'},
+ '11_in': {'Nathan Wilson',
+  'Patrick Cripps',
+  'Patrick Dangerfield',
+  'Zac Fisher'},
+ '12_out': {'Brody Mihocek',
+  'Hugh McCluggage',
+  'Jasper Pittard',
+  'Patrick Dangerfield'},
+ '12_in': {'Lachie Whitfield',
+  'Liam Ryan',
+  'Steele Sidebottom',
+  "Tim O'Brien"},
+ '13_out': {'Dylan Grimes', 'Nick Hind', 'Steele Sidebottom', 'Zach Tuohy'},
+ '13_in': {'Dustin Martin', 'James Cousins', 'Kade Simpson', 'Shai Bolton'},
+ '14_out': {'Dustin Martin', 'Kane Lambert', 'Sam Menegola', 'Shai Bolton'},
+ '14_in': {'Jamie Elliott',
+  'Josh Kennedy',
+  'Patrick Dangerfield',
+  'Tim Taranto'},
+ '15_out': {'Jamie Elliott',
+  'Patrick Dangerfield',
+  'Robbie Gray',
+  'Shaun Atley'},
+ '15_in': {'Adam Tomlinson', 'Blake Acres', 'Harry Schoenberg', 'Luke Parker'},
+ '16_out': {'Adam Tomlinson',
+  'Brodie Grundy',
+  'Marlion Pickett',
+  'Taylor Adams'},
+ '16_in': {'Jye Caldwell',
+  'Patrick Dangerfield',
+  'Rowan Marshall',
+  'Tom Rockliff'},
+ '17_out': {'Jye Caldwell',
+  'Patrick Dangerfield',
+  'Rowan Marshall',
+  'Zac Fisher'},
+ '17_in': {'Dustin Martin', 'Jesse Hogan', 'Lachlan Sholl', 'Tom Green'},
+ '18_out': {'Dustin Martin', 'Liam Ryan', 'Tom Rockliff'},
+ '18_in': {'Adam Tomlinson', 'Matthew Kennedy', 'Paul Puopolo'},
+ '19_out': {'Adam Tomlinson',
+  'Blake Acres',
+  'Christian Salem',
+  'Harry Schoenberg',
+  'Jake Lever',
+  'James Cousins',
+  'James Stewart',
+  'Jesse Hogan',
+  'Josh Kennedy',
+  'Kade Simpson',
+  'Lachie Whitfield',
+  'Lachlan Sholl',
+  'Luke Parker',
+  'Matthew Kennedy',
+  'Nathan Wilson',
+  'Patrick Cripps',
+  'Paul Puopolo',
+  'Steven May',
+  "Tim O'Brien",
+  'Tim Taranto',
+  'Tom Green'},
