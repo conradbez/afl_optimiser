@@ -1,3 +1,12 @@
+# !pip install pyomo
+# !pip install --upgrade --user ortools
+# !apt-get install -y glpk-utils
+# !sudo apt-get update -y
+# !sudo apt-get install -y coinor-cbc
+
+# !pip install -U git+https://github.com/coin-or/pulp
+# !sudo pulptest
+
 import pandas as pd
 from pulp import *
 full_player_scores = pd.read_csv('full_players.csv', index_col=0)
@@ -10,6 +19,9 @@ full_player_scores = full_player_scores[full_player_scores['Year']==2020]
 
 # Only keep players who are playing this season
 full_player_scores[full_player_scores['Name'].isin(full_player_scores_2021['Name'].unique())].dropna(how='all').dropna(how='all')
+
+
+# full_player_scores = full_player_scores[full_player_scores.isin(full_player_scores_2021['Name'].unique())]['Name'].dropna(how='all')
 
 player_num_games_played = full_player_scores[full_player_scores['Score']>0].groupby('Name')['Team 2'].transform('count')
 
@@ -36,18 +48,13 @@ print(len(RU_Players['Name'].unique()))
 
 
 # Only take players in top quater of average values (score/price)
-# player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
-# RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
-# print(len(RU_Players['Name'].unique()))
+player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
+RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
+print(len(RU_Players['Name'].unique()))
 
-# RU_Players = RU_Players[RU_Players['Round']<4]
+RU_Players = RU_Players[RU_Players['Round']<4]
 # RU_Players = RU_Players.head(40)
-print(RU_Players.groupby('Position').count()['Name'])
-
-
-
-
-
+RU_Players.groupby('Position').count()['Name']
 
 trades_allowed = None
 player_contraints = {}
@@ -87,17 +94,6 @@ for round, transfers in RU_transfers[RU_transfers['Name_prev'] != RU_transfers['
   prob += lpSum([transfer_contraints[t_id] for t_id in transfers]) <= 4, f"Round: {round}, has less than orequal to 4 transfers"
 # END TRANFERS
 
-
-
-
-# START total players 
-for r, player in RU_Players[['id','Round']].drop_duplicates().groupby(['Round'])['id'].apply(list).iteritems():
-  prob += lpSum([player_contraints[p_id] for p_id in player]) == 30, f"Must have 30 players in round {r}"
-# END total players 
-
-
-
-
 # START money contraint
 money = 13 * 10**6
 for round,player in RU_Players[['id','Price','Round']].drop_duplicates().groupby(['Round'])['id'].apply(list).iteritems():
@@ -108,36 +104,32 @@ for round,player in RU_Players[['id','Price','Round']].drop_duplicates().groupby
 RU_Players_Position_Casting = RU_Players.copy()
 RU_Players_Position_Casting['pl_pos_id'] = (RU_Players['id']+'_'+RU_Players['Position'])
 
-Players_Position_Casting_Series = RU_Players_Position_Casting[['id','pl_pos_id','Round']].drop_duplicates().groupby(['Round','id' ])['pl_pos_id'].apply(list).iteritems()
+Players_Position_Casting_Series = RU_Players_Position_Casting[['id','pl_pos_id','Round']].drop_duplicates().groupby(['id' ])['pl_pos_id'].apply(list).iteritems()
 
 Players_Position_Casting = {}
-for i,r in RU_Players_Position_Casting.iterrows():
+for i,r in RU_Players_Position_Casting[['pl_pos_id']].drop_duplicates().iterrows():
   Players_Position_Casting[r['pl_pos_id']] = LpVariable(r['pl_pos_id'], 0, 1, cat='Binary')
 
-for (round, p_id), pl_pos_ids in Players_Position_Casting_Series:
-    #   Players_Position_Casting[p_id] = [LpVariable(p_id, 0, 1, cat='Binary' for p_id  in pl_pos_id)] 
+for p_id, pl_pos_ids in Players_Position_Casting_Series:
     player_possible_positions = [Players_Position_Casting[pl_pos_id] for pl_pos_id  in pl_pos_ids] 
-    # print(p_id)
-    prob += lpSum(player_possible_positions) == player_contraints[p_id], f"Must have only have equal to {p_id} (0 or 1) of {player_possible_positions} positions in round {round}"
+    prob += lpSum(player_possible_positions) == player_contraints[p_id], f"Must have only have equal to {p_id} (0 or 1) of {player_possible_positions} positions in round"
 #END Contrain each player to a single position per round
 
 # START max players from each position
 allowed_holds_per_position = {'DE': 8, "MI" : 10, 'RU' : 3, 'FO':9}
 
 for (position,round), pl_pos_ids in RU_Players_Position_Casting[['pl_pos_id','Position','Round']].drop_duplicates().groupby(['Position', 'Round'])['pl_pos_id'].apply(list).iteritems():
-  prob += lpSum([player_contraints[p_id] for pl_pos_id in pl_pos_ids]) >= allowed_holds_per_position[position], f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}"
+  prob += lpSum([Players_Position_Casting[pl_pos_id] for pl_pos_id in pl_pos_ids]) >= allowed_holds_per_position[position], f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}"
 
 # END max players from each position
 
-
 print('done with pre-work')
-
-
 
 # prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=200))
 
-solver = getSolver('COIN_CMD', maxSeconds=2000, msg=True,gapRel = 0.15)
+solver = getSolver('COIN_CMD', maxSeconds=200, msg=True,gapRel = 0.15, threads=100)
 prob.solve(solver)
+
 
 results = []
 for player_position in Players_Position_Casting.values():
@@ -147,3 +139,10 @@ Players_selected = pd.DataFrame(results, columns=['pl_pos_id', 'is_selected'])
 RU_Players_Position_Casting['pl_pos_id'] = RU_Players_Position_Casting['pl_pos_id'].str.replace(' ', '_')
 RU_Players_Position_Casting = RU_Players_Position_Casting.merge(Players_selected, on = ['pl_pos_id'])
 RU_Players_Position_Casting.to_csv('solution.csv')
+
+for round in RU_Players_Position_Casting['Round'].unique():
+    assert RU_Players_Position_Casting[RU_Players_Position_Casting['Round']==round]['is_selected'].sum()
+
+
+
+
