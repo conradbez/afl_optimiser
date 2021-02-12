@@ -40,7 +40,7 @@ print(len(RU_Players['Name'].unique()))
 # RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
 # print(len(RU_Players['Name'].unique()))
 
-# RU_Players = RU_Players[RU_Players['Round']<4]
+RU_Players = RU_Players[RU_Players['Round']<4]
 # RU_Players = RU_Players.head(40)
 print(RU_Players.groupby('Position').count()['Name'])
 
@@ -139,19 +139,11 @@ print('done with pre-work')
 solver = getSolver('COIN_CMD', maxSeconds=2000, msg=True,gapRel = 0.15)
 prob.solve(solver)
 
-
-roundplayers = {}
-roundchanges = {}
-for round in range(1,30):
-  roundplayers[round] = []
-  for n,t in player_contraints.items():
-      if t.value()>0.5:
-        if n[:len(f'Round:{round}_')] == f'Round:{round}_':
-          roundplayers[round].append(n[len(f'Round:{round}_Player:'):])
-  if not round == 1:
-    roundchanges[f'{round}_out'] = set(roundplayers[round-1]).difference(set(roundplayers[round]))
-    roundchanges[f'{round}_in'] = set(roundplayers[round]).difference(set(roundplayers[round-1]))
-
-
-print(roundchanges)
-print(roundplayers)
+results = []
+for player_position in Players_Position_Casting.values():
+    if player_position.value() != 0:
+        results.append([player_position.name,1])
+Players_selected = pd.DataFrame(results, columns=['pl_pos_id', 'is_selected'])
+RU_Players_Position_Casting['pl_pos_id'] = RU_Players_Position_Casting['pl_pos_id'].str.replace(' ', '_')
+RU_Players_Position_Casting = RU_Players_Position_Casting.merge(Players_selected, on = ['pl_pos_id'])
+RU_Players_Position_Casting.to_csv('solution.csv')
