@@ -36,9 +36,9 @@ print(len(RU_Players['Name'].unique()))
 
 
 # Only take players in top quater of average values (score/price)
-player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
-RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
-print(len(RU_Players['Name'].unique()))
+# player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
+# RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
+# print(len(RU_Players['Name'].unique()))
 
 # RU_Players = RU_Players[RU_Players['Round']<4]
 # RU_Players = RU_Players.head(40)
