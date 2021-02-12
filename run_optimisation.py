@@ -122,7 +122,7 @@ for (position,round), pl_pos_ids in RU_Players_Position_Casting[['pl_pos_id','Po
 
 print('done with pre-work')
 
-solver = getSolver('COIN_CMD', timeLimit=2000, msg=True,gapRel = 0.9)
+solver = getSolver('COIN_CMD', timeLimit=2000, msg=True,gapRel = 0.15)
 prob.solve(solver)
 
 results = []
