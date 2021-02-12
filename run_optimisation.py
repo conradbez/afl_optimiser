@@ -49,13 +49,17 @@ print(len(RU_Players['Name'].unique()))
 
 
 # Only take players in top quater of average values (score/price)
-# player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
-# RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
+player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
+RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
+print(len(RU_Players['Name'].unique()))
+
+RU_Players = RU_Players[RU_Players['Round']<4]
+# RU_Players = RU_Players[RU_Players['Position']=='RU']
+
+# RU_Players = RU_Players.head(40)
+# RU_Players.groupby('Position').count()['Name']
 # print(len(RU_Players['Name'].unique()))
 
-# RU_Players = RU_Players[RU_Players['Round']<4]
-# RU_Players = RU_Players.head(40)
-RU_Players.groupby('Position').count()['Name']
 
 player_contraints = {}
 prob = LpProblem("aflProblem", LpMaximize)
@@ -109,6 +113,8 @@ Players_Position_Casting_Series = RU_Players_Position_Casting[['id','pl_pos_id',
 Players_Position_Casting = {}
 for i,r in RU_Players_Position_Casting[['pl_pos_id']].drop_duplicates().iterrows():
   Players_Position_Casting[r['pl_pos_id']] = LpVariable(r['pl_pos_id'], 0, 1, cat='Binary')
+Players_Position_Casting = LpVariable.dicts("Players_Position_Casting", Players_Position_Casting, 0, 1, cat='Binary')
+
 
 for p_id, pl_pos_ids in Players_Position_Casting_Series:
     player_possible_positions = [Players_Position_Casting[pl_pos_id] for pl_pos_id  in pl_pos_ids] 
@@ -117,29 +123,34 @@ for p_id, pl_pos_ids in Players_Position_Casting_Series:
 
 # START max players from each position
 allowed_holds_per_position = {'DE': 8, "MI" : 10, 'RU' : 3, 'FO':9}
+allowed_holds_per_position = {'DE': 1, "MI" : 0, 'RU' : 0, 'FO':0}
 
 for (position,round), pl_pos_ids in RU_Players_Position_Casting[['pl_pos_id','Position','Round']].drop_duplicates().groupby(['Position', 'Round'])['pl_pos_id'].apply(list).iteritems():
-  prob += lpSum([Players_Position_Casting[pl_pos_id] for pl_pos_id in pl_pos_ids]) >= allowed_holds_per_position[position], f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}"
+  prob += lpSum([Players_Position_Casting[pl_pos_id] for pl_pos_id in pl_pos_ids]) == allowed_holds_per_position[position], f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}"
 
 # END max players from each position
 
 print('done with pre-work')
 
-# print(f"Previous player equals transfer intermediatary for {prev_player} equals {trans}")
-
-# prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=200))
 solver = getSolver('COIN_CMD', maxSeconds=200, msg=True,gapRel = 0.15, threads=100)
 prob.solve(solver)
 
 results = []
-for player_position in Players_Position_Casting.values():
+for name, player_position in Players_Position_Casting.items():
     if player_position.value() != 0:
-        results.append([player_position.name,1])
+        results.append([name,1])
 Players_selected = pd.DataFrame(results, columns=['pl_pos_id', 'is_selected'])
-RU_Players_Position_Casting['pl_pos_id'] = RU_Players_Position_Casting['pl_pos_id'].str.replace(' ', '_')
 RU_Players_Position_Casting = RU_Players_Position_Casting.merge(Players_selected, on = ['pl_pos_id'])
-RU_Players_Position_Casting.to_csv('solution.csv')
+# RU_Players_Position_Casting.to_csv('solution.csv')
+
+# Players_selected
+# RU_Players_Position_Casting
+RU_Players_Position_Casting
 
 for round in RU_Players_Position_Casting['Round'].unique():
     assert RU_Players_Position_Casting[RU_Players_Position_Casting['Round']==round]['is_selected'].sum()
+
+df = pd.read_csv('solution.csv')
+df['is_selected'].sum()
+
 
