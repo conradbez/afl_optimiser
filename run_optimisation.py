@@ -21,7 +21,6 @@ full_player_scores = full_player_scores[full_player_scores['Year']==2020]
 # Only keep players who are playing this season
 full_player_scores[full_player_scores['Name'].isin(full_player_scores_2021['Name'].unique())].dropna(how='all').dropna(how='all')
 
-
 # full_player_scores = full_player_scores[full_player_scores.isin(full_player_scores_2021['Name'].unique())]['Name'].dropna(how='all')
 
 player_num_games_played = full_player_scores[full_player_scores['Score']>0].groupby('Name')['Team 2'].transform('count')
@@ -34,19 +33,16 @@ na_locs = full_player_scores['Score'].isna()
 
 full_player_scores.loc[na_locs,'Score'] = ((opponent_average_score+player_average_score)/2).loc[na_locs]
 
-
 RU_Players = full_player_scores[(full_player_scores['Year']==2020)]
 
 RU_Players = RU_Players.sort_values('Score',ascending=False)
 RU_Players['id'] = "Round:"+RU_Players['Round'].astype(str)+"_Player:"+RU_Players['Name']
-
 
 # Only take players who played more than 5 games
 # print(len(RU_Players['Name'].unique()))
 # players_to_keep = player_num_games_played[player_num_games_played>5].index.values
 # RU_Players = RU_Players.reindex(index=players_to_keep).dropna(how='all')
 # print(len(RU_Players['Name'].unique()))
-
 
 # Only take players in top quater of average values (score/price)
 # player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
@@ -126,7 +122,7 @@ for (position,round), pl_pos_ids in RU_Players_Position_Casting[['pl_pos_id','Po
 
 print('done with pre-work')
 
-solver = getSolver('COIN_CMD', maxSeconds=2000, msg=True,gapRel = 0.9)
+solver = getSolver('COIN_CMD', timeLimit=2000, msg=True,gapRel = 0.9)
 prob.solve(solver)
 
 results = []
