@@ -40,7 +40,7 @@ print(len(RU_Players['Name'].unique()))
 # RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
 # print(len(RU_Players['Name'].unique()))
 
-RU_Players = RU_Players[RU_Players['Round']<4]
+# RU_Players = RU_Players[RU_Players['Round']<4]
 # RU_Players = RU_Players.head(40)
 print(RU_Players.groupby('Position').count()['Name'])
 
