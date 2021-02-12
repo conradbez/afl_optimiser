@@ -6,6 +6,7 @@
 
 # !pip install -U git+https://github.com/coin-or/pulp
 # !sudo pulptest
+# !pip install pandas
 
 import pandas as pd
 from pulp import *
@@ -48,15 +49,14 @@ print(len(RU_Players['Name'].unique()))
 
 
 # Only take players in top quater of average values (score/price)
-player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
-RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
-print(len(RU_Players['Name'].unique()))
+# player_best_values = player_average_value.sort_values(ascending=False)[:int(len(player_average_value)/2)]
+# RU_Players = RU_Players.reindex(index=player_best_values.index.values).dropna(how='all') 
+# print(len(RU_Players['Name'].unique()))
 
-RU_Players = RU_Players[RU_Players['Round']<4]
+# RU_Players = RU_Players[RU_Players['Round']<4]
 # RU_Players = RU_Players.head(40)
 RU_Players.groupby('Position').count()['Name']
 
-trades_allowed = None
 player_contraints = {}
 prob = LpProblem("aflProblem", LpMaximize)
 overall_score = LpVariable('OverallScore',0)
@@ -84,14 +84,14 @@ transfer_contraints = LpVariable.dicts("transfer_contraints", transfer_contraint
 
 # map rounds end to itermediary
 for prev_player,trans in RU_transfers.groupby(['id_prev'])['Transfer'].apply(list).iteritems():
-  prob += lpSum([transfer_contraints[t_id] for t_id in trans]) == player_contraints[prev_player], "Previous player equals transfer intermediatary for "+prev_player
+  prob += lpSum([transfer_contraints[t_id] for t_id in trans]) == player_contraints[prev_player], f"Previous player equals transfer intermediatary for {prev_player} equals {trans}"
 
 # map intermediary to next round
 for next_player,trans in RU_transfers.groupby(['id_next'])['Transfer'].apply(list).iteritems():
-  prob += lpSum([transfer_contraints[t_id] for t_id in trans]) == player_contraints[next_player], "Next player equals transfer intermediatary for "+next_player
+  prob += lpSum([transfer_contraints[t_id] for t_id in trans]) == player_contraints[next_player], f"Next player equals transfer intermediatary for {next_player} equals {trans}"
 
-for round, transfers in RU_transfers[RU_transfers['Name_prev'] != RU_transfers['Name_next']].groupby(['Round'])['Transfer'].apply(list).iteritems():
-  prob += lpSum([transfer_contraints[t_id] for t_id in transfers]) <= 4, f"Round: {round}, has less than orequal to 4 transfers"
+for round, transfers in RU_transfers[RU_transfers['Name_prev'] != RU_transfers['Name_next']][['Round','Transfer']].drop_duplicates().groupby(['Round'])['Transfer'].apply(list).iteritems():
+  prob += lpSum([transfer_contraints[t_id] for t_id in transfers]) <= 4, f"Round: {round}, has less than or equal to 4 transfers"
 # END TRANFERS
 
 # START money contraint
@@ -125,11 +125,11 @@ for (position,round), pl_pos_ids in RU_Players_Position_Casting[['pl_pos_id','Po
 
 print('done with pre-work')
 
-# prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=200))
+# print(f"Previous player equals transfer intermediatary for {prev_player} equals {trans}")
 
+# prob.solve(pulp.PULP_CBC_CMD(msg=True, maxSeconds=200))
 solver = getSolver('COIN_CMD', maxSeconds=200, msg=True,gapRel = 0.15, threads=100)
 prob.solve(solver)
-
 
 results = []
 for player_position in Players_Position_Casting.values():
@@ -142,7 +142,4 @@ RU_Players_Position_Casting.to_csv('solution.csv')
 
 for round in RU_Players_Position_Casting['Round'].unique():
     assert RU_Players_Position_Casting[RU_Players_Position_Casting['Round']==round]['is_selected'].sum()
-
-
-
 
