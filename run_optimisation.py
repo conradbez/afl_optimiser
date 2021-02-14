@@ -176,13 +176,12 @@ for (position,round), pl_pos_ids in RU_Players_Position_Casting[['pl_pos_id','Po
 
 print('done with pre-work')
 
-# try:
-#     solver = getSolver('COIN_CMD', timeLimit=2000, msg=True,gapRel = 0.15)
-#     prob.solve(solver)
-# except:
-
-solver = getSolver('PULP_CBC_CMD')
-prob.solve(solver)
+try:
+    solver = getSolver('COIN_CMD', timeLimit=2000, msg=True,gapRel = 0.2)
+    prob.solve(solver)
+except:
+    solver = getSolver('PULP_CBC_CMD')
+    prob.solve(solver)
 
 results = []
 for name, player_position in Players_Position_Casting.items():
