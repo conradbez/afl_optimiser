@@ -41,7 +41,7 @@ full_player_scores_2021 = full_player_scores[full_player_scores['Year']==2021]
 full_player_scores = full_player_scores[full_player_scores['Year']==2020]
 
 # Only keep players who are playing this season
-full_player_scores[full_player_scores['Name'].isin(full_player_scores_2021['Name'].unique())].dropna(how='all').dropna(how='all')
+full_player_scores = full_player_scores[full_player_scores['Name'].isin(full_player_scores_2021['Name'].unique())].dropna(how='all').dropna(how='all')
 
 df = full_player_scores.copy()
 
