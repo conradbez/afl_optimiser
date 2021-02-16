@@ -15,8 +15,8 @@ def test1(test_df):
         try:    
             assert len(test_df[~(test_df['Name'].isin(names))])==0
         except AssertionError:
-            print(r)
-            print(test_df[~(test_df['Name'].isin(names))])
+            print(f'failed for {r}')
+            # print(test_df[~(test_df['Name'].isin(names))])
             assert len(test_df[~(test_df['Name'].isin(names))])==0
 
 # players_to_keep = ["Adam Tomlinson", "Max Gawn"]
