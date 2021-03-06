@@ -1,24 +1,4 @@
-,Name,Price,Team 1,Position,Round,Team 2,Score,id,pl_pos_id,is_selected
-0,Sam Petrevski-Seton,516000,Blues,DE,9,Demons,93.0,R:9_P:Sam Petrevski-Seton,R:9_P:Sam Petrevski-Seton_DE,1
-1,Alex Witherden,654000,Lions,DE,7,Power,123.0,R:7_P:Alex Witherden,R:7_P:Alex Witherden_DE,1
-2,Alex Witherden,654000,Lions,DE,6,Blues,138.0,R:6_P:Alex Witherden,R:6_P:Alex Witherden_DE,1
-3,Daniel Rich,644000,Lions,DE,21,Dockers,89.0,R:21_P:Daniel Rich,R:21_P:Daniel Rich_DE,1
-4,Daniel Rich,644000,Lions,DE,8,Dockers,89.0,R:8_P:Daniel Rich,R:8_P:Daniel Rich_DE,1
-5,Callum Mills,705000,Swans,DE,20,Bombers,74.0,R:20_P:Callum Mills,R:20_P:Callum Mills_DE,1
-6,Callum Mills,705000,Swans,DE,18,Giants,87.0,R:18_P:Callum Mills,R:18_P:Callum Mills_DE,1
-7,Callum Mills,705000,Swans,DE,11,Blues,92.0,R:11_P:Callum Mills,R:11_P:Callum Mills_DE,1
-8,Callum Mills,705000,Swans,DE,16,Eagles,81.0,R:16_P:Callum Mills,R:16_P:Callum Mills_DE,1
-9,Callum Mills,705000,Swans,DE,19,Dockers,90.0,R:19_P:Callum Mills,R:19_P:Callum Mills_DE,1
-10,Callum Mills,705000,Swans,DE,10,Dockers,90.0,R:10_P:Callum Mills,R:10_P:Callum Mills_DE,1
-11,Callum Mills,705000,Swans,DE,17,Bulldogs,80.0,R:17_P:Callum Mills,R:17_P:Callum Mills_DE,1
-12,Darcy Byrne-Jones,603000,Power,DE,22,Blues,96.0,R:22_P:Darcy Byrne-Jones,R:22_P:Darcy Byrne-Jones_DE,1
-13,Christian Salem,680000,Demons,DE,12,Lions,119.0,R:12_P:Christian Salem,R:12_P:Christian Salem_DE,1
-14,Bryce Gibbs,487000,Crows,DE,1,Cats,97.0,R:1_P:Bryce Gibbs,R:1_P:Bryce Gibbs_DE,1
-15,Bryce Gibbs,487000,Crows,DE,3,Suns,86.0,R:3_P:Bryce Gibbs,R:3_P:Bryce Gibbs_DE,1
-16,Bryce Gibbs,487000,Crows,DE,5,Dockers,97.5,R:5_P:Bryce Gibbs,R:5_P:Bryce Gibbs_DE,1
-17,Bryce Gibbs,487000,Crows,DE,2,Swans,91.33333333333333,R:2_P:Bryce Gibbs,R:2_P:Bryce Gibbs_DE,1
-18,Bryce Gibbs,487000,Crows,DE,15,Blues,103.0,R:15_P:Bryce Gibbs,R:15_P:Bryce Gibbs_DE,1
-19,Mark O'Connor,480000,Cats,DE,23,Demons,102.0,R:23_P:Mark O'Connor,R:23_P:Mark O'Connor_DE,1
-20,Mark O'Connor,480000,Cats,DE,4,Demons,102.0,R:4_P:Mark O'Connor,R:4_P:Mark O'Connor_DE,1
-21,Jack Henry,397000,Cats,DE,14,Bulldogs,66.0,R:14_P:Jack Henry,R:14_P:Jack Henry_DE,1
-22,Jack Henry,397000,Cats,DE,13,Power,71.0,R:13_P:Jack Henry,R:13_P:Jack Henry_DE,1
+,id,pl_pos_id,Round,Position,is_selected
+0,R:3_P:Adam Tomlinson,R:3_P:Adam Tomlinson_DE,3,DE,1
+1,R:2_P:Adam Tomlinson,R:2_P:Adam Tomlinson_DE,2,DE,1
+2,R:1_P:Aaron Francis,R:1_P:Aaron Francis_DE,1,DE,1
