@@ -62,7 +62,8 @@ P['Score'] = P['Score'].replace(np.nan,0)
 # %%
 P['id'] = "R:"+P['Round'].astype(str)+"_P:"+P['Name']
 P['pl_pos_id'] = (P['id']+'_'+P['Position'])
-P['id'] = P['pl_pos_id']
+# P['id'] = P['pl_pos_id']
+
 player_contraints = {}
 prob = LpProblem("aflProblem", LpMaximize)
 
@@ -75,19 +76,19 @@ prob += lpSum([player_contraints[p_id[1]]*score[1] for p_id,score in zip(P['pl_p
 P_prev_round = P.copy()
 P_prev_round['Round_prev'] = P_prev_round['Round'] - 1
 
-P_transfers = P[['id','Position','Round','Name']].merge(P_prev_round[['id','Position','Round_prev','Name']],left_on=['Position','Round'],right_on=['Position','Round_prev'], suffixes = ('_prev','_next'))
+P_transfers = P[['pl_pos_id','Position','Round','Name']].merge(P_prev_round[['pl_pos_id','Position','Round_prev','Name']],left_on=['Position','Round'],right_on=['Position','Round_prev'], suffixes = ('_prev','_next'))
 
-P_transfers['Transfer'] = P_transfers['id_prev']+'-'+P_transfers['id_next']
-P_transfers=P_transfers[['id_prev',	'Round',	'Name_prev',	'id_next',	'Round_prev',	'Name_next',	'Transfer']].drop_duplicates()
+P_transfers['Transfer'] = P_transfers['pl_pos_id_prev']+'-'+P_transfers['pl_pos_id_next']
+P_transfers=P_transfers[['pl_pos_id_prev',	'Round',	'Name_prev',	'pl_pos_id_next',	'Round_prev',	'Name_next',	'Transfer']].drop_duplicates()
 
 transfer_contraints = LpVariable.dicts("Transfer contraints", P_transfers['Transfer'], 0, 1, cat='Binary')
 
 # map rounds end to itermediary
-for prev_player,trans in P_transfers.groupby(['id_prev'])['Transfer'].apply(list).iteritems():
+for prev_player,trans in P_transfers.groupby(['pl_pos_id_prev'])['Transfer'].apply(list).iteritems():
     prob += lpSum([transfer_contraints[t_id] for t_id in trans]) == player_contraints[prev_player], f"Previous player equals transfer intermediatary for {prev_player} equals {trans}"
 
 # map intermediary to next round
-for next_player,trans in P_transfers.groupby(['id_next'])['Transfer'].apply(list).iteritems():
+for next_player,trans in P_transfers.groupby(['pl_pos_id_next'])['Transfer'].apply(list).iteritems():
     prob += lpSum([transfer_contraints[t_id] for t_id in trans]) == player_contraints[next_player], f"Next player equals transfer intermediatary for {next_player} equals {trans}"
 
 for round, transfers in P_transfers[P_transfers['Name_prev'] != P_transfers['Name_next']][['Round','Transfer']].drop_duplicates().groupby(['Round'])['Transfer'].apply(list).iteritems():
@@ -110,14 +111,14 @@ P_Position_Casting = P.copy()
 # P_Position_Casting['pl_pos_id'] = (P['id']+'_'+P['Position'])
 P_Position_Casting = P_Position_Casting[['id','pl_pos_id','Round','Position']].drop_duplicates()
 
-# Players_Position_Casting = LpVariable.dicts("Players_Position_Casting", P_Position_Casting['pl_pos_id'], 0, 1, cat='Binary')
+Players_Position_Casting_Series = P[['id','pl_pos_id','Round']].drop_duplicates().groupby(['id','Round'])['pl_pos_id'].apply(list).iteritems()
 
-# Players_Position_Casting_Series = P_Position_Casting[['id','pl_pos_id','Round']].drop_duplicates().groupby(['id','Round'])['pl_pos_id'].apply(list).iteritems()
-
-# for (p_id,round), pl_pos_ids in Players_Position_Casting_Series:
-#     player_possible_positions = [Players_Position_Casting[pl_pos_id] for pl_pos_id  in pl_pos_ids] 
-#     prob += lpSum(player_possible_positions) == player_contraints[p_id], f"Must have only have equal to {p_id} (0 or 1) of {player_possible_positions} positions in round {round}"
-  #END Contrain each player to a single position per round
+for (p_id,round), pl_pos_ids in Players_Position_Casting_Series:
+    player_possible_positions = [player_contraints[pl_pos_id] for pl_pos_id  in pl_pos_ids] 
+    prob += lpSum(player_possible_positions) <= 1, f"Must have only have less than or equal to 1 of {player_possible_positions} positions in round {round}"
+    if len(player_possible_positions)>1:
+        print(f"Must have only have less than or equal to 1 of {player_possible_positions} positions in round {round}")
+#   END Contrain each player to a single position per round
 
 
 # %%
@@ -126,7 +127,7 @@ allowed_holds_per_position = {'DE': 8, "MI" : 10, 'RU' : 3, 'FO':9}
 # allowed_holds_per_position = {'DE': 1, "MI" : 0, 'RU' : 1, 'FO':0}
 for (position,round), pl_pos_ids in P[['pl_pos_id','Position','Round']].drop_duplicates().groupby(['Position', 'Round'])['pl_pos_id'].apply(list).iteritems():
     prob += lpSum([player_contraints[pl_pos_id] for pl_pos_id in pl_pos_ids]) == allowed_holds_per_position[position], f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}"
-    print(f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}")
+    # print(f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}")
 # END max players from each position
 
 
@@ -140,23 +141,28 @@ prob.status
 
 
 # %%
-for k,v in player_contraints.items():
-    if v.value():
-        print(k)
-        print(v.value())
+# for k,v in player_contraints.items():
+#     if v.value():
+#         print(k)
+#         print(v.value())
 
 
 # %%
 results = []
-for name, player_position in Players_Position_Casting.items():
+for name, player_position in player_contraints.items():
     if player_position.value() != 0:
         results.append([name,1])
         # print('here')
 Players_selected = pd.DataFrame(results, columns=['pl_pos_id', 'is_selected'])
-P_Position_Casting = P_Position_Casting.merge(Players_selected, on = ['pl_pos_id'])
-P_Position_Casting.to_csv(FILENAME+'_solution.csv')
-P_Position_Casting.sort_values('Round')
+P_results = P.merge(Players_selected, on = ['pl_pos_id'])
+P_results.to_csv(FILENAME+'_solution.csv')
+# P_Position_Casting.sort_values('Round')
 # print(P_Position_Casting.groupby(['Round','Position']).sum()['is_selected'])
+# P_results.tail()
+
+
+# %%
+len(P_results)
 
 
 # %%
