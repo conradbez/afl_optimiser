@@ -49,7 +49,7 @@ players_to_be_kept["Value"] = players_to_be_kept['Score']/players_to_be_kept['Pr
 players_to_be_kept = players_to_be_kept.groupby('Name').mean()[['Score','Value']]
 
 players_to_keep = []
-num_players_to_keep = int(len(players_to_be_kept)*0.2)
+num_players_to_keep = int(len(players_to_be_kept)*0.5)
 players_to_keep += list(players_to_be_kept.sort_values('Score', ascending = False).index[:num_players_to_keep])
 players_to_keep += list(players_to_be_kept.sort_values('Value', ascending = False).index[:num_players_to_keep])
 
@@ -57,19 +57,15 @@ P = P[P['Name'].isin(players_to_keep)]
 
 P['Score'] = P['Score'].replace(np.nan,0)
 # P = P[P['Round']<=2]
+P['id'] = "R:"+P['Round'].astype(str)+"_P:"+P['Name']
+P['pl_pos_id'] = (P['id']+'_'+P['Position'])
 
 
 # %%
-P['id'] = "R:"+P['Round'].astype(str)+"_P:"+P['Name']
-P['pl_pos_id'] = (P['id']+'_'+P['Position'])
-# P['id'] = P['pl_pos_id']
-
 player_contraints = {}
 prob = LpProblem("aflProblem", LpMaximize)
 
-overall_score = LpVariable('OverallScore',0)
 player_contraints = LpVariable.dicts("Player Contraints", P['pl_pos_id'].unique(), 0, 1, cat='Binary')
-prob += lpSum([player_contraints[p_id[1]]*score[1] for p_id,score in zip(P['pl_pos_id'].iteritems(),P['Score'].iteritems())]), "Total score is maximized"
 
 
 # %%
@@ -116,19 +112,38 @@ Players_Position_Casting_Series = P[['id','pl_pos_id','Round']].drop_duplicates(
 for (p_id,round), pl_pos_ids in Players_Position_Casting_Series:
     player_possible_positions = [player_contraints[pl_pos_id] for pl_pos_id  in pl_pos_ids] 
     prob += lpSum(player_possible_positions) <= 1, f"Must have only have less than or equal to 1 of {player_possible_positions} positions in round {round}"
-    if len(player_possible_positions)>1:
-        print(f"Must have only have less than or equal to 1 of {player_possible_positions} positions in round {round}")
+    # if len(player_possible_positions)>1:
+        # print(f"Must have only have less than or equal to 1 of {player_possible_positions} positions in round {round}")
 #   END Contrain each player to a single position per round
 
 
 # %%
 # # START max players from each position
 allowed_holds_per_position = {'DE': 8, "MI" : 10, 'RU' : 3, 'FO':9}
-# allowed_holds_per_position = {'DE': 1, "MI" : 0, 'RU' : 1, 'FO':0}
 for (position,round), pl_pos_ids in P[['pl_pos_id','Position','Round']].drop_duplicates().groupby(['Position', 'Round'])['pl_pos_id'].apply(list).iteritems():
     prob += lpSum([player_contraints[pl_pos_id] for pl_pos_id in pl_pos_ids]) == allowed_holds_per_position[position], f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}"
     # print(f"Position: {position}, has less than {allowed_holds_per_position[position]} in round {round}")
 # END max players from each position
+
+
+# %%
+# # START max players from each position team constraint
+
+player_selection_contraints = LpVariable.dicts("Player Team Contraints", P['pl_pos_id'].unique(), 0, 1, cat='Binary')
+
+allowed_selection_holds_per_position = {'DE': 6, "MI" : 8, 'RU' : 2, 'FO':6}
+for (position,round), pl_pos_ids in P[['pl_pos_id','Position','Round']].drop_duplicates().groupby(['Position', 'Round'])['pl_pos_id'].apply(list).iteritems():
+    prob += lpSum([player_selection_contraints[pl_pos_id] for pl_pos_id in pl_pos_ids]) == allowed_selection_holds_per_position[position], f"Position: {position}, has less than {allowed_selection_holds_per_position[position]} in round {round}"
+
+for pl_pos_id in P['pl_pos_id'].unique():
+    prob += player_selection_contraints[pl_pos_id] <= player_contraints[pl_pos_id]
+
+# END max players from each position team constraint
+
+
+# %%
+# set scoring
+prob += lpSum([player_selection_contraints[p_id[1]]*score[1] for p_id,score in zip(P['pl_pos_id'].iteritems(),P['Score'].iteritems())]), "Total score is maximized"
 
 
 # %%
@@ -141,13 +156,6 @@ prob.status
 
 
 # %%
-# for k,v in player_contraints.items():
-#     if v.value():
-#         print(k)
-#         print(v.value())
-
-
-# %%
 results = []
 for name, player_position in player_contraints.items():
     if player_position.value() != 0:
@@ -156,16 +164,19 @@ for name, player_position in player_contraints.items():
 Players_selected = pd.DataFrame(results, columns=['pl_pos_id', 'is_selected'])
 P_results = P.merge(Players_selected, on = ['pl_pos_id'])
 P_results.to_csv(FILENAME+'_solution.csv')
-# P_Position_Casting.sort_values('Round')
-# print(P_Position_Casting.groupby(['Round','Position']).sum()['is_selected'])
-# P_results.tail()
+print(P_results.groupby(['Round','Position']).sum()['is_selected'])
 
 
 # %%
-len(P_results)
+results = []
+for name, player_position in player_selection_contraints.items():
+    if player_position.value() != 0:
+        results.append([name,1])
+        # print('here')
+Players_selected = pd.DataFrame(results, columns=['pl_pos_id', 'is_selected'])
+P_results = P.merge(Players_selected, on = ['pl_pos_id'])
+P_results.to_csv(FILENAME+'_selection_solution.csv')
+print(P_results.groupby(['Round','Position']).sum()['is_selected'])
 
 
 # %%
-
-
-
