@@ -1,397 +1,397 @@
-,Round,Team 1,Team 2
-0,1,Tigers,Blues
-1,1,Magpies,Bulldogs
-2,1,Demons,Dockers
-3,1,Crows,Cats
-4,1,Lions,Swans
-5,1,Bombers,Hawks
-6,1,Kangaroos,Power
-7,1,Eagles,Suns
-8,1,Giants,Saints
-9,2,Blues,Magpies
-10,2,Cats,Lions
-11,2,Swans,Crows
-12,2,Power,Bombers
-13,2,Suns,Kangaroos
-14,2,Saints,Demons
-15,2,Hawks,Tigers
-16,2,Dockers,Giants
-17,2,Bulldogs,Eagles
-18,3,Lions,Magpies
-19,3,Kangaroos,Bulldogs
-20,3,Crows,Suns
-21,3,Tigers,Swans
-22,3,Bombers,Saints
-23,3,Eagles,Power
-24,3,Blues,Dockers
-25,3,Giants,Demons
-26,3,Cats,Hawks
-27,4,Swans,Bombers
-28,4,Power,Tigers
-29,4,Bulldogs,Lions
-30,4,Saints,Eagles
-31,4,Magpies,Giants
-32,4,Suns,Blues
-33,4,Kangaroos,Crows
-34,4,Dockers,Hawks
-35,4,Demons,Cats
-36,5,Saints,Tigers
-37,5,Eagles,Magpies
-38,5,Bulldogs,Suns
-39,5,Swans,Giants
-40,5,Blues,Power
-41,5,Lions,Bombers
-42,5,Crows,Dockers
-43,5,Hawks,Demons
-44,5,Cats,Kangaroos
-45,6,Giants,Bulldogs
-46,6,Cats,Eagles
-47,6,Suns,Swans
-48,6,Blues,Lions
-49,6,Dockers,Kangaroos
-50,6,Demons,Tigers
-51,6,Hawks,Crows
-52,6,Magpies,Bombers
-53,6,Power,Saints
-54,7,Lions,Power
-55,7,Magpies,Suns
-56,7,Bombers,Blues
-57,7,Kangaroos,Demons
-58,7,Tigers,Bulldogs
-59,7,Saints,Hawks
-60,7,Swans,Cats
-61,7,Crows,Giants
-62,7,Eagles,Dockers
-63,8,Suns,Saints
-64,8,Giants,Bombers
-65,8,Hawks,Eagles
-66,8,Demons,Swans
-67,8,Kangaroos,Magpies
-68,8,Tigers,Cats
-69,8,Bulldogs,Blues
-70,8,Power,Crows
-71,8,Dockers,Lions
-72,9,Bombers,Dockers
-73,9,Suns,Lions
-74,9,Hawks,Kangaroos
-75,9,Demons,Blues
-76,9,Tigers,Giants
-77,9,Saints,Cats
-78,9,Swans,Magpies
-79,9,Power,Bulldogs
-80,9,Eagles,Crows
-81,10,Lions,Tigers
-82,10,Blues,Hawks
-83,10,Magpies,Power
-84,10,Bombers,Kangaroos
-85,10,Cats,Suns
-86,10,Giants,Eagles
-87,10,Bulldogs,Saints
-88,10,Crows,Demons
-89,10,Dockers,Swans
-90,11,Lions,Giants
-91,11,Magpies,Cats
-92,11,Tigers,Crows
-93,11,Saints,Kangaroos
-94,11,Swans,Blues
-95,11,Bulldogs,Demons
-96,11,Suns,Hawks
-97,11,Power,Dockers
-98,11,Eagles,Bombers
-99,12,Blues,Eagles
-100,12,Bombers,Tigers
-101,12,Saints,Swans
-102,12,Crows,Magpies
-103,12,Demons,Lions
-104,12,Dockers,Bulldogs
-105,13,Demons,Magpies
-106,13,Kangaroos,Giants
-107,13,Saints,Crows
-108,13,Swans,Hawks
-109,13,Power,Cats
-110,13,Dockers,Suns
-111,14,Cats,Bulldogs
-112,14,Suns,Power
-113,14,Giants,Blues
-114,14,Hawks,Bombers
-115,14,Kangaroos,Lions
-116,14,Eagles,Tigers
-117,15,Lions,Cats
-118,15,Blues,Crows
-119,15,Magpies,Dockers
-120,15,Bombers,Demons
-121,15,Giants,Hawks
-122,15,Kangaroos,Suns
-123,15,Tigers,Saints
-124,15,Power,Swans
-125,15,Eagles,Bulldogs
-126,16,Magpies,Saints
-127,16,Cats,Bombers
-128,16,Suns,Tigers
-129,16,Hawks,Power
-130,16,Demons,Giants
-131,16,Swans,Eagles
-132,16,Bulldogs,Kangaroos
-133,16,Crows,Lions
-134,16,Dockers,Blues
-135,17,Lions,Saints
-136,17,Blues,Cats
-137,17,Bombers,Crows
-138,17,Giants,Suns
-139,17,Hawks,Dockers
-140,17,Tigers,Magpies
-141,17,Bulldogs,Swans
-142,17,Power,Demons
-143,17,Eagles,Kangaroos
-144,18,Magpies,Blues
-145,18,Suns,Bulldogs
-146,18,Giants,Swans
-147,18,Demons,Hawks
-148,18,Kangaroos,Bombers
-149,18,Tigers,Lions
-150,18,Saints,Power
-151,18,Crows,Eagles
-152,18,Dockers,Cats
-153,19,Blues,Kangaroos
-154,19,Bombers,Giants
-155,19,Cats,Tigers
-156,19,Suns,Demons
-157,19,Hawks,Lions
-158,19,Swans,Dockers
-159,19,Bulldogs,Crows
-160,19,Power,Magpies
-161,19,Eagles,Saints
-162,20,Lions,Suns
-163,20,Magpies,Eagles
-164,20,Bombers,Swans
-165,20,Giants,Power
-166,20,Demons,Bulldogs
-167,20,Kangaroos,Cats
-168,20,Saints,Blues
-169,20,Crows,Hawks
-170,20,Dockers,Tigers
-171,21,Lions,Dockers
-172,21,Blues,Suns
-173,21,Cats,Giants
-174,21,Hawks,Magpies
-175,21,Tigers,Kangaroos
-176,21,Swans,Saints
-177,21,Bulldogs,Bombers
-178,21,Crows,Power
-179,21,Eagles,Demons
-180,22,Magpies,Lions
-181,22,Cats,Saints
-182,22,Suns,Bombers
-183,22,Giants,Tigers
-184,22,Hawks,Bulldogs
-185,22,Demons,Crows
-186,22,Kangaroos,Swans
-187,22,Power,Blues
-188,22,Dockers,Eagles
-189,23,Lions,Eagles
-190,23,Blues,Giants
-191,23,Bombers,Magpies
-192,23,Cats,Demons
-193,23,Tigers,Hawks
-194,23,Saints,Dockers
-195,23,Swans,Suns
-196,23,Bulldogs,Power
-197,23,Crows,Kangaroos
-198,1,Blues,Tigers
-199,1,Bulldogs,Magpies
-200,1,Dockers,Demons
-201,1,Cats,Crows
-202,1,Swans,Lions
-203,1,Hawks,Bombers
-204,1,Power,Kangaroos
-205,1,Suns,Eagles
-206,1,Saints,Giants
-207,2,Magpies,Blues
-208,2,Lions,Cats
-209,2,Crows,Swans
-210,2,Bombers,Power
-211,2,Kangaroos,Suns
-212,2,Demons,Saints
-213,2,Tigers,Hawks
-214,2,Giants,Dockers
-215,2,Eagles,Bulldogs
-216,3,Magpies,Lions
-217,3,Bulldogs,Kangaroos
-218,3,Suns,Crows
-219,3,Swans,Tigers
-220,3,Saints,Bombers
-221,3,Power,Eagles
-222,3,Dockers,Blues
-223,3,Demons,Giants
-224,3,Hawks,Cats
-225,4,Bombers,Swans
-226,4,Tigers,Power
-227,4,Lions,Bulldogs
-228,4,Eagles,Saints
-229,4,Giants,Magpies
-230,4,Blues,Suns
-231,4,Crows,Kangaroos
-232,4,Hawks,Dockers
-233,4,Cats,Demons
-234,5,Tigers,Saints
-235,5,Magpies,Eagles
-236,5,Suns,Bulldogs
-237,5,Giants,Swans
-238,5,Power,Blues
-239,5,Bombers,Lions
-240,5,Dockers,Crows
-241,5,Demons,Hawks
-242,5,Kangaroos,Cats
-243,6,Bulldogs,Giants
-244,6,Eagles,Cats
-245,6,Swans,Suns
-246,6,Lions,Blues
-247,6,Kangaroos,Dockers
-248,6,Tigers,Demons
-249,6,Crows,Hawks
-250,6,Bombers,Magpies
-251,6,Saints,Power
-252,7,Power,Lions
-253,7,Suns,Magpies
-254,7,Blues,Bombers
-255,7,Demons,Kangaroos
-256,7,Bulldogs,Tigers
-257,7,Hawks,Saints
-258,7,Cats,Swans
-259,7,Giants,Crows
-260,7,Dockers,Eagles
-261,8,Saints,Suns
-262,8,Bombers,Giants
-263,8,Eagles,Hawks
-264,8,Swans,Demons
-265,8,Magpies,Kangaroos
-266,8,Cats,Tigers
-267,8,Blues,Bulldogs
-268,8,Crows,Power
-269,8,Lions,Dockers
-270,9,Dockers,Bombers
-271,9,Lions,Suns
-272,9,Kangaroos,Hawks
-273,9,Blues,Demons
-274,9,Giants,Tigers
-275,9,Cats,Saints
-276,9,Magpies,Swans
-277,9,Bulldogs,Power
-278,9,Crows,Eagles
-279,10,Tigers,Lions
-280,10,Hawks,Blues
-281,10,Power,Magpies
-282,10,Kangaroos,Bombers
-283,10,Suns,Cats
-284,10,Eagles,Giants
-285,10,Saints,Bulldogs
-286,10,Demons,Crows
-287,10,Swans,Dockers
-288,11,Giants,Lions
-289,11,Cats,Magpies
-290,11,Crows,Tigers
-291,11,Kangaroos,Saints
-292,11,Blues,Swans
-293,11,Demons,Bulldogs
-294,11,Hawks,Suns
-295,11,Dockers,Power
-296,11,Bombers,Eagles
-297,12,Eagles,Blues
-298,12,Tigers,Bombers
-299,12,Swans,Saints
-300,12,Magpies,Crows
-301,12,Lions,Demons
-302,12,Bulldogs,Dockers
-303,13,Magpies,Demons
-304,13,Giants,Kangaroos
-305,13,Crows,Saints
-306,13,Hawks,Swans
-307,13,Cats,Power
-308,13,Suns,Dockers
-309,14,Bulldogs,Cats
-310,14,Power,Suns
-311,14,Blues,Giants
-312,14,Bombers,Hawks
-313,14,Lions,Kangaroos
-314,14,Tigers,Eagles
-315,15,Cats,Lions
-316,15,Crows,Blues
-317,15,Dockers,Magpies
-318,15,Demons,Bombers
-319,15,Hawks,Giants
-320,15,Suns,Kangaroos
-321,15,Saints,Tigers
-322,15,Swans,Power
-323,15,Bulldogs,Eagles
-324,16,Saints,Magpies
-325,16,Bombers,Cats
-326,16,Tigers,Suns
-327,16,Power,Hawks
-328,16,Giants,Demons
-329,16,Eagles,Swans
-330,16,Kangaroos,Bulldogs
-331,16,Lions,Crows
-332,16,Blues,Dockers
-333,17,Saints,Lions
-334,17,Cats,Blues
-335,17,Crows,Bombers
-336,17,Suns,Giants
-337,17,Dockers,Hawks
-338,17,Magpies,Tigers
-339,17,Swans,Bulldogs
-340,17,Demons,Power
-341,17,Kangaroos,Eagles
-342,18,Blues,Magpies
-343,18,Bulldogs,Suns
-344,18,Swans,Giants
-345,18,Hawks,Demons
-346,18,Bombers,Kangaroos
-347,18,Lions,Tigers
-348,18,Power,Saints
-349,18,Eagles,Crows
-350,18,Cats,Dockers
-351,19,Kangaroos,Blues
-352,19,Giants,Bombers
-353,19,Tigers,Cats
-354,19,Demons,Suns
-355,19,Lions,Hawks
-356,19,Dockers,Swans
-357,19,Crows,Bulldogs
-358,19,Magpies,Power
-359,19,Saints,Eagles
-360,20,Suns,Lions
-361,20,Eagles,Magpies
-362,20,Swans,Bombers
-363,20,Power,Giants
-364,20,Bulldogs,Demons
-365,20,Cats,Kangaroos
-366,20,Blues,Saints
-367,20,Hawks,Crows
-368,20,Tigers,Dockers
-369,21,Dockers,Lions
-370,21,Suns,Blues
-371,21,Giants,Cats
-372,21,Magpies,Hawks
-373,21,Kangaroos,Tigers
-374,21,Saints,Swans
-375,21,Bombers,Bulldogs
-376,21,Power,Crows
-377,21,Demons,Eagles
-378,22,Lions,Magpies
-379,22,Saints,Cats
-380,22,Bombers,Suns
-381,22,Tigers,Giants
-382,22,Bulldogs,Hawks
-383,22,Crows,Demons
-384,22,Swans,Kangaroos
-385,22,Blues,Power
-386,22,Eagles,Dockers
-387,23,Eagles,Lions
-388,23,Giants,Blues
-389,23,Magpies,Bombers
-390,23,Demons,Cats
-391,23,Hawks,Tigers
-392,23,Dockers,Saints
-393,23,Suns,Swans
-394,23,Power,Bulldogs
-395,23,Kangaroos,Crows
+,Round,Team 1,Team 2,Date
+0,1,Tigers,Blues,Thu 18 Mar 7:25pm
+1,1,Magpies,Bulldogs,Fri 19 Mar 7:50pm
+2,1,Demons,Dockers,Sat 20 Mar 1:45pm
+3,1,Crows,Cats,Sat 20 Mar 4:05pm
+4,1,Lions,Swans,Sat 20 Mar 6:45pm
+5,1,Bombers,Hawks,Sat 20 Mar 7:25pm
+6,1,Kangaroos,Power,Sun 21 Mar 1:10pm
+7,1,Eagles,Suns,Sun 21 Mar 3:10pm
+8,1,Giants,Saints,Sun 21 Mar 3:20pm
+9,2,Blues,Magpies,Thu 25 Mar 7:20pm
+10,2,Cats,Lions,Fri 26 Mar 7:20pm
+11,2,Swans,Crows,Sat 27 Mar 1:45pm
+12,2,Power,Bombers,Sat 27 Mar 4:05pm
+13,2,Suns,Kangaroos,Sat 27 Mar 7:10pm
+14,2,Saints,Demons,Sat 27 Mar 7:25pm
+15,2,Hawks,Tigers,Sun 28 Mar 1:10pm
+16,2,Dockers,Giants,Sun 28 Mar 3:10pm
+17,2,Bulldogs,Eagles,Sun 28 Mar 3:20pm
+18,3,Lions,Magpies,Thu 1 Apr 6:40pm
+19,3,Kangaroos,Bulldogs,Fri 2 Apr 4:20pm
+20,3,Crows,Suns,Fri 2 Apr 7:20pm
+21,3,Tigers,Swans,Sat 3 Apr 1:45pm
+22,3,Bombers,Saints,Sat 3 Apr 4:35pm
+23,3,Eagles,Power,Sat 3 Apr 5:10pm
+24,3,Blues,Dockers,Sun 4 Apr 3:20pm
+25,3,Giants,Demons,Sun 4 Apr 6:10pm
+26,3,Cats,Hawks,Mon 5 Apr 3:20pm
+27,4,Swans,Bombers,Thu 8 Apr 7:20pm
+28,4,Power,Tigers,Fri 9 Apr 7:20pm
+29,4,Bulldogs,Lions,Sat 10 Apr 1:45pm
+30,4,Saints,Eagles,Sat 10 Apr 4:35pm
+31,4,Suns,Blues,Sat 10 Apr 7:25pm
+32,4,Magpies,Giants,Sat 10 Apr 7:25pm
+33,4,Kangaroos,Crows,Sun 11 Apr 1:10pm
+34,4,Dockers,Hawks,Sun 11 Apr 2:40pm
+35,4,Demons,Cats,Sun 11 Apr 3:20pm
+36,5,Saints,Tigers,Thu 15 Apr 7:20pm
+37,5,Eagles,Magpies,Fri 16 Apr 6:10pm
+38,5,Bulldogs,Suns,Sat 17 Apr 1:45pm
+39,5,Swans,Giants,Sat 17 Apr 4:35pm
+40,5,Blues,Power,Sat 17 Apr 7:25pm
+41,5,Lions,Bombers,Sat 17 Apr 7:25pm
+42,5,Crows,Dockers,Sun 18 Apr 12:40pm
+43,5,Hawks,Demons,Sun 18 Apr 3:20pm
+44,5,Cats,Kangaroos,Sun 18 Apr 4:40pm
+45,6,Giants,Bulldogs,Fri 23 Apr 7:20pm
+46,6,Cats,Eagles,Sat 24 Apr 1:45pm
+47,6,Suns,Swans,Sat 24 Apr 1:45pm
+48,6,Blues,Lions,Sat 24 Apr 4:35pm
+49,6,Dockers,Kangaroos,Sat 24 Apr 6:10pm
+50,6,Demons,Tigers,Sat 24 Apr 7:25pm
+51,6,Hawks,Crows,Sun 25 Apr 12:30pm
+52,6,Magpies,Bombers,Sun 25 Apr 3:20pm
+53,6,Power,Saints,Sun 25 Apr 6:10pm
+54,7,Lions,Power,Sat 1 May 12:00pm
+55,7,Magpies,Suns,Sat 1 May 12:00pm
+56,7,Bombers,Blues,Sat 1 May 12:00pm
+57,7,Kangaroos,Demons,Sat 1 May 12:00pm
+58,7,Tigers,Bulldogs,Sat 1 May 12:00pm
+59,7,Saints,Hawks,Sat 1 May 12:00pm
+60,7,Swans,Cats,Sat 1 May 12:00pm
+61,7,Crows,Giants,Sat 1 May 12:00pm
+62,7,Eagles,Dockers,Sat 1 May 12:00pm
+63,8,Suns,Saints,Sat 8 May 12:00pm
+64,8,Giants,Bombers,Sat 8 May 12:00pm
+65,8,Hawks,Eagles,Sat 8 May 12:00pm
+66,8,Demons,Swans,Sat 8 May 12:00pm
+67,8,Kangaroos,Magpies,Sat 8 May 12:00pm
+68,8,Tigers,Cats,Sat 8 May 12:00pm
+69,8,Bulldogs,Blues,Sat 8 May 12:00pm
+70,8,Power,Crows,Sat 8 May 12:00pm
+71,8,Dockers,Lions,Sat 8 May 12:00pm
+72,9,Bombers,Dockers,Sat 15 May 12:00pm
+73,9,Suns,Lions,Sat 15 May 12:00pm
+74,9,Hawks,Kangaroos,Sat 15 May 12:00pm
+75,9,Demons,Blues,Sat 15 May 12:00pm
+76,9,Tigers,Giants,Sat 15 May 12:00pm
+77,9,Saints,Cats,Sat 15 May 12:00pm
+78,9,Swans,Magpies,Sat 15 May 12:00pm
+79,9,Power,Bulldogs,Sat 15 May 12:00pm
+80,9,Eagles,Crows,Sat 15 May 12:00pm
+81,10,Lions,Tigers,Sat 22 May 12:00pm
+82,10,Blues,Hawks,Sat 22 May 12:00pm
+83,10,Magpies,Power,Sat 22 May 12:00pm
+84,10,Bombers,Kangaroos,Sat 22 May 12:00pm
+85,10,Cats,Suns,Sat 22 May 12:00pm
+86,10,Giants,Eagles,Sat 22 May 12:00pm
+87,10,Bulldogs,Saints,Sat 22 May 12:00pm
+88,10,Crows,Demons,Sat 22 May 12:00pm
+89,10,Dockers,Swans,Sat 22 May 12:00pm
+90,11,Lions,Giants,Sat 29 May 12:00pm
+91,11,Magpies,Cats,Sat 29 May 12:00pm
+92,11,Tigers,Crows,Sat 29 May 12:00pm
+93,11,Saints,Kangaroos,Sat 29 May 12:00pm
+94,11,Swans,Blues,Sat 29 May 12:00pm
+95,11,Bulldogs,Demons,Sat 29 May 12:00pm
+96,11,Suns,Hawks,Sat 29 May 12:00pm
+97,11,Power,Dockers,Sat 29 May 12:00pm
+98,11,Eagles,Bombers,Sat 29 May 12:00pm
+99,12,Demons,Lions,Sat 5 Jun 12:00pm
+100,12,Blues,Eagles,Sat 5 Jun 12:00pm
+101,12,Bombers,Tigers,Sat 5 Jun 12:00pm
+102,12,Saints,Swans,Sat 5 Jun 12:00pm
+103,12,Crows,Magpies,Sat 5 Jun 12:00pm
+104,12,Dockers,Bulldogs,Sat 5 Jun 12:00pm
+105,13,Demons,Magpies,Sat 12 Jun 12:00pm
+106,13,Kangaroos,Giants,Sat 12 Jun 12:00pm
+107,13,Saints,Crows,Sat 12 Jun 12:00pm
+108,13,Swans,Hawks,Sat 12 Jun 12:00pm
+109,13,Power,Cats,Sat 12 Jun 12:00pm
+110,13,Dockers,Suns,Sat 12 Jun 12:00pm
+111,14,Cats,Bulldogs,Sat 19 Jun 12:00pm
+112,14,Suns,Power,Sat 19 Jun 12:00pm
+113,14,Giants,Blues,Sat 19 Jun 12:00pm
+114,14,Hawks,Bombers,Sat 19 Jun 12:00pm
+115,14,Kangaroos,Lions,Sat 19 Jun 12:00pm
+116,14,Eagles,Tigers,Sat 19 Jun 12:00pm
+117,15,Lions,Cats,Sat 26 Jun 12:00pm
+118,15,Blues,Crows,Sat 26 Jun 12:00pm
+119,15,Magpies,Dockers,Sat 26 Jun 12:00pm
+120,15,Bombers,Demons,Sat 26 Jun 12:00pm
+121,15,Giants,Hawks,Sat 26 Jun 12:00pm
+122,15,Kangaroos,Suns,Sat 26 Jun 12:00pm
+123,15,Tigers,Saints,Sat 26 Jun 12:00pm
+124,15,Power,Swans,Sat 26 Jun 12:00pm
+125,15,Eagles,Bulldogs,Sat 26 Jun 12:00pm
+126,16,Magpies,Saints,Sat 3 Jul 12:00pm
+127,16,Cats,Bombers,Sat 3 Jul 12:00pm
+128,16,Suns,Tigers,Sat 3 Jul 12:00pm
+129,16,Hawks,Power,Sat 3 Jul 12:00pm
+130,16,Demons,Giants,Sat 3 Jul 12:00pm
+131,16,Swans,Eagles,Sat 3 Jul 12:00pm
+132,16,Bulldogs,Kangaroos,Sat 3 Jul 12:00pm
+133,16,Crows,Lions,Sat 3 Jul 12:00pm
+134,16,Dockers,Blues,Sat 3 Jul 12:00pm
+135,17,Lions,Saints,Sat 10 Jul 12:00pm
+136,17,Blues,Cats,Sat 10 Jul 12:00pm
+137,17,Bombers,Crows,Sat 10 Jul 12:00pm
+138,17,Giants,Suns,Sat 10 Jul 12:00pm
+139,17,Hawks,Dockers,Sat 10 Jul 12:00pm
+140,17,Tigers,Magpies,Sat 10 Jul 12:00pm
+141,17,Bulldogs,Swans,Sat 10 Jul 12:00pm
+142,17,Power,Demons,Sat 10 Jul 12:00pm
+143,17,Eagles,Kangaroos,Sat 10 Jul 12:00pm
+144,18,Magpies,Blues,Sat 17 Jul 12:00pm
+145,18,Suns,Bulldogs,Sat 17 Jul 12:00pm
+146,18,Giants,Swans,Sat 17 Jul 12:00pm
+147,18,Demons,Hawks,Sat 17 Jul 12:00pm
+148,18,Kangaroos,Bombers,Sat 17 Jul 12:00pm
+149,18,Tigers,Lions,Sat 17 Jul 12:00pm
+150,18,Saints,Power,Sat 17 Jul 12:00pm
+151,18,Crows,Eagles,Sat 17 Jul 12:00pm
+152,18,Dockers,Cats,Sat 17 Jul 12:00pm
+153,19,Blues,Kangaroos,Sat 24 Jul 12:00pm
+154,19,Bombers,Giants,Sat 24 Jul 12:00pm
+155,19,Cats,Tigers,Sat 24 Jul 12:00pm
+156,19,Suns,Demons,Sat 24 Jul 12:00pm
+157,19,Hawks,Lions,Sat 24 Jul 12:00pm
+158,19,Swans,Dockers,Sat 24 Jul 12:00pm
+159,19,Bulldogs,Crows,Sat 24 Jul 12:00pm
+160,19,Power,Magpies,Sat 24 Jul 12:00pm
+161,19,Eagles,Saints,Sat 24 Jul 12:00pm
+162,20,Lions,Suns,Sat 31 Jul 12:00pm
+163,20,Magpies,Eagles,Sat 31 Jul 12:00pm
+164,20,Bombers,Swans,Sat 31 Jul 12:00pm
+165,20,Giants,Power,Sat 31 Jul 12:00pm
+166,20,Demons,Bulldogs,Sat 31 Jul 12:00pm
+167,20,Kangaroos,Cats,Sat 31 Jul 12:00pm
+168,20,Saints,Blues,Sat 31 Jul 12:00pm
+169,20,Crows,Hawks,Sat 31 Jul 12:00pm
+170,20,Dockers,Tigers,Sat 31 Jul 12:00pm
+171,21,Lions,Dockers,Sat 7 Aug 12:00pm
+172,21,Blues,Suns,Sat 7 Aug 12:00pm
+173,21,Cats,Giants,Sat 7 Aug 12:00pm
+174,21,Hawks,Magpies,Sat 7 Aug 12:00pm
+175,21,Tigers,Kangaroos,Sat 7 Aug 12:00pm
+176,21,Swans,Saints,Sat 7 Aug 12:00pm
+177,21,Bulldogs,Bombers,Sat 7 Aug 12:00pm
+178,21,Crows,Power,Sat 7 Aug 12:00pm
+179,21,Eagles,Demons,Sat 7 Aug 12:00pm
+180,22,Magpies,Lions,Sat 14 Aug 12:00pm
+181,22,Cats,Saints,Sat 14 Aug 12:00pm
+182,22,Suns,Bombers,Sat 14 Aug 12:00pm
+183,22,Giants,Tigers,Sat 14 Aug 12:00pm
+184,22,Hawks,Bulldogs,Sat 14 Aug 12:00pm
+185,22,Demons,Crows,Sat 14 Aug 12:00pm
+186,22,Kangaroos,Swans,Sat 14 Aug 12:00pm
+187,22,Power,Blues,Sat 14 Aug 12:00pm
+188,22,Dockers,Eagles,Sat 14 Aug 12:00pm
+189,23,Lions,Eagles,Sat 21 Aug 12:00pm
+190,23,Blues,Giants,Sat 21 Aug 12:00pm
+191,23,Bombers,Magpies,Sat 21 Aug 12:00pm
+192,23,Cats,Demons,Sat 21 Aug 12:00pm
+193,23,Tigers,Hawks,Sat 21 Aug 12:00pm
+194,23,Saints,Dockers,Sat 21 Aug 12:00pm
+195,23,Swans,Suns,Sat 21 Aug 12:00pm
+196,23,Bulldogs,Power,Sat 21 Aug 12:00pm
+197,23,Crows,Kangaroos,Sat 21 Aug 12:00pm
+198,1,Blues,Tigers,Thu 18 Mar 7:25pm
+199,1,Bulldogs,Magpies,Fri 19 Mar 7:50pm
+200,1,Dockers,Demons,Sat 20 Mar 1:45pm
+201,1,Cats,Crows,Sat 20 Mar 4:05pm
+202,1,Swans,Lions,Sat 20 Mar 6:45pm
+203,1,Hawks,Bombers,Sat 20 Mar 7:25pm
+204,1,Power,Kangaroos,Sun 21 Mar 1:10pm
+205,1,Suns,Eagles,Sun 21 Mar 3:10pm
+206,1,Saints,Giants,Sun 21 Mar 3:20pm
+207,2,Magpies,Blues,Thu 25 Mar 7:20pm
+208,2,Lions,Cats,Fri 26 Mar 7:20pm
+209,2,Crows,Swans,Sat 27 Mar 1:45pm
+210,2,Bombers,Power,Sat 27 Mar 4:05pm
+211,2,Kangaroos,Suns,Sat 27 Mar 7:10pm
+212,2,Demons,Saints,Sat 27 Mar 7:25pm
+213,2,Tigers,Hawks,Sun 28 Mar 1:10pm
+214,2,Giants,Dockers,Sun 28 Mar 3:10pm
+215,2,Eagles,Bulldogs,Sun 28 Mar 3:20pm
+216,3,Magpies,Lions,Thu 1 Apr 6:40pm
+217,3,Bulldogs,Kangaroos,Fri 2 Apr 4:20pm
+218,3,Suns,Crows,Fri 2 Apr 7:20pm
+219,3,Swans,Tigers,Sat 3 Apr 1:45pm
+220,3,Saints,Bombers,Sat 3 Apr 4:35pm
+221,3,Power,Eagles,Sat 3 Apr 5:10pm
+222,3,Dockers,Blues,Sun 4 Apr 3:20pm
+223,3,Demons,Giants,Sun 4 Apr 6:10pm
+224,3,Hawks,Cats,Mon 5 Apr 3:20pm
+225,4,Bombers,Swans,Thu 8 Apr 7:20pm
+226,4,Tigers,Power,Fri 9 Apr 7:20pm
+227,4,Lions,Bulldogs,Sat 10 Apr 1:45pm
+228,4,Eagles,Saints,Sat 10 Apr 4:35pm
+229,4,Blues,Suns,Sat 10 Apr 7:25pm
+230,4,Giants,Magpies,Sat 10 Apr 7:25pm
+231,4,Crows,Kangaroos,Sun 11 Apr 1:10pm
+232,4,Hawks,Dockers,Sun 11 Apr 2:40pm
+233,4,Cats,Demons,Sun 11 Apr 3:20pm
+234,5,Tigers,Saints,Thu 15 Apr 7:20pm
+235,5,Magpies,Eagles,Fri 16 Apr 6:10pm
+236,5,Suns,Bulldogs,Sat 17 Apr 1:45pm
+237,5,Giants,Swans,Sat 17 Apr 4:35pm
+238,5,Power,Blues,Sat 17 Apr 7:25pm
+239,5,Bombers,Lions,Sat 17 Apr 7:25pm
+240,5,Dockers,Crows,Sun 18 Apr 12:40pm
+241,5,Demons,Hawks,Sun 18 Apr 3:20pm
+242,5,Kangaroos,Cats,Sun 18 Apr 4:40pm
+243,6,Bulldogs,Giants,Fri 23 Apr 7:20pm
+244,6,Eagles,Cats,Sat 24 Apr 1:45pm
+245,6,Swans,Suns,Sat 24 Apr 1:45pm
+246,6,Lions,Blues,Sat 24 Apr 4:35pm
+247,6,Kangaroos,Dockers,Sat 24 Apr 6:10pm
+248,6,Tigers,Demons,Sat 24 Apr 7:25pm
+249,6,Crows,Hawks,Sun 25 Apr 12:30pm
+250,6,Bombers,Magpies,Sun 25 Apr 3:20pm
+251,6,Saints,Power,Sun 25 Apr 6:10pm
+252,7,Power,Lions,Sat 1 May 12:00pm
+253,7,Suns,Magpies,Sat 1 May 12:00pm
+254,7,Blues,Bombers,Sat 1 May 12:00pm
+255,7,Demons,Kangaroos,Sat 1 May 12:00pm
+256,7,Bulldogs,Tigers,Sat 1 May 12:00pm
+257,7,Hawks,Saints,Sat 1 May 12:00pm
+258,7,Cats,Swans,Sat 1 May 12:00pm
+259,7,Giants,Crows,Sat 1 May 12:00pm
+260,7,Dockers,Eagles,Sat 1 May 12:00pm
+261,8,Saints,Suns,Sat 8 May 12:00pm
+262,8,Bombers,Giants,Sat 8 May 12:00pm
+263,8,Eagles,Hawks,Sat 8 May 12:00pm
+264,8,Swans,Demons,Sat 8 May 12:00pm
+265,8,Magpies,Kangaroos,Sat 8 May 12:00pm
+266,8,Cats,Tigers,Sat 8 May 12:00pm
+267,8,Blues,Bulldogs,Sat 8 May 12:00pm
+268,8,Crows,Power,Sat 8 May 12:00pm
+269,8,Lions,Dockers,Sat 8 May 12:00pm
+270,9,Dockers,Bombers,Sat 15 May 12:00pm
+271,9,Lions,Suns,Sat 15 May 12:00pm
+272,9,Kangaroos,Hawks,Sat 15 May 12:00pm
+273,9,Blues,Demons,Sat 15 May 12:00pm
+274,9,Giants,Tigers,Sat 15 May 12:00pm
+275,9,Cats,Saints,Sat 15 May 12:00pm
+276,9,Magpies,Swans,Sat 15 May 12:00pm
+277,9,Bulldogs,Power,Sat 15 May 12:00pm
+278,9,Crows,Eagles,Sat 15 May 12:00pm
+279,10,Tigers,Lions,Sat 22 May 12:00pm
+280,10,Hawks,Blues,Sat 22 May 12:00pm
+281,10,Power,Magpies,Sat 22 May 12:00pm
+282,10,Kangaroos,Bombers,Sat 22 May 12:00pm
+283,10,Suns,Cats,Sat 22 May 12:00pm
+284,10,Eagles,Giants,Sat 22 May 12:00pm
+285,10,Saints,Bulldogs,Sat 22 May 12:00pm
+286,10,Demons,Crows,Sat 22 May 12:00pm
+287,10,Swans,Dockers,Sat 22 May 12:00pm
+288,11,Giants,Lions,Sat 29 May 12:00pm
+289,11,Cats,Magpies,Sat 29 May 12:00pm
+290,11,Crows,Tigers,Sat 29 May 12:00pm
+291,11,Kangaroos,Saints,Sat 29 May 12:00pm
+292,11,Blues,Swans,Sat 29 May 12:00pm
+293,11,Demons,Bulldogs,Sat 29 May 12:00pm
+294,11,Hawks,Suns,Sat 29 May 12:00pm
+295,11,Dockers,Power,Sat 29 May 12:00pm
+296,11,Bombers,Eagles,Sat 29 May 12:00pm
+297,12,Lions,Demons,Sat 5 Jun 12:00pm
+298,12,Eagles,Blues,Sat 5 Jun 12:00pm
+299,12,Tigers,Bombers,Sat 5 Jun 12:00pm
+300,12,Swans,Saints,Sat 5 Jun 12:00pm
+301,12,Magpies,Crows,Sat 5 Jun 12:00pm
+302,12,Bulldogs,Dockers,Sat 5 Jun 12:00pm
+303,13,Magpies,Demons,Sat 12 Jun 12:00pm
+304,13,Giants,Kangaroos,Sat 12 Jun 12:00pm
+305,13,Crows,Saints,Sat 12 Jun 12:00pm
+306,13,Hawks,Swans,Sat 12 Jun 12:00pm
+307,13,Cats,Power,Sat 12 Jun 12:00pm
+308,13,Suns,Dockers,Sat 12 Jun 12:00pm
+309,14,Bulldogs,Cats,Sat 19 Jun 12:00pm
+310,14,Power,Suns,Sat 19 Jun 12:00pm
+311,14,Blues,Giants,Sat 19 Jun 12:00pm
+312,14,Bombers,Hawks,Sat 19 Jun 12:00pm
+313,14,Lions,Kangaroos,Sat 19 Jun 12:00pm
+314,14,Tigers,Eagles,Sat 19 Jun 12:00pm
+315,15,Cats,Lions,Sat 26 Jun 12:00pm
+316,15,Crows,Blues,Sat 26 Jun 12:00pm
+317,15,Dockers,Magpies,Sat 26 Jun 12:00pm
+318,15,Demons,Bombers,Sat 26 Jun 12:00pm
+319,15,Hawks,Giants,Sat 26 Jun 12:00pm
+320,15,Suns,Kangaroos,Sat 26 Jun 12:00pm
+321,15,Saints,Tigers,Sat 26 Jun 12:00pm
+322,15,Swans,Power,Sat 26 Jun 12:00pm
+323,15,Bulldogs,Eagles,Sat 26 Jun 12:00pm
+324,16,Saints,Magpies,Sat 3 Jul 12:00pm
+325,16,Bombers,Cats,Sat 3 Jul 12:00pm
+326,16,Tigers,Suns,Sat 3 Jul 12:00pm
+327,16,Power,Hawks,Sat 3 Jul 12:00pm
+328,16,Giants,Demons,Sat 3 Jul 12:00pm
+329,16,Eagles,Swans,Sat 3 Jul 12:00pm
+330,16,Kangaroos,Bulldogs,Sat 3 Jul 12:00pm
+331,16,Lions,Crows,Sat 3 Jul 12:00pm
+332,16,Blues,Dockers,Sat 3 Jul 12:00pm
+333,17,Saints,Lions,Sat 10 Jul 12:00pm
+334,17,Cats,Blues,Sat 10 Jul 12:00pm
+335,17,Crows,Bombers,Sat 10 Jul 12:00pm
+336,17,Suns,Giants,Sat 10 Jul 12:00pm
+337,17,Dockers,Hawks,Sat 10 Jul 12:00pm
+338,17,Magpies,Tigers,Sat 10 Jul 12:00pm
+339,17,Swans,Bulldogs,Sat 10 Jul 12:00pm
+340,17,Demons,Power,Sat 10 Jul 12:00pm
+341,17,Kangaroos,Eagles,Sat 10 Jul 12:00pm
+342,18,Blues,Magpies,Sat 17 Jul 12:00pm
+343,18,Bulldogs,Suns,Sat 17 Jul 12:00pm
+344,18,Swans,Giants,Sat 17 Jul 12:00pm
+345,18,Hawks,Demons,Sat 17 Jul 12:00pm
+346,18,Bombers,Kangaroos,Sat 17 Jul 12:00pm
+347,18,Lions,Tigers,Sat 17 Jul 12:00pm
+348,18,Power,Saints,Sat 17 Jul 12:00pm
+349,18,Eagles,Crows,Sat 17 Jul 12:00pm
+350,18,Cats,Dockers,Sat 17 Jul 12:00pm
+351,19,Kangaroos,Blues,Sat 24 Jul 12:00pm
+352,19,Giants,Bombers,Sat 24 Jul 12:00pm
+353,19,Tigers,Cats,Sat 24 Jul 12:00pm
+354,19,Demons,Suns,Sat 24 Jul 12:00pm
+355,19,Lions,Hawks,Sat 24 Jul 12:00pm
+356,19,Dockers,Swans,Sat 24 Jul 12:00pm
+357,19,Crows,Bulldogs,Sat 24 Jul 12:00pm
+358,19,Magpies,Power,Sat 24 Jul 12:00pm
+359,19,Saints,Eagles,Sat 24 Jul 12:00pm
+360,20,Suns,Lions,Sat 31 Jul 12:00pm
+361,20,Eagles,Magpies,Sat 31 Jul 12:00pm
+362,20,Swans,Bombers,Sat 31 Jul 12:00pm
+363,20,Power,Giants,Sat 31 Jul 12:00pm
+364,20,Bulldogs,Demons,Sat 31 Jul 12:00pm
+365,20,Cats,Kangaroos,Sat 31 Jul 12:00pm
+366,20,Blues,Saints,Sat 31 Jul 12:00pm
+367,20,Hawks,Crows,Sat 31 Jul 12:00pm
+368,20,Tigers,Dockers,Sat 31 Jul 12:00pm
+369,21,Dockers,Lions,Sat 7 Aug 12:00pm
+370,21,Suns,Blues,Sat 7 Aug 12:00pm
+371,21,Giants,Cats,Sat 7 Aug 12:00pm
+372,21,Magpies,Hawks,Sat 7 Aug 12:00pm
+373,21,Kangaroos,Tigers,Sat 7 Aug 12:00pm
+374,21,Saints,Swans,Sat 7 Aug 12:00pm
+375,21,Bombers,Bulldogs,Sat 7 Aug 12:00pm
+376,21,Power,Crows,Sat 7 Aug 12:00pm
+377,21,Demons,Eagles,Sat 7 Aug 12:00pm
+378,22,Lions,Magpies,Sat 14 Aug 12:00pm
+379,22,Saints,Cats,Sat 14 Aug 12:00pm
+380,22,Bombers,Suns,Sat 14 Aug 12:00pm
+381,22,Tigers,Giants,Sat 14 Aug 12:00pm
+382,22,Bulldogs,Hawks,Sat 14 Aug 12:00pm
+383,22,Crows,Demons,Sat 14 Aug 12:00pm
+384,22,Swans,Kangaroos,Sat 14 Aug 12:00pm
+385,22,Blues,Power,Sat 14 Aug 12:00pm
+386,22,Eagles,Dockers,Sat 14 Aug 12:00pm
+387,23,Eagles,Lions,Sat 21 Aug 12:00pm
+388,23,Giants,Blues,Sat 21 Aug 12:00pm
+389,23,Magpies,Bombers,Sat 21 Aug 12:00pm
+390,23,Demons,Cats,Sat 21 Aug 12:00pm
+391,23,Hawks,Tigers,Sat 21 Aug 12:00pm
+392,23,Dockers,Saints,Sat 21 Aug 12:00pm
+393,23,Suns,Swans,Sat 21 Aug 12:00pm
+394,23,Power,Bulldogs,Sat 21 Aug 12:00pm
+395,23,Kangaroos,Crows,Sat 21 Aug 12:00pm
