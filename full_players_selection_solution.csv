@@ -1,507 +1,507 @@
-,Name,Price,Team 1,Position,Round,Team 2,Score,id,pl_pos_id,is_selected
-0,Jay Lockhart,363000,Demons,DE,18,Hawks,61.5,R:18_P:Jay Lockhart,R:18_P:Jay Lockhart_DE,1
-1,Neville Jetta,285000,Demons,DE,9,Blues,28.181818181818183,R:9_P:Neville Jetta,R:9_P:Neville Jetta_DE,1
-2,Neville Jetta,285000,Demons,DE,12,Lions,32.27272727272727,R:12_P:Neville Jetta,R:12_P:Neville Jetta_DE,1
-3,Neville Jetta,285000,Demons,DE,13,Magpies,30.727272727272727,R:13_P:Neville Jetta,R:13_P:Neville Jetta_DE,1
-4,Neville Jetta,285000,Demons,DE,22,Crows,32.90909090909091,R:22_P:Neville Jetta,R:22_P:Neville Jetta_DE,1
-5,Neville Jetta,285000,Demons,DE,15,Bombers,35.18181818181818,R:15_P:Neville Jetta,R:15_P:Neville Jetta_DE,1
-6,Neville Jetta,285000,Demons,DE,17,Power,35.36363636363637,R:17_P:Neville Jetta,R:17_P:Neville Jetta_DE,1
-7,Bayley Fritsch,553000,Demons,FO,8,Swans,69.0,R:8_P:Bayley Fritsch,R:8_P:Bayley Fritsch_FO,1
-8,Bayley Fritsch,553000,Demons,FO,9,Blues,71.0,R:9_P:Bayley Fritsch,R:9_P:Bayley Fritsch_FO,1
-9,Bayley Fritsch,553000,Demons,FO,12,Lions,63.0,R:12_P:Bayley Fritsch,R:12_P:Bayley Fritsch_FO,1
-10,Bayley Fritsch,553000,Demons,FO,13,Magpies,90.0,R:13_P:Bayley Fritsch,R:13_P:Bayley Fritsch_FO,1
-11,Bayley Fritsch,553000,Demons,FO,7,Kangaroos,91.66666666666667,R:7_P:Bayley Fritsch,R:7_P:Bayley Fritsch_FO,1
-12,Bayley Fritsch,553000,Demons,FO,10,Crows,69.33333333333333,R:10_P:Bayley Fritsch,R:10_P:Bayley Fritsch_FO,1
-13,Bayley Fritsch,553000,Demons,FO,15,Bombers,97.33333333333333,R:15_P:Bayley Fritsch,R:15_P:Bayley Fritsch_FO,1
-14,Nathan Jones,528000,Demons,MI,4,Cats,75.0,R:4_P:Nathan Jones,R:4_P:Nathan Jones_MI,1
-15,Nathan Jones,528000,Demons,MI,6,Tigers,67.54545454545455,R:6_P:Nathan Jones,R:6_P:Nathan Jones_MI,1
-16,Nathan Jones,528000,Demons,MI,8,Swans,77.36363636363636,R:8_P:Nathan Jones,R:8_P:Nathan Jones_MI,1
-17,Nathan Jones,528000,Demons,MI,9,Blues,82.45454545454545,R:9_P:Nathan Jones,R:9_P:Nathan Jones_MI,1
-18,Nathan Jones,528000,Demons,MI,12,Lions,89.9090909090909,R:12_P:Nathan Jones,R:12_P:Nathan Jones_MI,1
-19,Nathan Jones,528000,Demons,MI,13,Magpies,77.18181818181819,R:13_P:Nathan Jones,R:13_P:Nathan Jones_MI,1
-20,Nathan Jones,528000,Demons,MI,16,Giants,64.54545454545455,R:16_P:Nathan Jones,R:16_P:Nathan Jones_MI,1
-21,Nathan Jones,528000,Demons,MI,18,Hawks,84.18181818181819,R:18_P:Nathan Jones,R:18_P:Nathan Jones_MI,1
-22,Nathan Jones,528000,Demons,MI,20,Bulldogs,55.09090909090909,R:20_P:Nathan Jones,R:20_P:Nathan Jones_MI,1
-23,Nathan Jones,528000,Demons,MI,22,Crows,79.81818181818181,R:22_P:Nathan Jones,R:22_P:Nathan Jones_MI,1
-24,Nathan Jones,528000,Demons,MI,3,Giants,64.54545454545455,R:3_P:Nathan Jones,R:3_P:Nathan Jones_MI,1
-25,Nathan Jones,528000,Demons,MI,5,Hawks,84.18181818181819,R:5_P:Nathan Jones,R:5_P:Nathan Jones_MI,1
-26,Nathan Jones,528000,Demons,MI,7,Kangaroos,74.36363636363636,R:7_P:Nathan Jones,R:7_P:Nathan Jones_MI,1
-27,Nathan Jones,528000,Demons,MI,10,Crows,79.81818181818181,R:10_P:Nathan Jones,R:10_P:Nathan Jones_MI,1
-28,Nathan Jones,528000,Demons,MI,11,Bulldogs,55.09090909090909,R:11_P:Nathan Jones,R:11_P:Nathan Jones_MI,1
-29,Nathan Jones,528000,Demons,MI,15,Bombers,73.27272727272727,R:15_P:Nathan Jones,R:15_P:Nathan Jones_MI,1
-30,Nathan Jones,528000,Demons,MI,17,Power,83.9090909090909,R:17_P:Nathan Jones,R:17_P:Nathan Jones_MI,1
-31,Nathan Jones,528000,Demons,MI,19,Suns,76.0909090909091,R:19_P:Nathan Jones,R:19_P:Nathan Jones_MI,1
-32,Nathan Jones,528000,Demons,MI,21,Eagles,75.5,R:21_P:Nathan Jones,R:21_P:Nathan Jones_MI,1
-33,Nathan Jones,528000,Demons,MI,23,Cats,75.0,R:23_P:Nathan Jones,R:23_P:Nathan Jones_MI,1
-34,Jaidyn Stephenson,470000,Magpies,FO,23,Bombers,86.0,R:23_P:Jaidyn Stephenson,R:23_P:Jaidyn Stephenson_FO,1
-35,Levi Greenwood,398000,Magpies,MI,12,Crows,55.09090909090909,R:12_P:Levi Greenwood,R:12_P:Levi Greenwood_MI,1
-36,Bryce Gibbs,487000,Crows,DE,1,Cats,58.72727272727273,R:1_P:Bryce Gibbs,R:1_P:Bryce Gibbs_DE,1
-37,Bryce Gibbs,487000,Crows,DE,3,Suns,92.0,R:3_P:Bryce Gibbs,R:3_P:Bryce Gibbs_DE,1
-38,Bryce Gibbs,487000,Crows,DE,5,Dockers,77.0,R:5_P:Bryce Gibbs,R:5_P:Bryce Gibbs_DE,1
-39,Bryce Gibbs,487000,Crows,DE,7,Giants,70.36363636363636,R:7_P:Bryce Gibbs,R:7_P:Bryce Gibbs_DE,1
-40,Bryce Gibbs,487000,Crows,DE,10,Demons,84.18181818181819,R:10_P:Bryce Gibbs,R:10_P:Bryce Gibbs_DE,1
-41,Bryce Gibbs,487000,Crows,DE,12,Magpies,59.54545454545455,R:12_P:Bryce Gibbs,R:12_P:Bryce Gibbs_DE,1
-42,Bryce Gibbs,487000,Crows,DE,16,Lions,74.81818181818181,R:16_P:Bryce Gibbs,R:16_P:Bryce Gibbs_DE,1
-43,Bryce Gibbs,487000,Crows,DE,18,Eagles,73.45454545454545,R:18_P:Bryce Gibbs,R:18_P:Bryce Gibbs_DE,1
-44,Bryce Gibbs,487000,Crows,DE,20,Hawks,85.54545454545455,R:20_P:Bryce Gibbs,R:20_P:Bryce Gibbs_DE,1
-45,Bryce Gibbs,487000,Crows,DE,21,Power,85.54545454545455,R:21_P:Bryce Gibbs,R:21_P:Bryce Gibbs_DE,1
-46,Bryce Gibbs,487000,Crows,DE,23,Kangaroos,80.45454545454545,R:23_P:Bryce Gibbs,R:23_P:Bryce Gibbs_DE,1
-47,Bryce Gibbs,487000,Crows,DE,2,Swans,95.25,R:2_P:Bryce Gibbs,R:2_P:Bryce Gibbs_DE,1
-48,Bryce Gibbs,487000,Crows,DE,4,Kangaroos,80.45454545454545,R:4_P:Bryce Gibbs,R:4_P:Bryce Gibbs_DE,1
-49,Bryce Gibbs,487000,Crows,DE,6,Hawks,85.54545454545455,R:6_P:Bryce Gibbs,R:6_P:Bryce Gibbs_DE,1
-50,Bryce Gibbs,487000,Crows,DE,8,Power,85.54545454545455,R:8_P:Bryce Gibbs,R:8_P:Bryce Gibbs_DE,1
-51,Bryce Gibbs,487000,Crows,DE,9,Eagles,73.45454545454545,R:9_P:Bryce Gibbs,R:9_P:Bryce Gibbs_DE,1
-52,Bryce Gibbs,487000,Crows,DE,11,Tigers,67.45454545454545,R:11_P:Bryce Gibbs,R:11_P:Bryce Gibbs_DE,1
-53,Bryce Gibbs,487000,Crows,DE,13,Saints,76.45454545454545,R:13_P:Bryce Gibbs,R:13_P:Bryce Gibbs_DE,1
-54,Bryce Gibbs,487000,Crows,DE,15,Blues,78.63636363636364,R:15_P:Bryce Gibbs,R:15_P:Bryce Gibbs_DE,1
-55,Bryce Gibbs,487000,Crows,DE,17,Bombers,57.45454545454545,R:17_P:Bryce Gibbs,R:17_P:Bryce Gibbs_DE,1
-56,Bryce Gibbs,487000,Crows,DE,19,Bulldogs,79.63636363636364,R:19_P:Bryce Gibbs,R:19_P:Bryce Gibbs_DE,1
-57,Bryce Gibbs,487000,Crows,DE,22,Demons,84.18181818181819,R:22_P:Bryce Gibbs,R:22_P:Bryce Gibbs_DE,1
-58,Taylor Walker,366000,Crows,FO,1,Cats,46.0,R:1_P:Taylor Walker,R:1_P:Taylor Walker_FO,1
-59,Taylor Walker,366000,Crows,FO,3,Suns,53.0,R:3_P:Taylor Walker,R:3_P:Taylor Walker_FO,1
-60,Taylor Walker,366000,Crows,FO,5,Dockers,55.27272727272727,R:5_P:Taylor Walker,R:5_P:Taylor Walker_FO,1
-61,Taylor Walker,366000,Crows,FO,12,Magpies,41.54545454545455,R:12_P:Taylor Walker,R:12_P:Taylor Walker_FO,1
-62,Taylor Walker,366000,Crows,FO,16,Lions,61.90909090909091,R:16_P:Taylor Walker,R:16_P:Taylor Walker_FO,1
-63,Taylor Walker,366000,Crows,FO,18,Eagles,45.36363636363637,R:18_P:Taylor Walker,R:18_P:Taylor Walker_FO,1
-64,Taylor Walker,366000,Crows,FO,20,Hawks,52.54545454545455,R:20_P:Taylor Walker,R:20_P:Taylor Walker_FO,1
-65,Taylor Walker,366000,Crows,FO,21,Power,59.45454545454545,R:21_P:Taylor Walker,R:21_P:Taylor Walker_FO,1
-66,Taylor Walker,366000,Crows,FO,23,Kangaroos,47.18181818181818,R:23_P:Taylor Walker,R:23_P:Taylor Walker_FO,1
-67,Taylor Walker,366000,Crows,FO,2,Swans,54.5,R:2_P:Taylor Walker,R:2_P:Taylor Walker_FO,1
-68,Taylor Walker,366000,Crows,FO,4,Kangaroos,47.18181818181818,R:4_P:Taylor Walker,R:4_P:Taylor Walker_FO,1
-69,Taylor Walker,366000,Crows,FO,6,Hawks,52.54545454545455,R:6_P:Taylor Walker,R:6_P:Taylor Walker_FO,1
-70,Taylor Walker,366000,Crows,FO,8,Power,59.45454545454545,R:8_P:Taylor Walker,R:8_P:Taylor Walker_FO,1
-71,Taylor Walker,366000,Crows,FO,9,Eagles,45.36363636363637,R:9_P:Taylor Walker,R:9_P:Taylor Walker_FO,1
-72,Taylor Walker,366000,Crows,FO,13,Saints,34.36363636363637,R:13_P:Taylor Walker,R:13_P:Taylor Walker_FO,1
-73,Rory Sloane,580000,Crows,MI,3,Suns,77.9090909090909,R:3_P:Rory Sloane,R:3_P:Rory Sloane_MI,1
-74,Rory Sloane,580000,Crows,MI,5,Dockers,68.0,R:5_P:Rory Sloane,R:5_P:Rory Sloane_MI,1
-75,Rory Sloane,580000,Crows,MI,7,Giants,78.81818181818181,R:7_P:Rory Sloane,R:7_P:Rory Sloane_MI,1
-76,Rory Sloane,580000,Crows,MI,10,Demons,81.45454545454545,R:10_P:Rory Sloane,R:10_P:Rory Sloane_MI,1
-77,Rory Sloane,580000,Crows,MI,12,Magpies,57.0,R:12_P:Rory Sloane,R:12_P:Rory Sloane_MI,1
-78,Rory Sloane,580000,Crows,MI,16,Lions,76.18181818181819,R:16_P:Rory Sloane,R:16_P:Rory Sloane_MI,1
-79,Rory Sloane,580000,Crows,MI,18,Eagles,71.81818181818181,R:18_P:Rory Sloane,R:18_P:Rory Sloane_MI,1
-80,Rory Sloane,580000,Crows,MI,20,Hawks,77.81818181818181,R:20_P:Rory Sloane,R:20_P:Rory Sloane_MI,1
-81,Rory Sloane,580000,Crows,MI,21,Power,85.0,R:21_P:Rory Sloane,R:21_P:Rory Sloane_MI,1
-82,Rory Sloane,580000,Crows,MI,2,Swans,84.58333333333333,R:2_P:Rory Sloane,R:2_P:Rory Sloane_MI,1
-83,Rory Sloane,580000,Crows,MI,4,Kangaroos,59.63636363636363,R:4_P:Rory Sloane,R:4_P:Rory Sloane_MI,1
-84,Rory Sloane,580000,Crows,MI,6,Hawks,77.81818181818181,R:6_P:Rory Sloane,R:6_P:Rory Sloane_MI,1
-85,Rory Sloane,580000,Crows,MI,8,Power,85.0,R:8_P:Rory Sloane,R:8_P:Rory Sloane_MI,1
-86,Rory Sloane,580000,Crows,MI,9,Eagles,71.81818181818181,R:9_P:Rory Sloane,R:9_P:Rory Sloane_MI,1
-87,Rory Sloane,580000,Crows,MI,11,Tigers,80.9090909090909,R:11_P:Rory Sloane,R:11_P:Rory Sloane_MI,1
-88,Rory Sloane,580000,Crows,MI,13,Saints,56.09090909090909,R:13_P:Rory Sloane,R:13_P:Rory Sloane_MI,1
-89,Rory Sloane,580000,Crows,MI,15,Blues,88.81818181818181,R:15_P:Rory Sloane,R:15_P:Rory Sloane_MI,1
-90,Rory Sloane,580000,Crows,MI,17,Bombers,60.27272727272727,R:17_P:Rory Sloane,R:17_P:Rory Sloane_MI,1
-91,Rory Sloane,580000,Crows,MI,19,Bulldogs,75.81818181818181,R:19_P:Rory Sloane,R:19_P:Rory Sloane_MI,1
-92,Rory Sloane,580000,Crows,MI,22,Demons,81.45454545454545,R:22_P:Rory Sloane,R:22_P:Rory Sloane_MI,1
-93,Todd Goldstein,760000,Kangaroos,RU,1,Power,96.54545454545455,R:1_P:Todd Goldstein,R:1_P:Todd Goldstein_RU,1
-94,Todd Goldstein,760000,Kangaroos,RU,3,Bulldogs,75.45454545454545,R:3_P:Todd Goldstein,R:3_P:Todd Goldstein_RU,1
-95,Todd Goldstein,760000,Kangaroos,RU,4,Crows,105.54545454545455,R:4_P:Todd Goldstein,R:4_P:Todd Goldstein_RU,1
-96,Todd Goldstein,760000,Kangaroos,RU,22,Swans,78.63636363636364,R:22_P:Todd Goldstein,R:22_P:Todd Goldstein_RU,1
-97,Todd Goldstein,760000,Kangaroos,RU,2,Suns,92.63636363636364,R:2_P:Todd Goldstein,R:2_P:Todd Goldstein_RU,1
-98,Todd Goldstein,760000,Kangaroos,RU,5,Cats,91.63636363636364,R:5_P:Todd Goldstein,R:5_P:Todd Goldstein_RU,1
-99,Todd Goldstein,760000,Kangaroos,RU,21,Tigers,92.36363636363636,R:21_P:Todd Goldstein,R:21_P:Todd Goldstein_RU,1
-100,Todd Goldstein,760000,Kangaroos,RU,23,Crows,105.54545454545455,R:23_P:Todd Goldstein,R:23_P:Todd Goldstein_RU,1
-101,Ben Cunnington,503000,Kangaroos,MI,3,Bulldogs,75.36363636363636,R:3_P:Ben Cunnington,R:3_P:Ben Cunnington_MI,1
-102,Ben Cunnington,503000,Kangaroos,MI,4,Crows,72.72727272727273,R:4_P:Ben Cunnington,R:4_P:Ben Cunnington_MI,1
-103,Ben Cunnington,503000,Kangaroos,MI,18,Bombers,65.36363636363636,R:18_P:Ben Cunnington,R:18_P:Ben Cunnington_MI,1
-104,Ben Cunnington,503000,Kangaroos,MI,20,Cats,65.63636363636364,R:20_P:Ben Cunnington,R:20_P:Ben Cunnington_MI,1
-105,Ben Cunnington,503000,Kangaroos,MI,22,Swans,61.18181818181818,R:22_P:Ben Cunnington,R:22_P:Ben Cunnington_MI,1
-106,Ben Cunnington,503000,Kangaroos,MI,5,Cats,65.63636363636364,R:5_P:Ben Cunnington,R:5_P:Ben Cunnington_MI,1
-107,Ben Cunnington,503000,Kangaroos,MI,16,Bulldogs,75.36363636363636,R:16_P:Ben Cunnington,R:16_P:Ben Cunnington_MI,1
-108,Ben Cunnington,503000,Kangaroos,MI,17,Eagles,69.81818181818181,R:17_P:Ben Cunnington,R:17_P:Ben Cunnington_MI,1
-109,Ben Cunnington,503000,Kangaroos,MI,19,Blues,62.54545454545455,R:19_P:Ben Cunnington,R:19_P:Ben Cunnington_MI,1
-110,Ben Cunnington,503000,Kangaroos,MI,21,Tigers,72.36363636363636,R:21_P:Ben Cunnington,R:21_P:Ben Cunnington_MI,1
-111,Ben Cunnington,503000,Kangaroos,MI,23,Crows,72.72727272727273,R:23_P:Ben Cunnington,R:23_P:Ben Cunnington_MI,1
-112,Patrick Ryder,575000,Saints,RU,9,Cats,68.2,R:9_P:Patrick Ryder,R:9_P:Patrick Ryder_RU,1
-113,Patrick Ryder,575000,Saints,RU,11,Kangaroos,67.45454545454545,R:11_P:Patrick Ryder,R:11_P:Patrick Ryder_RU,1
-114,Patrick Ryder,575000,Saints,RU,12,Swans,66.3,R:12_P:Patrick Ryder,R:12_P:Patrick Ryder_RU,1
-115,Patrick Ryder,575000,Saints,RU,13,Crows,75.7,R:13_P:Patrick Ryder,R:13_P:Patrick Ryder_RU,1
-116,Patrick Ryder,575000,Saints,RU,18,Power,86.7,R:18_P:Patrick Ryder,R:18_P:Patrick Ryder_RU,1
-117,Patrick Ryder,575000,Saints,RU,10,Bulldogs,63.35,R:10_P:Patrick Ryder,R:10_P:Patrick Ryder_RU,1
-118,Patrick Ryder,575000,Saints,RU,15,Tigers,49.45,R:15_P:Patrick Ryder,R:15_P:Patrick Ryder_RU,1
-119,Patrick Ryder,575000,Saints,RU,16,Magpies,64.9,R:16_P:Patrick Ryder,R:16_P:Patrick Ryder_RU,1
-120,Patrick Ryder,575000,Saints,RU,17,Lions,65.5,R:17_P:Patrick Ryder,R:17_P:Patrick Ryder_RU,1
-121,Callum Wilkie,459000,Saints,DE,18,Power,49.0,R:18_P:Callum Wilkie,R:18_P:Callum Wilkie_DE,1
-122,Callum Wilkie,459000,Saints,DE,20,Blues,68.0,R:20_P:Callum Wilkie,R:20_P:Callum Wilkie_DE,1
-123,Callum Wilkie,459000,Saints,DE,23,Dockers,53.5,R:23_P:Callum Wilkie,R:23_P:Callum Wilkie_DE,1
-124,Callum Wilkie,459000,Saints,DE,17,Lions,59.0,R:17_P:Callum Wilkie,R:17_P:Callum Wilkie_DE,1
-125,Callum Wilkie,459000,Saints,DE,19,Eagles,53.0,R:19_P:Callum Wilkie,R:19_P:Callum Wilkie_DE,1
-126,Callum Wilkie,459000,Saints,DE,21,Swans,62.0,R:21_P:Callum Wilkie,R:21_P:Callum Wilkie_DE,1
-127,Callum Wilkie,459000,Saints,DE,22,Cats,46.5,R:22_P:Callum Wilkie,R:22_P:Callum Wilkie_DE,1
-128,Jarryn Geary,382000,Saints,DE,11,Kangaroos,61.333333333333336,R:11_P:Jarryn Geary,R:11_P:Jarryn Geary_DE,1
-129,Jarryn Geary,382000,Saints,DE,12,Swans,30.363636363636363,R:12_P:Jarryn Geary,R:12_P:Jarryn Geary_DE,1
-130,Jarryn Geary,382000,Saints,DE,13,Crows,38.0,R:13_P:Jarryn Geary,R:13_P:Jarryn Geary_DE,1
-131,Jarryn Geary,382000,Saints,DE,10,Bulldogs,52.95454545454545,R:10_P:Jarryn Geary,R:10_P:Jarryn Geary_DE,1
-132,Jarryn Geary,382000,Saints,DE,15,Tigers,55.90909090909091,R:15_P:Jarryn Geary,R:15_P:Jarryn Geary_DE,1
-133,Jarryn Geary,382000,Saints,DE,16,Magpies,56.54545454545455,R:16_P:Jarryn Geary,R:16_P:Jarryn Geary_DE,1
-134,Dylan Roberton,170000,Saints,DE,2,Demons,46.45454545454545,R:2_P:Dylan Roberton,R:2_P:Dylan Roberton_DE,1
-135,Dylan Roberton,170000,Saints,DE,4,Eagles,45.18181818181818,R:4_P:Dylan Roberton,R:4_P:Dylan Roberton_DE,1
-136,Dylan Roberton,170000,Saints,DE,5,Tigers,33.09090909090909,R:5_P:Dylan Roberton,R:5_P:Dylan Roberton_DE,1
-137,Dylan Roberton,170000,Saints,DE,7,Hawks,41.54545454545455,R:7_P:Dylan Roberton,R:7_P:Dylan Roberton_DE,1
-138,Dylan Roberton,170000,Saints,DE,11,Kangaroos,40.583333333333336,R:11_P:Dylan Roberton,R:11_P:Dylan Roberton_DE,1
-139,Dylan Roberton,170000,Saints,DE,12,Swans,34.54545454545455,R:12_P:Dylan Roberton,R:12_P:Dylan Roberton_DE,1
-140,Dylan Roberton,170000,Saints,DE,18,Power,34.90909090909091,R:18_P:Dylan Roberton,R:18_P:Dylan Roberton_DE,1
-141,Dylan Roberton,170000,Saints,DE,20,Blues,30.818181818181817,R:20_P:Dylan Roberton,R:20_P:Dylan Roberton_DE,1
-142,Dylan Roberton,170000,Saints,DE,23,Dockers,34.90909090909091,R:23_P:Dylan Roberton,R:23_P:Dylan Roberton_DE,1
-143,Dylan Roberton,170000,Saints,DE,1,Giants,36.36363636363637,R:1_P:Dylan Roberton,R:1_P:Dylan Roberton_DE,1
-144,Dylan Roberton,170000,Saints,DE,8,Suns,34.54545454545455,R:8_P:Dylan Roberton,R:8_P:Dylan Roberton_DE,1
-145,Dylan Roberton,170000,Saints,DE,10,Bulldogs,39.59090909090909,R:10_P:Dylan Roberton,R:10_P:Dylan Roberton_DE,1
-146,Dylan Roberton,170000,Saints,DE,16,Magpies,40.72727272727273,R:16_P:Dylan Roberton,R:16_P:Dylan Roberton_DE,1
-147,Dylan Roberton,170000,Saints,DE,19,Eagles,45.18181818181818,R:19_P:Dylan Roberton,R:19_P:Dylan Roberton_DE,1
-148,Dylan Roberton,170000,Saints,DE,21,Swans,34.54545454545455,R:21_P:Dylan Roberton,R:21_P:Dylan Roberton_DE,1
-149,Tom McCartin,366000,Swans,FO,11,Blues,56.333333333333336,R:11_P:Tom McCartin,R:11_P:Tom McCartin_FO,1
-150,Tom McCartin,366000,Swans,FO,13,Hawks,46.0,R:13_P:Tom McCartin,R:13_P:Tom McCartin_FO,1
-151,Tom McCartin,366000,Swans,FO,12,Saints,53.666666666666664,R:12_P:Tom McCartin,R:12_P:Tom McCartin_FO,1
-152,Aaron Naughton,371000,Bulldogs,FO,21,Bombers,62.666666666666664,R:21_P:Aaron Naughton,R:21_P:Aaron Naughton_FO,1
-153,Aaron Naughton,371000,Bulldogs,FO,22,Hawks,60.333333333333336,R:22_P:Aaron Naughton,R:22_P:Aaron Naughton_FO,1
-154,Luke Dahlhaus,506000,Cats,FO,10,Suns,83.0,R:10_P:Luke Dahlhaus,R:10_P:Luke Dahlhaus_FO,1
-155,Luke Dahlhaus,506000,Cats,FO,14,Bulldogs,59.0,R:14_P:Luke Dahlhaus,R:14_P:Luke Dahlhaus_FO,1
-156,Luke Dahlhaus,506000,Cats,FO,16,Bombers,68.9,R:16_P:Luke Dahlhaus,R:16_P:Luke Dahlhaus_FO,1
-157,Luke Dahlhaus,506000,Cats,FO,19,Tigers,70.4,R:19_P:Luke Dahlhaus,R:19_P:Luke Dahlhaus_FO,1
-158,Luke Dahlhaus,506000,Cats,FO,21,Giants,75.81818181818181,R:21_P:Luke Dahlhaus,R:21_P:Luke Dahlhaus_FO,1
-159,Luke Dahlhaus,506000,Cats,FO,11,Magpies,78.05,R:11_P:Luke Dahlhaus,R:11_P:Luke Dahlhaus_FO,1
-160,Luke Dahlhaus,506000,Cats,FO,13,Power,65.5,R:13_P:Luke Dahlhaus,R:13_P:Luke Dahlhaus_FO,1
-161,Luke Dahlhaus,506000,Cats,FO,15,Lions,68.2,R:15_P:Luke Dahlhaus,R:15_P:Luke Dahlhaus_FO,1
-162,Luke Dahlhaus,506000,Cats,FO,17,Blues,69.0,R:17_P:Luke Dahlhaus,R:17_P:Luke Dahlhaus_FO,1
-163,Luke Dahlhaus,506000,Cats,FO,18,Dockers,63.8,R:18_P:Luke Dahlhaus,R:18_P:Luke Dahlhaus_FO,1
-164,Luke Dahlhaus,506000,Cats,FO,20,Kangaroos,69.0,R:20_P:Luke Dahlhaus,R:20_P:Luke Dahlhaus_FO,1
-165,Joel Selwood,596000,Cats,MI,2,Lions,94.13636363636364,R:2_P:Joel Selwood,R:2_P:Joel Selwood_MI,1
-166,Joel Selwood,596000,Cats,MI,3,Hawks,91.18181818181819,R:3_P:Joel Selwood,R:3_P:Joel Selwood_MI,1
-167,Joel Selwood,596000,Cats,MI,5,Kangaroos,91.27272727272727,R:5_P:Joel Selwood,R:5_P:Joel Selwood_MI,1
-168,Joel Selwood,596000,Cats,MI,6,Eagles,88.0,R:6_P:Joel Selwood,R:6_P:Joel Selwood_MI,1
-169,Joel Selwood,596000,Cats,MI,10,Suns,101.0909090909091,R:10_P:Joel Selwood,R:10_P:Joel Selwood_MI,1
-170,Joel Selwood,596000,Cats,MI,14,Bulldogs,49.36363636363637,R:14_P:Joel Selwood,R:14_P:Joel Selwood_MI,1
-171,Joel Selwood,596000,Cats,MI,16,Bombers,75.0909090909091,R:16_P:Joel Selwood,R:16_P:Joel Selwood_MI,1
-172,Joel Selwood,596000,Cats,MI,19,Tigers,103.22727272727273,R:19_P:Joel Selwood,R:19_P:Joel Selwood_MI,1
-173,Joel Selwood,596000,Cats,MI,21,Giants,87.16666666666667,R:21_P:Joel Selwood,R:21_P:Joel Selwood_MI,1
-174,Joel Selwood,596000,Cats,MI,22,Saints,99.63636363636364,R:22_P:Joel Selwood,R:22_P:Joel Selwood_MI,1
-175,Joel Selwood,596000,Cats,MI,23,Demons,97.54545454545455,R:23_P:Joel Selwood,R:23_P:Joel Selwood_MI,1
-176,Joel Selwood,596000,Cats,MI,4,Demons,97.54545454545455,R:4_P:Joel Selwood,R:4_P:Joel Selwood_MI,1
-177,Joel Selwood,596000,Cats,MI,7,Swans,110.0,R:7_P:Joel Selwood,R:7_P:Joel Selwood_MI,1
-178,Joel Selwood,596000,Cats,MI,8,Tigers,103.22727272727273,R:8_P:Joel Selwood,R:8_P:Joel Selwood_MI,1
-179,Joel Selwood,596000,Cats,MI,9,Saints,99.63636363636364,R:9_P:Joel Selwood,R:9_P:Joel Selwood_MI,1
-180,Joel Selwood,596000,Cats,MI,11,Magpies,97.0909090909091,R:11_P:Joel Selwood,R:11_P:Joel Selwood_MI,1
-181,Joel Selwood,596000,Cats,MI,13,Power,86.95454545454545,R:13_P:Joel Selwood,R:13_P:Joel Selwood_MI,1
-182,Joel Selwood,596000,Cats,MI,15,Lions,94.13636363636364,R:15_P:Joel Selwood,R:15_P:Joel Selwood_MI,1
-183,Joel Selwood,596000,Cats,MI,17,Blues,100.72727272727273,R:17_P:Joel Selwood,R:17_P:Joel Selwood_MI,1
-184,Joel Selwood,596000,Cats,MI,18,Dockers,69.63636363636364,R:18_P:Joel Selwood,R:18_P:Joel Selwood_MI,1
-185,Joel Selwood,596000,Cats,MI,20,Kangaroos,91.27272727272727,R:20_P:Joel Selwood,R:20_P:Joel Selwood_MI,1
-186,Tom Hickey,418000,Eagles,RU,14,Tigers,18.2,R:14_P:Tom Hickey,R:14_P:Tom Hickey_RU,1
-187,Tom Hickey,418000,Eagles,RU,12,Blues,19.7,R:12_P:Tom Hickey,R:12_P:Tom Hickey_RU,1
-188,Joshua Kennedy,431000,Eagles,FO,1,Suns,74.0909090909091,R:1_P:Joshua Kennedy,R:1_P:Joshua Kennedy_FO,1
-189,Joshua Kennedy,431000,Eagles,FO,3,Power,77.36363636363636,R:3_P:Joshua Kennedy,R:3_P:Joshua Kennedy_FO,1
-190,Joshua Kennedy,431000,Eagles,FO,5,Magpies,67.77272727272727,R:5_P:Joshua Kennedy,R:5_P:Joshua Kennedy_FO,1
-191,Joshua Kennedy,431000,Eagles,FO,19,Saints,50.18181818181818,R:19_P:Joshua Kennedy,R:19_P:Joshua Kennedy_FO,1
-192,Joshua Kennedy,431000,Eagles,FO,21,Demons,65.5,R:21_P:Joshua Kennedy,R:21_P:Joshua Kennedy_FO,1
-193,Joshua Kennedy,431000,Eagles,FO,2,Bulldogs,49.90909090909091,R:2_P:Joshua Kennedy,R:2_P:Joshua Kennedy_FO,1
-194,Joshua Kennedy,431000,Eagles,FO,4,Saints,50.18181818181818,R:4_P:Joshua Kennedy,R:4_P:Joshua Kennedy_FO,1
-195,Joshua Kennedy,431000,Eagles,FO,6,Cats,77.54545454545455,R:6_P:Joshua Kennedy,R:6_P:Joshua Kennedy_FO,1
-196,Joshua Kennedy,431000,Eagles,FO,18,Crows,66.54545454545455,R:18_P:Joshua Kennedy,R:18_P:Joshua Kennedy_FO,1
-197,Joshua Kennedy,431000,Eagles,FO,20,Magpies,67.77272727272727,R:20_P:Joshua Kennedy,R:20_P:Joshua Kennedy_FO,1
-198,Joshua Kennedy,431000,Eagles,FO,22,Dockers,67.27272727272727,R:22_P:Joshua Kennedy,R:22_P:Joshua Kennedy_FO,1
-199,Joshua Kennedy,431000,Eagles,FO,23,Lions,59.45454545454545,R:23_P:Joshua Kennedy,R:23_P:Joshua Kennedy_FO,1
-200,Mark Hutchings,308000,Eagles,FO,7,Dockers,59.77777777777778,R:7_P:Mark Hutchings,R:7_P:Mark Hutchings_FO,1
-201,Mark Hutchings,308000,Eagles,FO,11,Bombers,53.22222222222222,R:11_P:Mark Hutchings,R:11_P:Mark Hutchings_FO,1
-202,Mark Hutchings,308000,Eagles,FO,14,Tigers,45.111111111111114,R:14_P:Mark Hutchings,R:14_P:Mark Hutchings_FO,1
-203,Mark Hutchings,308000,Eagles,FO,15,Bulldogs,47.0,R:15_P:Mark Hutchings,R:15_P:Mark Hutchings_FO,1
-204,Mark Hutchings,308000,Eagles,FO,19,Saints,45.888888888888886,R:19_P:Mark Hutchings,R:19_P:Mark Hutchings_FO,1
-205,Mark Hutchings,308000,Eagles,FO,4,Saints,45.888888888888886,R:4_P:Mark Hutchings,R:4_P:Mark Hutchings_FO,1
-206,Mark Hutchings,308000,Eagles,FO,12,Blues,28.555555555555557,R:12_P:Mark Hutchings,R:12_P:Mark Hutchings_FO,1
-207,Mark Hutchings,308000,Eagles,FO,20,Magpies,38.111111111111114,R:20_P:Mark Hutchings,R:20_P:Mark Hutchings_FO,1
-208,Mark Hutchings,308000,Eagles,FO,22,Dockers,59.77777777777778,R:22_P:Mark Hutchings,R:22_P:Mark Hutchings_FO,1
-209,Tim Kelly,730000,Eagles,MI,1,Suns,107.66666666666667,R:1_P:Tim Kelly,R:1_P:Tim Kelly_MI,1
-210,Luke Shuey,657000,Eagles,MI,1,Suns,102.18181818181819,R:1_P:Luke Shuey,R:1_P:Luke Shuey_MI,1
-211,Jack Redden,554000,Eagles,MI,1,Suns,82.45454545454545,R:1_P:Jack Redden,R:1_P:Jack Redden_MI,1
-212,Jack Redden,554000,Eagles,MI,3,Power,71.0,R:3_P:Jack Redden,R:3_P:Jack Redden_MI,1
-213,Jack Redden,554000,Eagles,MI,5,Magpies,72.86363636363636,R:5_P:Jack Redden,R:5_P:Jack Redden_MI,1
-214,Jack Redden,554000,Eagles,MI,7,Dockers,82.18181818181819,R:7_P:Jack Redden,R:7_P:Jack Redden_MI,1
-215,Jack Redden,554000,Eagles,MI,9,Crows,92.54545454545455,R:9_P:Jack Redden,R:9_P:Jack Redden_MI,1
-216,Jack Redden,554000,Eagles,MI,11,Bombers,89.9090909090909,R:11_P:Jack Redden,R:11_P:Jack Redden_MI,1
-217,Jack Redden,554000,Eagles,MI,14,Tigers,76.36363636363636,R:14_P:Jack Redden,R:14_P:Jack Redden_MI,1
-218,Jack Redden,554000,Eagles,MI,15,Bulldogs,70.45454545454545,R:15_P:Jack Redden,R:15_P:Jack Redden_MI,1
-219,Jack Redden,554000,Eagles,MI,17,Kangaroos,73.63636363636364,R:17_P:Jack Redden,R:17_P:Jack Redden_MI,1
-220,Jack Redden,554000,Eagles,MI,19,Saints,84.72727272727273,R:19_P:Jack Redden,R:19_P:Jack Redden_MI,1
-221,Jack Redden,554000,Eagles,MI,21,Demons,75.58333333333333,R:21_P:Jack Redden,R:21_P:Jack Redden_MI,1
-222,Jack Redden,554000,Eagles,MI,2,Bulldogs,70.45454545454545,R:2_P:Jack Redden,R:2_P:Jack Redden_MI,1
-223,Jack Redden,554000,Eagles,MI,4,Saints,84.72727272727273,R:4_P:Jack Redden,R:4_P:Jack Redden_MI,1
-224,Jack Redden,554000,Eagles,MI,6,Cats,74.63636363636364,R:6_P:Jack Redden,R:6_P:Jack Redden_MI,1
-225,Jack Redden,554000,Eagles,MI,8,Hawks,73.27272727272727,R:8_P:Jack Redden,R:8_P:Jack Redden_MI,1
-226,Jack Redden,554000,Eagles,MI,10,Giants,75.45454545454545,R:10_P:Jack Redden,R:10_P:Jack Redden_MI,1
-227,Jack Redden,554000,Eagles,MI,12,Blues,52.36363636363637,R:12_P:Jack Redden,R:12_P:Jack Redden_MI,1
-228,Jack Redden,554000,Eagles,MI,16,Swans,85.72727272727273,R:16_P:Jack Redden,R:16_P:Jack Redden_MI,1
-229,Jack Redden,554000,Eagles,MI,18,Crows,92.54545454545455,R:18_P:Jack Redden,R:18_P:Jack Redden_MI,1
-230,Jack Redden,554000,Eagles,MI,20,Magpies,72.86363636363636,R:20_P:Jack Redden,R:20_P:Jack Redden_MI,1
-231,Jack Redden,554000,Eagles,MI,22,Dockers,82.18181818181819,R:22_P:Jack Redden,R:22_P:Jack Redden_MI,1
-232,Jack Redden,554000,Eagles,MI,23,Lions,75.0909090909091,R:23_P:Jack Redden,R:23_P:Jack Redden_MI,1
-233,Steven Motlop,412000,Power,FO,2,Bombers,58.0,R:2_P:Steven Motlop,R:2_P:Steven Motlop_FO,1
-234,Steven Motlop,412000,Power,FO,1,Kangaroos,73.36363636363636,R:1_P:Steven Motlop,R:1_P:Steven Motlop_FO,1
-235,Steven Motlop,412000,Power,FO,3,Eagles,51.36363636363637,R:3_P:Steven Motlop,R:3_P:Steven Motlop_FO,1
-236,Sam Powell-Pepper,558000,Power,MI,2,Bombers,74.0,R:2_P:Sam Powell-Pepper,R:2_P:Sam Powell-Pepper_MI,1
-237,Sam Powell-Pepper,558000,Power,MI,1,Kangaroos,80.25,R:1_P:Sam Powell-Pepper,R:1_P:Sam Powell-Pepper_MI,1
-238,Xavier Duursma,539000,Power,MI,8,Crows,97.0,R:8_P:Xavier Duursma,R:8_P:Xavier Duursma_MI,1
-239,Xavier Duursma,539000,Power,MI,9,Bulldogs,72.0,R:9_P:Xavier Duursma,R:9_P:Xavier Duursma_MI,1
-240,Xavier Duursma,539000,Power,MI,22,Blues,62.5,R:22_P:Xavier Duursma,R:22_P:Xavier Duursma_MI,1
-241,Xavier Duursma,539000,Power,MI,10,Magpies,77.0,R:10_P:Xavier Duursma,R:10_P:Xavier Duursma_MI,1
-242,Xavier Duursma,539000,Power,MI,21,Crows,97.0,R:21_P:Xavier Duursma,R:21_P:Xavier Duursma_MI,1
-243,Xavier Duursma,539000,Power,MI,23,Bulldogs,72.0,R:23_P:Xavier Duursma,R:23_P:Xavier Duursma_MI,1
-244,Jarrod Harbrow,428000,Suns,DE,2,Kangaroos,58.18181818181818,R:2_P:Jarrod Harbrow,R:2_P:Jarrod Harbrow_DE,1
-245,Jarrod Harbrow,428000,Suns,DE,4,Blues,45.18181818181818,R:4_P:Jarrod Harbrow,R:4_P:Jarrod Harbrow_DE,1
-246,Jarrod Harbrow,428000,Suns,DE,6,Swans,68.0909090909091,R:6_P:Jarrod Harbrow,R:6_P:Jarrod Harbrow_DE,1
-247,Jarrod Harbrow,428000,Suns,DE,8,Saints,59.90909090909091,R:8_P:Jarrod Harbrow,R:8_P:Jarrod Harbrow_DE,1
-248,Jarrod Harbrow,428000,Suns,DE,9,Lions,75.36363636363636,R:9_P:Jarrod Harbrow,R:9_P:Jarrod Harbrow_DE,1
-249,Jarrod Harbrow,428000,Suns,DE,11,Hawks,57.72727272727273,R:11_P:Jarrod Harbrow,R:11_P:Jarrod Harbrow_DE,1
-250,Jarrod Harbrow,428000,Suns,DE,14,Power,52.083333333333336,R:14_P:Jarrod Harbrow,R:14_P:Jarrod Harbrow_DE,1
-251,Jarrod Harbrow,428000,Suns,DE,16,Tigers,53.81818181818182,R:16_P:Jarrod Harbrow,R:16_P:Jarrod Harbrow_DE,1
-252,Jarrod Harbrow,428000,Suns,DE,18,Bulldogs,55.72727272727273,R:18_P:Jarrod Harbrow,R:18_P:Jarrod Harbrow_DE,1
-253,Jarrod Harbrow,428000,Suns,DE,19,Demons,75.0,R:19_P:Jarrod Harbrow,R:19_P:Jarrod Harbrow_DE,1
-254,Jarrod Harbrow,428000,Suns,DE,22,Bombers,65.0,R:22_P:Jarrod Harbrow,R:22_P:Jarrod Harbrow_DE,1
-255,Jarrod Harbrow,428000,Suns,DE,1,Eagles,62.0,R:1_P:Jarrod Harbrow,R:1_P:Jarrod Harbrow_DE,1
-256,Jarrod Harbrow,428000,Suns,DE,3,Crows,68.36363636363636,R:3_P:Jarrod Harbrow,R:3_P:Jarrod Harbrow_DE,1
-257,Jarrod Harbrow,428000,Suns,DE,5,Bulldogs,55.72727272727273,R:5_P:Jarrod Harbrow,R:5_P:Jarrod Harbrow_DE,1
-258,Jarrod Harbrow,428000,Suns,DE,7,Magpies,65.81818181818181,R:7_P:Jarrod Harbrow,R:7_P:Jarrod Harbrow_DE,1
-259,Jarrod Harbrow,428000,Suns,DE,10,Cats,65.9090909090909,R:10_P:Jarrod Harbrow,R:10_P:Jarrod Harbrow_DE,1
-260,Jarrod Harbrow,428000,Suns,DE,13,Dockers,60.81818181818182,R:13_P:Jarrod Harbrow,R:13_P:Jarrod Harbrow_DE,1
-261,Jarrod Harbrow,428000,Suns,DE,15,Kangaroos,58.18181818181818,R:15_P:Jarrod Harbrow,R:15_P:Jarrod Harbrow_DE,1
-262,Jarrod Harbrow,428000,Suns,DE,17,Giants,52.63636363636363,R:17_P:Jarrod Harbrow,R:17_P:Jarrod Harbrow_DE,1
-263,Jarrod Harbrow,428000,Suns,DE,20,Lions,75.36363636363636,R:20_P:Jarrod Harbrow,R:20_P:Jarrod Harbrow_DE,1
-264,Jarrod Harbrow,428000,Suns,DE,21,Blues,45.18181818181818,R:21_P:Jarrod Harbrow,R:21_P:Jarrod Harbrow_DE,1
-265,Jarrod Harbrow,428000,Suns,DE,23,Swans,68.0909090909091,R:23_P:Jarrod Harbrow,R:23_P:Jarrod Harbrow_DE,1
-266,Connor Budarick,357000,Suns,DE,2,Kangaroos,41.0,R:2_P:Connor Budarick,R:2_P:Connor Budarick_DE,1
-267,Connor Budarick,357000,Suns,DE,1,Eagles,63.0,R:1_P:Connor Budarick,R:1_P:Connor Budarick_DE,1
-268,Connor Budarick,357000,Suns,DE,3,Crows,69.0,R:3_P:Connor Budarick,R:3_P:Connor Budarick_DE,1
-269,Jack Riewoldt,469000,Tigers,FO,1,Blues,67.41666666666667,R:1_P:Jack Riewoldt,R:1_P:Jack Riewoldt_FO,1
-270,Jack Riewoldt,469000,Tigers,FO,3,Swans,77.0,R:3_P:Jack Riewoldt,R:3_P:Jack Riewoldt_FO,1
-271,Jack Riewoldt,469000,Tigers,FO,7,Bulldogs,72.0909090909091,R:7_P:Jack Riewoldt,R:7_P:Jack Riewoldt_FO,1
-272,Jack Riewoldt,469000,Tigers,FO,8,Cats,69.13636363636364,R:8_P:Jack Riewoldt,R:8_P:Jack Riewoldt_FO,1
-273,Jack Riewoldt,469000,Tigers,FO,9,Giants,62.81818181818182,R:9_P:Jack Riewoldt,R:9_P:Jack Riewoldt_FO,1
-274,Jack Riewoldt,469000,Tigers,FO,11,Crows,62.81818181818182,R:11_P:Jack Riewoldt,R:11_P:Jack Riewoldt_FO,1
-275,Jack Riewoldt,469000,Tigers,FO,15,Saints,66.5,R:15_P:Jack Riewoldt,R:15_P:Jack Riewoldt_FO,1
-276,Jack Riewoldt,469000,Tigers,FO,17,Magpies,57.90909090909091,R:17_P:Jack Riewoldt,R:17_P:Jack Riewoldt_FO,1
-277,Jack Riewoldt,469000,Tigers,FO,18,Lions,70.04545454545455,R:18_P:Jack Riewoldt,R:18_P:Jack Riewoldt_FO,1
-278,Jack Riewoldt,469000,Tigers,FO,21,Kangaroos,72.0,R:21_P:Jack Riewoldt,R:21_P:Jack Riewoldt_FO,1
-279,Jack Riewoldt,469000,Tigers,FO,23,Hawks,69.63636363636364,R:23_P:Jack Riewoldt,R:23_P:Jack Riewoldt_FO,1
-280,Jack Riewoldt,469000,Tigers,FO,2,Hawks,69.63636363636364,R:2_P:Jack Riewoldt,R:2_P:Jack Riewoldt_FO,1
-281,Jack Riewoldt,469000,Tigers,FO,4,Power,54.45454545454545,R:4_P:Jack Riewoldt,R:4_P:Jack Riewoldt_FO,1
-282,Jack Riewoldt,469000,Tigers,FO,5,Saints,66.5,R:5_P:Jack Riewoldt,R:5_P:Jack Riewoldt_FO,1
-283,Jack Riewoldt,469000,Tigers,FO,6,Demons,72.18181818181819,R:6_P:Jack Riewoldt,R:6_P:Jack Riewoldt_FO,1
-284,Jack Riewoldt,469000,Tigers,FO,10,Lions,70.04545454545455,R:10_P:Jack Riewoldt,R:10_P:Jack Riewoldt_FO,1
-285,Jack Riewoldt,469000,Tigers,FO,12,Bombers,56.0,R:12_P:Jack Riewoldt,R:12_P:Jack Riewoldt_FO,1
-286,Jack Riewoldt,469000,Tigers,FO,14,Eagles,63.27272727272727,R:14_P:Jack Riewoldt,R:14_P:Jack Riewoldt_FO,1
-287,Jack Riewoldt,469000,Tigers,FO,16,Suns,65.72727272727273,R:16_P:Jack Riewoldt,R:16_P:Jack Riewoldt_FO,1
-288,Jack Riewoldt,469000,Tigers,FO,19,Cats,69.13636363636364,R:19_P:Jack Riewoldt,R:19_P:Jack Riewoldt_FO,1
-289,Jack Riewoldt,469000,Tigers,FO,20,Dockers,73.0,R:20_P:Jack Riewoldt,R:20_P:Jack Riewoldt_FO,1
-290,Jack Riewoldt,469000,Tigers,FO,22,Giants,62.81818181818182,R:22_P:Jack Riewoldt,R:22_P:Jack Riewoldt_FO,1
-291,Dustin Martin,713000,Tigers,MI,7,Bulldogs,99.54545454545455,R:7_P:Dustin Martin,R:7_P:Dustin Martin_MI,1
-292,Dustin Martin,713000,Tigers,MI,8,Cats,95.22727272727273,R:8_P:Dustin Martin,R:8_P:Dustin Martin_MI,1
-293,Dustin Martin,713000,Tigers,MI,6,Demons,97.72727272727273,R:6_P:Dustin Martin,R:6_P:Dustin Martin_MI,1
-294,Trent Cotchin,634000,Tigers,MI,1,Blues,82.33333333333333,R:1_P:Trent Cotchin,R:1_P:Trent Cotchin_MI,1
-295,Trent Cotchin,634000,Tigers,MI,17,Magpies,94.72727272727273,R:17_P:Trent Cotchin,R:17_P:Trent Cotchin_MI,1
-296,Trent Cotchin,634000,Tigers,MI,18,Lions,80.63636363636364,R:18_P:Trent Cotchin,R:18_P:Trent Cotchin_MI,1
-297,Trent Cotchin,634000,Tigers,MI,2,Hawks,94.18181818181819,R:2_P:Trent Cotchin,R:2_P:Trent Cotchin_MI,1
-298,Trent Cotchin,634000,Tigers,MI,19,Cats,84.22727272727273,R:19_P:Trent Cotchin,R:19_P:Trent Cotchin_MI,1
-299,Trent Cotchin,634000,Tigers,MI,20,Dockers,84.63636363636364,R:20_P:Trent Cotchin,R:20_P:Trent Cotchin_MI,1
-300,Ben McEvoy,477000,Hawks,RU,5,Demons,62.72727272727273,R:5_P:Ben McEvoy,R:5_P:Ben McEvoy_RU,1
-301,Ben McEvoy,477000,Hawks,RU,6,Crows,65.36363636363636,R:6_P:Ben McEvoy,R:6_P:Ben McEvoy_RU,1
-302,Ben McEvoy,477000,Hawks,RU,8,Eagles,35.72727272727273,R:8_P:Ben McEvoy,R:8_P:Ben McEvoy_RU,1
-303,Ben McEvoy,477000,Hawks,RU,9,Kangaroos,51.36363636363637,R:9_P:Ben McEvoy,R:9_P:Ben McEvoy_RU,1
-304,Ben McEvoy,477000,Hawks,RU,14,Bombers,54.18181818181818,R:14_P:Ben McEvoy,R:14_P:Ben McEvoy_RU,1
-305,Ben McEvoy,477000,Hawks,RU,16,Power,42.0,R:16_P:Ben McEvoy,R:16_P:Ben McEvoy_RU,1
-306,Ben McEvoy,477000,Hawks,RU,17,Dockers,49.63636363636363,R:17_P:Ben McEvoy,R:17_P:Ben McEvoy_RU,1
-307,Ben McEvoy,477000,Hawks,RU,19,Lions,64.58333333333333,R:19_P:Ben McEvoy,R:19_P:Ben McEvoy_RU,1
-308,Ben McEvoy,477000,Hawks,RU,21,Magpies,69.0,R:21_P:Ben McEvoy,R:21_P:Ben McEvoy_RU,1
-309,Ben McEvoy,477000,Hawks,RU,22,Bulldogs,69.0,R:22_P:Ben McEvoy,R:22_P:Ben McEvoy_RU,1
-310,Ben McEvoy,477000,Hawks,RU,7,Saints,71.54545454545455,R:7_P:Ben McEvoy,R:7_P:Ben McEvoy_RU,1
-311,Ben McEvoy,477000,Hawks,RU,10,Blues,44.18181818181818,R:10_P:Ben McEvoy,R:10_P:Ben McEvoy_RU,1
-312,Ben McEvoy,477000,Hawks,RU,11,Suns,69.63636363636364,R:11_P:Ben McEvoy,R:11_P:Ben McEvoy_RU,1
-313,Ben McEvoy,477000,Hawks,RU,13,Swans,67.0,R:13_P:Ben McEvoy,R:13_P:Ben McEvoy_RU,1
-314,Ben McEvoy,477000,Hawks,RU,15,Giants,74.72727272727273,R:15_P:Ben McEvoy,R:15_P:Ben McEvoy_RU,1
-315,Ben McEvoy,477000,Hawks,RU,18,Demons,62.72727272727273,R:18_P:Ben McEvoy,R:18_P:Ben McEvoy_RU,1
-316,Ben McEvoy,477000,Hawks,RU,20,Crows,65.36363636363636,R:20_P:Ben McEvoy,R:20_P:Ben McEvoy_RU,1
-317,Ben McEvoy,477000,Hawks,RU,23,Tigers,65.54545454545455,R:23_P:Ben McEvoy,R:23_P:Ben McEvoy_RU,1
-318,Ben McEvoy,477000,Hawks,DE,2,Tigers,65.54545454545455,R:2_P:Ben McEvoy,R:2_P:Ben McEvoy_DE,1
-319,Ben McEvoy,477000,Hawks,DE,1,Bombers,54.18181818181818,R:1_P:Ben McEvoy,R:1_P:Ben McEvoy_DE,1
-320,Ben McEvoy,477000,Hawks,DE,3,Cats,72.63636363636364,R:3_P:Ben McEvoy,R:3_P:Ben McEvoy_DE,1
-321,Ben McEvoy,477000,Hawks,DE,4,Dockers,49.63636363636363,R:4_P:Ben McEvoy,R:4_P:Ben McEvoy_DE,1
-322,James Frawley,305000,Hawks,DE,2,Tigers,51.18181818181818,R:2_P:James Frawley,R:2_P:James Frawley_DE,1
-323,James Frawley,305000,Hawks,DE,5,Demons,47.54545454545455,R:5_P:James Frawley,R:5_P:James Frawley_DE,1
-324,James Frawley,305000,Hawks,DE,6,Crows,43.09090909090909,R:6_P:James Frawley,R:6_P:James Frawley_DE,1
-325,James Frawley,305000,Hawks,DE,8,Eagles,37.45454545454545,R:8_P:James Frawley,R:8_P:James Frawley_DE,1
-326,James Frawley,305000,Hawks,DE,9,Kangaroos,52.45454545454545,R:9_P:James Frawley,R:9_P:James Frawley_DE,1
-327,James Frawley,305000,Hawks,DE,14,Bombers,40.81818181818182,R:14_P:James Frawley,R:14_P:James Frawley_DE,1
-328,James Frawley,305000,Hawks,DE,16,Power,39.72727272727273,R:16_P:James Frawley,R:16_P:James Frawley_DE,1
-329,James Frawley,305000,Hawks,DE,17,Dockers,39.18181818181818,R:17_P:James Frawley,R:17_P:James Frawley_DE,1
-330,James Frawley,305000,Hawks,DE,19,Lions,52.416666666666664,R:19_P:James Frawley,R:19_P:James Frawley_DE,1
-331,James Frawley,305000,Hawks,DE,21,Magpies,50.72727272727273,R:21_P:James Frawley,R:21_P:James Frawley_DE,1
-332,James Frawley,305000,Hawks,DE,22,Bulldogs,44.90909090909091,R:22_P:James Frawley,R:22_P:James Frawley_DE,1
-333,James Frawley,305000,Hawks,DE,1,Bombers,40.81818181818182,R:1_P:James Frawley,R:1_P:James Frawley_DE,1
-334,James Frawley,305000,Hawks,DE,3,Cats,53.45454545454545,R:3_P:James Frawley,R:3_P:James Frawley_DE,1
-335,James Frawley,305000,Hawks,DE,4,Dockers,39.18181818181818,R:4_P:James Frawley,R:4_P:James Frawley_DE,1
-336,James Frawley,305000,Hawks,DE,7,Saints,43.36363636363637,R:7_P:James Frawley,R:7_P:James Frawley_DE,1
-337,James Frawley,305000,Hawks,DE,10,Blues,46.45454545454545,R:10_P:James Frawley,R:10_P:James Frawley_DE,1
-338,James Frawley,305000,Hawks,DE,11,Suns,52.36363636363637,R:11_P:James Frawley,R:11_P:James Frawley_DE,1
-339,James Frawley,305000,Hawks,DE,13,Swans,61.72727272727273,R:13_P:James Frawley,R:13_P:James Frawley_DE,1
-340,James Frawley,305000,Hawks,DE,15,Giants,39.27272727272727,R:15_P:James Frawley,R:15_P:James Frawley_DE,1
-341,James Frawley,305000,Hawks,DE,18,Demons,47.54545454545455,R:18_P:James Frawley,R:18_P:James Frawley_DE,1
-342,James Frawley,305000,Hawks,DE,20,Crows,43.09090909090909,R:20_P:James Frawley,R:20_P:James Frawley_DE,1
-343,James Frawley,305000,Hawks,DE,23,Tigers,51.18181818181818,R:23_P:James Frawley,R:23_P:James Frawley_DE,1
-344,Shaun Burgoyne,435000,Hawks,FO,2,Tigers,60.09090909090909,R:2_P:Shaun Burgoyne,R:2_P:Shaun Burgoyne_FO,1
-345,Shaun Burgoyne,435000,Hawks,FO,5,Demons,69.36363636363636,R:5_P:Shaun Burgoyne,R:5_P:Shaun Burgoyne_FO,1
-346,Shaun Burgoyne,435000,Hawks,FO,6,Crows,51.45454545454545,R:6_P:Shaun Burgoyne,R:6_P:Shaun Burgoyne_FO,1
-347,Shaun Burgoyne,435000,Hawks,FO,8,Eagles,61.90909090909091,R:8_P:Shaun Burgoyne,R:8_P:Shaun Burgoyne_FO,1
-348,Shaun Burgoyne,435000,Hawks,FO,9,Kangaroos,52.27272727272727,R:9_P:Shaun Burgoyne,R:9_P:Shaun Burgoyne_FO,1
-349,Shaun Burgoyne,435000,Hawks,FO,14,Bombers,71.0909090909091,R:14_P:Shaun Burgoyne,R:14_P:Shaun Burgoyne_FO,1
-350,Shaun Burgoyne,435000,Hawks,FO,16,Power,53.09090909090909,R:16_P:Shaun Burgoyne,R:16_P:Shaun Burgoyne_FO,1
-351,Shaun Burgoyne,435000,Hawks,FO,17,Dockers,60.63636363636363,R:17_P:Shaun Burgoyne,R:17_P:Shaun Burgoyne_FO,1
-352,Shaun Burgoyne,435000,Hawks,FO,19,Lions,62.416666666666664,R:19_P:Shaun Burgoyne,R:19_P:Shaun Burgoyne_FO,1
-353,Shaun Burgoyne,435000,Hawks,FO,1,Bombers,71.0909090909091,R:1_P:Shaun Burgoyne,R:1_P:Shaun Burgoyne_FO,1
-354,Shaun Burgoyne,435000,Hawks,FO,3,Cats,69.27272727272727,R:3_P:Shaun Burgoyne,R:3_P:Shaun Burgoyne_FO,1
-355,Shaun Burgoyne,435000,Hawks,FO,4,Dockers,60.63636363636363,R:4_P:Shaun Burgoyne,R:4_P:Shaun Burgoyne_FO,1
-356,Shaun Burgoyne,435000,Hawks,FO,7,Saints,63.18181818181818,R:7_P:Shaun Burgoyne,R:7_P:Shaun Burgoyne_FO,1
-357,Shaun Burgoyne,435000,Hawks,FO,10,Blues,63.45454545454545,R:10_P:Shaun Burgoyne,R:10_P:Shaun Burgoyne_FO,1
-358,Shaun Burgoyne,435000,Hawks,FO,11,Suns,59.18181818181818,R:11_P:Shaun Burgoyne,R:11_P:Shaun Burgoyne_FO,1
-359,Shaun Burgoyne,435000,Hawks,FO,13,Swans,70.54545454545455,R:13_P:Shaun Burgoyne,R:13_P:Shaun Burgoyne_FO,1
-360,Shaun Burgoyne,435000,Hawks,FO,15,Giants,53.45454545454545,R:15_P:Shaun Burgoyne,R:15_P:Shaun Burgoyne_FO,1
-361,Shaun Burgoyne,435000,Hawks,FO,18,Demons,69.36363636363636,R:18_P:Shaun Burgoyne,R:18_P:Shaun Burgoyne_FO,1
-362,Jonathon Patton,191000,Hawks,FO,14,Bombers,42.0,R:14_P:Jonathon Patton,R:14_P:Jonathon Patton_FO,1
-363,Jonathon Patton,191000,Hawks,FO,13,Swans,21.88888888888889,R:13_P:Jonathon Patton,R:13_P:Jonathon Patton_FO,1
-364,Liam Shiels,647000,Hawks,MI,14,Bombers,82.9090909090909,R:14_P:Liam Shiels,R:14_P:Liam Shiels_MI,1
-365,Liam Shiels,647000,Hawks,MI,13,Swans,85.45454545454545,R:13_P:Liam Shiels,R:13_P:Liam Shiels_MI,1
-366,Tom Scully,443000,Hawks,MI,2,Tigers,61.0,R:2_P:Tom Scully,R:2_P:Tom Scully_MI,1
-367,Tom Scully,443000,Hawks,MI,5,Demons,65.9090909090909,R:5_P:Tom Scully,R:5_P:Tom Scully_MI,1
-368,Tom Scully,443000,Hawks,MI,6,Crows,50.45454545454545,R:6_P:Tom Scully,R:6_P:Tom Scully_MI,1
-369,Tom Scully,443000,Hawks,MI,8,Eagles,54.63636363636363,R:8_P:Tom Scully,R:8_P:Tom Scully_MI,1
-370,Tom Scully,443000,Hawks,MI,9,Kangaroos,70.81818181818181,R:9_P:Tom Scully,R:9_P:Tom Scully_MI,1
-371,Tom Scully,443000,Hawks,MI,14,Bombers,57.81818181818182,R:14_P:Tom Scully,R:14_P:Tom Scully_MI,1
-372,Tom Scully,443000,Hawks,MI,1,Bombers,57.81818181818182,R:1_P:Tom Scully,R:1_P:Tom Scully_MI,1
-373,Tom Scully,443000,Hawks,MI,3,Cats,61.0,R:3_P:Tom Scully,R:3_P:Tom Scully_MI,1
-374,Tom Scully,443000,Hawks,MI,4,Dockers,63.36363636363637,R:4_P:Tom Scully,R:4_P:Tom Scully_MI,1
-375,Tom Scully,443000,Hawks,MI,7,Saints,52.63636363636363,R:7_P:Tom Scully,R:7_P:Tom Scully_MI,1
-376,Tom Scully,443000,Hawks,MI,10,Blues,48.81818181818182,R:10_P:Tom Scully,R:10_P:Tom Scully_MI,1
-377,Tom Scully,443000,Hawks,MI,11,Suns,64.9090909090909,R:11_P:Tom Scully,R:11_P:Tom Scully_MI,1
-378,Tom Scully,443000,Hawks,MI,13,Swans,64.18181818181819,R:13_P:Tom Scully,R:13_P:Tom Scully_MI,1
-379,Tom Scully,443000,Hawks,MI,15,Giants,58.54545454545455,R:15_P:Tom Scully,R:15_P:Tom Scully_MI,1
-380,Mitch Robinson,550000,Lions,MI,23,Eagles,84.54545454545455,R:23_P:Mitch Robinson,R:23_P:Mitch Robinson_MI,1
-381,Stephen Hill,480000,Dockers,DE,4,Hawks,66.54545454545455,R:4_P:Stephen Hill,R:4_P:Stephen Hill_DE,1
-382,Stephen Hill,480000,Dockers,DE,6,Kangaroos,66.63636363636364,R:6_P:Stephen Hill,R:6_P:Stephen Hill_DE,1
-383,Stephen Hill,480000,Dockers,DE,8,Lions,68.63636363636364,R:8_P:Stephen Hill,R:8_P:Stephen Hill_DE,1
-384,Stephen Hill,480000,Dockers,DE,10,Swans,43.27272727272727,R:10_P:Stephen Hill,R:10_P:Stephen Hill_DE,1
-385,Stephen Hill,480000,Dockers,DE,12,Bulldogs,55.90909090909091,R:12_P:Stephen Hill,R:12_P:Stephen Hill_DE,1
-386,Stephen Hill,480000,Dockers,DE,13,Suns,72.63636363636364,R:13_P:Stephen Hill,R:13_P:Stephen Hill_DE,1
-387,Stephen Hill,480000,Dockers,DE,5,Crows,64.18181818181819,R:5_P:Stephen Hill,R:5_P:Stephen Hill_DE,1
-388,Stephen Hill,480000,Dockers,DE,7,Eagles,43.72727272727273,R:7_P:Stephen Hill,R:7_P:Stephen Hill_DE,1
-389,Stephen Hill,480000,Dockers,DE,9,Bombers,48.583333333333336,R:9_P:Stephen Hill,R:9_P:Stephen Hill_DE,1
-390,Stephen Hill,480000,Dockers,DE,11,Power,73.36363636363636,R:11_P:Stephen Hill,R:11_P:Stephen Hill_DE,1
-391,Minairo Frederick,292000,Dockers,FO,17,Hawks,45.0,R:17_P:Minairo Frederick,R:17_P:Minairo Frederick_FO,1
-392,Caleb Serong,636000,Dockers,MI,12,Bulldogs,101.0,R:12_P:Caleb Serong,R:12_P:Caleb Serong_MI,1
-393,David Mundy,631000,Dockers,MI,12,Bulldogs,66.27272727272727,R:12_P:David Mundy,R:12_P:David Mundy_MI,1
-394,David Mundy,631000,Dockers,MI,13,Suns,86.72727272727273,R:13_P:David Mundy,R:13_P:David Mundy_MI,1
-395,David Mundy,631000,Dockers,MI,11,Power,80.9090909090909,R:11_P:David Mundy,R:11_P:David Mundy_MI,1
-396,Sam Petrevski-Seton,516000,Blues,DE,5,Power,61.75,R:5_P:Sam Petrevski-Seton,R:5_P:Sam Petrevski-Seton_DE,1
-397,Sam Petrevski-Seton,516000,Blues,DE,6,Lions,78.0,R:6_P:Sam Petrevski-Seton,R:6_P:Sam Petrevski-Seton_DE,1
-398,Sam Petrevski-Seton,516000,Blues,DE,19,Kangaroos,71.5,R:19_P:Sam Petrevski-Seton,R:19_P:Sam Petrevski-Seton_DE,1
-399,Sam Petrevski-Seton,516000,Blues,DE,21,Suns,69.0,R:21_P:Sam Petrevski-Seton,R:21_P:Sam Petrevski-Seton_DE,1
-400,Sam Petrevski-Seton,516000,Blues,DE,7,Bombers,59.25,R:7_P:Sam Petrevski-Seton,R:7_P:Sam Petrevski-Seton_DE,1
-401,Sam Petrevski-Seton,516000,Blues,DE,8,Bulldogs,72.75,R:8_P:Sam Petrevski-Seton,R:8_P:Sam Petrevski-Seton_DE,1
-402,Sam Petrevski-Seton,516000,Blues,DE,9,Demons,77.75,R:9_P:Sam Petrevski-Seton,R:9_P:Sam Petrevski-Seton_DE,1
-403,Sam Petrevski-Seton,516000,Blues,DE,20,Saints,75.25,R:20_P:Sam Petrevski-Seton,R:20_P:Sam Petrevski-Seton_DE,1
-404,Eddie Betts,424000,Blues,FO,2,Magpies,50.36363636363637,R:2_P:Eddie Betts,R:2_P:Eddie Betts_FO,1
-405,Eddie Betts,424000,Blues,FO,3,Dockers,68.54545454545455,R:3_P:Eddie Betts,R:3_P:Eddie Betts_FO,1
-406,Eddie Betts,424000,Blues,FO,5,Power,68.72727272727273,R:5_P:Eddie Betts,R:5_P:Eddie Betts_FO,1
-407,Eddie Betts,424000,Blues,FO,6,Lions,62.54545454545455,R:6_P:Eddie Betts,R:6_P:Eddie Betts_FO,1
-408,Eddie Betts,424000,Blues,FO,10,Hawks,62.27272727272727,R:10_P:Eddie Betts,R:10_P:Eddie Betts_FO,1
-409,Eddie Betts,424000,Blues,FO,12,Eagles,53.36363636363637,R:12_P:Eddie Betts,R:12_P:Eddie Betts_FO,1
-410,Eddie Betts,424000,Blues,FO,15,Crows,67.45454545454545,R:15_P:Eddie Betts,R:15_P:Eddie Betts_FO,1
-411,Eddie Betts,424000,Blues,FO,17,Cats,61.81818181818182,R:17_P:Eddie Betts,R:17_P:Eddie Betts_FO,1
-412,Eddie Betts,424000,Blues,FO,23,Giants,56.54545454545455,R:23_P:Eddie Betts,R:23_P:Eddie Betts_FO,1
-413,Eddie Betts,424000,Blues,FO,1,Tigers,66.83333333333333,R:1_P:Eddie Betts,R:1_P:Eddie Betts_FO,1
-414,Eddie Betts,424000,Blues,FO,7,Bombers,60.81818181818182,R:7_P:Eddie Betts,R:7_P:Eddie Betts_FO,1
-415,Eddie Betts,424000,Blues,FO,8,Bulldogs,66.9090909090909,R:8_P:Eddie Betts,R:8_P:Eddie Betts_FO,1
-416,Eddie Betts,424000,Blues,FO,9,Demons,60.27272727272727,R:9_P:Eddie Betts,R:9_P:Eddie Betts_FO,1
-417,Eddie Betts,424000,Blues,FO,11,Swans,47.0,R:11_P:Eddie Betts,R:11_P:Eddie Betts_FO,1
-418,Eddie Betts,424000,Blues,FO,14,Giants,56.54545454545455,R:14_P:Eddie Betts,R:14_P:Eddie Betts_FO,1
-419,Eddie Betts,424000,Blues,FO,16,Dockers,68.54545454545455,R:16_P:Eddie Betts,R:16_P:Eddie Betts_FO,1
-420,Eddie Betts,424000,Blues,FO,22,Power,68.72727272727273,R:22_P:Eddie Betts,R:22_P:Eddie Betts_FO,1
-421,Sam Walsh,739000,Blues,MI,15,Crows,97.5,R:15_P:Sam Walsh,R:15_P:Sam Walsh_MI,1
-422,Sam Walsh,739000,Blues,MI,16,Dockers,116.0,R:16_P:Sam Walsh,R:16_P:Sam Walsh_MI,1
-423,Lochie O'Brien,304000,Blues,MI,12,Eagles,15.666666666666666,R:12_P:Lochie O'Brien,R:12_P:Lochie O'Brien_MI,1
-424,Lochie O'Brien,304000,Blues,MI,14,Giants,23.666666666666668,R:14_P:Lochie O'Brien,R:14_P:Lochie O'Brien_MI,1
-425,Paddy Dow,323000,Blues,MI,12,Eagles,37.666666666666664,R:12_P:Paddy Dow,R:12_P:Paddy Dow_MI,1
-426,Paddy Dow,323000,Blues,MI,14,Giants,38.0,R:14_P:Paddy Dow,R:14_P:Paddy Dow_MI,1
-427,Matt Guelfi,446000,Bombers,DE,23,Magpies,46.333333333333336,R:23_P:Matt Guelfi,R:23_P:Matt Guelfi_DE,1
-428,Matt Guelfi,446000,Bombers,DE,22,Suns,73.33333333333333,R:22_P:Matt Guelfi,R:22_P:Matt Guelfi_DE,1
-429,David Zaharakis,524000,Bombers,FO,7,Blues,90.27272727272727,R:7_P:David Zaharakis,R:7_P:David Zaharakis_FO,1
-430,David Zaharakis,524000,Bombers,FO,9,Dockers,80.08333333333333,R:9_P:David Zaharakis,R:9_P:David Zaharakis_FO,1
-431,David Zaharakis,524000,Bombers,FO,10,Kangaroos,83.36363636363636,R:10_P:David Zaharakis,R:10_P:David Zaharakis_FO,1
-432,David Zaharakis,524000,Bombers,FO,17,Crows,76.63636363636364,R:17_P:David Zaharakis,R:17_P:David Zaharakis_FO,1
-433,David Zaharakis,524000,Bombers,FO,19,Giants,71.72727272727273,R:19_P:David Zaharakis,R:19_P:David Zaharakis_FO,1
-434,David Zaharakis,524000,Bombers,FO,20,Swans,78.81818181818181,R:20_P:David Zaharakis,R:20_P:David Zaharakis_FO,1
-435,David Zaharakis,524000,Bombers,FO,23,Magpies,71.72727272727273,R:23_P:David Zaharakis,R:23_P:David Zaharakis_FO,1
-436,David Zaharakis,524000,Bombers,FO,4,Swans,78.81818181818181,R:4_P:David Zaharakis,R:4_P:David Zaharakis_FO,1
-437,David Zaharakis,524000,Bombers,FO,5,Lions,92.54545454545455,R:5_P:David Zaharakis,R:5_P:David Zaharakis_FO,1
-438,David Zaharakis,524000,Bombers,FO,6,Magpies,71.72727272727273,R:6_P:David Zaharakis,R:6_P:David Zaharakis_FO,1
-439,David Zaharakis,524000,Bombers,FO,8,Giants,71.72727272727273,R:8_P:David Zaharakis,R:8_P:David Zaharakis_FO,1
-440,David Zaharakis,524000,Bombers,FO,16,Cats,58.72727272727273,R:16_P:David Zaharakis,R:16_P:David Zaharakis_FO,1
-441,David Zaharakis,524000,Bombers,FO,18,Kangaroos,83.36363636363636,R:18_P:David Zaharakis,R:18_P:David Zaharakis_FO,1
-442,David Zaharakis,524000,Bombers,FO,21,Bulldogs,77.63636363636364,R:21_P:David Zaharakis,R:21_P:David Zaharakis_FO,1
-443,David Zaharakis,524000,Bombers,FO,22,Suns,54.09090909090909,R:22_P:David Zaharakis,R:22_P:David Zaharakis_FO,1
-444,Dyson Heppell,566000,Bombers,MI,1,Hawks,80.55555555555556,R:1_P:Dyson Heppell,R:1_P:Dyson Heppell_MI,1
-445,Dyson Heppell,566000,Bombers,MI,3,Saints,48.111111111111114,R:3_P:Dyson Heppell,R:3_P:Dyson Heppell_MI,1
-446,Dyson Heppell,566000,Bombers,MI,7,Blues,94.22222222222223,R:7_P:Dyson Heppell,R:7_P:Dyson Heppell_MI,1
-447,Dyson Heppell,566000,Bombers,MI,9,Dockers,89.6,R:9_P:Dyson Heppell,R:9_P:Dyson Heppell_MI,1
-448,Dyson Heppell,566000,Bombers,MI,10,Kangaroos,77.88888888888889,R:10_P:Dyson Heppell,R:10_P:Dyson Heppell_MI,1
-449,Dyson Heppell,566000,Bombers,MI,15,Demons,81.66666666666667,R:15_P:Dyson Heppell,R:15_P:Dyson Heppell_MI,1
-450,Dyson Heppell,566000,Bombers,MI,17,Crows,80.33333333333333,R:17_P:Dyson Heppell,R:17_P:Dyson Heppell_MI,1
-451,Dyson Heppell,566000,Bombers,MI,19,Giants,57.333333333333336,R:19_P:Dyson Heppell,R:19_P:Dyson Heppell_MI,1
-452,Dyson Heppell,566000,Bombers,MI,20,Swans,97.22222222222223,R:20_P:Dyson Heppell,R:20_P:Dyson Heppell_MI,1
-453,Dyson Heppell,566000,Bombers,MI,23,Magpies,85.11111111111111,R:23_P:Dyson Heppell,R:23_P:Dyson Heppell_MI,1
-454,Dyson Heppell,566000,Bombers,MI,2,Power,72.77777777777777,R:2_P:Dyson Heppell,R:2_P:Dyson Heppell_MI,1
-455,Dyson Heppell,566000,Bombers,MI,4,Swans,97.22222222222223,R:4_P:Dyson Heppell,R:4_P:Dyson Heppell_MI,1
-456,Dyson Heppell,566000,Bombers,MI,5,Lions,77.0,R:5_P:Dyson Heppell,R:5_P:Dyson Heppell_MI,1
-457,Dyson Heppell,566000,Bombers,MI,6,Magpies,85.11111111111111,R:6_P:Dyson Heppell,R:6_P:Dyson Heppell_MI,1
-458,Dyson Heppell,566000,Bombers,MI,11,Eagles,94.66666666666667,R:11_P:Dyson Heppell,R:11_P:Dyson Heppell_MI,1
-459,Dyson Heppell,566000,Bombers,MI,14,Hawks,80.55555555555556,R:14_P:Dyson Heppell,R:14_P:Dyson Heppell_MI,1
-460,Dyson Heppell,566000,Bombers,MI,16,Cats,74.55555555555556,R:16_P:Dyson Heppell,R:16_P:Dyson Heppell_MI,1
-461,Dyson Heppell,566000,Bombers,MI,18,Kangaroos,77.88888888888889,R:18_P:Dyson Heppell,R:18_P:Dyson Heppell_MI,1
-462,Dyson Heppell,566000,Bombers,MI,21,Bulldogs,82.33333333333333,R:21_P:Dyson Heppell,R:21_P:Dyson Heppell_MI,1
-463,Dyson Heppell,566000,Bombers,MI,22,Suns,85.22222222222223,R:22_P:Dyson Heppell,R:22_P:Dyson Heppell_MI,1
-464,Shane Mumford,466000,Giants,RU,1,Saints,66.4,R:1_P:Shane Mumford,R:1_P:Shane Mumford_RU,1
-465,Shane Mumford,466000,Giants,RU,3,Demons,56.8,R:3_P:Shane Mumford,R:3_P:Shane Mumford_RU,1
-466,Shane Mumford,466000,Giants,RU,6,Bulldogs,77.7,R:6_P:Shane Mumford,R:6_P:Shane Mumford_RU,1
-467,Shane Mumford,466000,Giants,RU,8,Bombers,71.0,R:8_P:Shane Mumford,R:8_P:Shane Mumford_RU,1
-468,Shane Mumford,466000,Giants,RU,20,Power,68.2,R:20_P:Shane Mumford,R:20_P:Shane Mumford_RU,1
-469,Shane Mumford,466000,Giants,RU,2,Dockers,55.6,R:2_P:Shane Mumford,R:2_P:Shane Mumford_RU,1
-470,Shane Mumford,466000,Giants,RU,4,Magpies,63.4,R:4_P:Shane Mumford,R:4_P:Shane Mumford_RU,1
-471,Shane Mumford,466000,Giants,RU,7,Crows,63.0,R:7_P:Shane Mumford,R:7_P:Shane Mumford_RU,1
-472,Shane Mumford,466000,Giants,RU,19,Bombers,71.0,R:19_P:Shane Mumford,R:19_P:Shane Mumford_RU,1
-473,Lachlan Ash,420000,Giants,DE,14,Blues,55.0,R:14_P:Lachlan Ash,R:14_P:Lachlan Ash_DE,1
-474,Lachlan Ash,420000,Giants,DE,15,Hawks,56.0,R:15_P:Lachlan Ash,R:15_P:Lachlan Ash_DE,1
-475,Lachlan Ash,420000,Giants,DE,17,Suns,59.0,R:17_P:Lachlan Ash,R:17_P:Lachlan Ash_DE,1
-476,Sam Taylor,276000,Giants,DE,3,Demons,35.666666666666664,R:3_P:Sam Taylor,R:3_P:Sam Taylor_DE,1
-477,Sam Taylor,276000,Giants,DE,6,Bulldogs,35.333333333333336,R:6_P:Sam Taylor,R:6_P:Sam Taylor_DE,1
-478,Sam Taylor,276000,Giants,DE,14,Blues,15.666666666666666,R:14_P:Sam Taylor,R:14_P:Sam Taylor_DE,1
-479,Sam Taylor,276000,Giants,DE,16,Demons,35.666666666666664,R:16_P:Sam Taylor,R:16_P:Sam Taylor_DE,1
-480,Callan Ward,461000,Giants,MI,1,Saints,74.81818181818181,R:1_P:Callan Ward,R:1_P:Callan Ward_MI,1
-481,Callan Ward,461000,Giants,MI,3,Demons,76.0909090909091,R:3_P:Callan Ward,R:3_P:Callan Ward_MI,1
-482,Callan Ward,461000,Giants,MI,6,Bulldogs,83.0909090909091,R:6_P:Callan Ward,R:6_P:Callan Ward_MI,1
-483,Callan Ward,461000,Giants,MI,8,Bombers,76.18181818181819,R:8_P:Callan Ward,R:8_P:Callan Ward_MI,1
-484,Callan Ward,461000,Giants,MI,10,Eagles,40.09090909090909,R:10_P:Callan Ward,R:10_P:Callan Ward_MI,1
-485,Callan Ward,461000,Giants,MI,14,Blues,62.72727272727273,R:14_P:Callan Ward,R:14_P:Callan Ward_MI,1
-486,Callan Ward,461000,Giants,MI,15,Hawks,63.63636363636363,R:15_P:Callan Ward,R:15_P:Callan Ward_MI,1
-487,Callan Ward,461000,Giants,MI,17,Suns,50.36363636363637,R:17_P:Callan Ward,R:17_P:Callan Ward_MI,1
-488,Callan Ward,461000,Giants,MI,18,Swans,71.0,R:18_P:Callan Ward,R:18_P:Callan Ward_MI,1
-489,Callan Ward,461000,Giants,MI,20,Power,65.0,R:20_P:Callan Ward,R:20_P:Callan Ward_MI,1
-490,Callan Ward,461000,Giants,MI,22,Tigers,70.72727272727273,R:22_P:Callan Ward,R:22_P:Callan Ward_MI,1
-491,Callan Ward,461000,Giants,MI,2,Dockers,73.81818181818181,R:2_P:Callan Ward,R:2_P:Callan Ward_MI,1
-492,Callan Ward,461000,Giants,MI,4,Magpies,63.81818181818182,R:4_P:Callan Ward,R:4_P:Callan Ward_MI,1
-493,Callan Ward,461000,Giants,MI,5,Swans,71.0,R:5_P:Callan Ward,R:5_P:Callan Ward_MI,1
-494,Callan Ward,461000,Giants,MI,7,Crows,84.0909090909091,R:7_P:Callan Ward,R:7_P:Callan Ward_MI,1
-495,Callan Ward,461000,Giants,MI,9,Tigers,70.72727272727273,R:9_P:Callan Ward,R:9_P:Callan Ward_MI,1
-496,Callan Ward,461000,Giants,MI,11,Lions,70.27272727272727,R:11_P:Callan Ward,R:11_P:Callan Ward_MI,1
-497,Callan Ward,461000,Giants,MI,13,Kangaroos,74.27272727272727,R:13_P:Callan Ward,R:13_P:Callan Ward_MI,1
-498,Callan Ward,461000,Giants,MI,16,Demons,76.0909090909091,R:16_P:Callan Ward,R:16_P:Callan Ward_MI,1
-499,Callan Ward,461000,Giants,MI,19,Bombers,76.18181818181819,R:19_P:Callan Ward,R:19_P:Callan Ward_MI,1
-500,Callan Ward,461000,Giants,MI,21,Cats,61.833333333333336,R:21_P:Callan Ward,R:21_P:Callan Ward_MI,1
-501,Callan Ward,461000,Giants,MI,23,Blues,62.72727272727273,R:23_P:Callan Ward,R:23_P:Callan Ward_MI,1
-502,Bryce Gibbs,487000,Crows,DE,14,_BYE,0.0,R:14_P:Bryce Gibbs,R:14_P:Bryce Gibbs_DE,1
-503,Dylan Roberton,170000,Saints,DE,14,_BYE,0.0,R:14_P:Dylan Roberton,R:14_P:Dylan Roberton_DE,1
-504,Jack Redden,554000,Eagles,MI,13,_BYE,0.0,R:13_P:Jack Redden,R:13_P:Jack Redden_MI,1
-505,Jarrod Harbrow,428000,Suns,DE,12,_BYE,0.0,R:12_P:Jarrod Harbrow,R:12_P:Jarrod Harbrow_DE,1
+,Name,Price,Team 1,Position,Round,Team 2,Date,Score,id,pl_pos_id,is_selected
+0,Jay Lockhart,363000,Demons,DE,18,Hawks,Sat 17 Jul 12:00pm,61.5,R:18_P:Jay Lockhart,R:18_P:Jay Lockhart_DE,1
+1,Neville Jetta,285000,Demons,DE,9,Blues,Sat 15 May 12:00pm,28.181818181818183,R:9_P:Neville Jetta,R:9_P:Neville Jetta_DE,1
+2,Neville Jetta,285000,Demons,DE,12,Lions,Sat 5 Jun 12:00pm,32.27272727272727,R:12_P:Neville Jetta,R:12_P:Neville Jetta_DE,1
+3,Neville Jetta,285000,Demons,DE,13,Magpies,Sat 12 Jun 12:00pm,30.727272727272727,R:13_P:Neville Jetta,R:13_P:Neville Jetta_DE,1
+4,Neville Jetta,285000,Demons,DE,22,Crows,Sat 14 Aug 12:00pm,32.90909090909091,R:22_P:Neville Jetta,R:22_P:Neville Jetta_DE,1
+5,Neville Jetta,285000,Demons,DE,15,Bombers,Sat 26 Jun 12:00pm,35.18181818181818,R:15_P:Neville Jetta,R:15_P:Neville Jetta_DE,1
+6,Neville Jetta,285000,Demons,DE,17,Power,Sat 10 Jul 12:00pm,35.36363636363637,R:17_P:Neville Jetta,R:17_P:Neville Jetta_DE,1
+7,Bayley Fritsch,553000,Demons,FO,8,Swans,Sat 8 May 12:00pm,69.0,R:8_P:Bayley Fritsch,R:8_P:Bayley Fritsch_FO,1
+8,Bayley Fritsch,553000,Demons,FO,9,Blues,Sat 15 May 12:00pm,71.0,R:9_P:Bayley Fritsch,R:9_P:Bayley Fritsch_FO,1
+9,Bayley Fritsch,553000,Demons,FO,12,Lions,Sat 5 Jun 12:00pm,63.0,R:12_P:Bayley Fritsch,R:12_P:Bayley Fritsch_FO,1
+10,Bayley Fritsch,553000,Demons,FO,13,Magpies,Sat 12 Jun 12:00pm,90.0,R:13_P:Bayley Fritsch,R:13_P:Bayley Fritsch_FO,1
+11,Bayley Fritsch,553000,Demons,FO,7,Kangaroos,Sat 1 May 12:00pm,91.66666666666667,R:7_P:Bayley Fritsch,R:7_P:Bayley Fritsch_FO,1
+12,Bayley Fritsch,553000,Demons,FO,10,Crows,Sat 22 May 12:00pm,69.33333333333333,R:10_P:Bayley Fritsch,R:10_P:Bayley Fritsch_FO,1
+13,Bayley Fritsch,553000,Demons,FO,15,Bombers,Sat 26 Jun 12:00pm,97.33333333333333,R:15_P:Bayley Fritsch,R:15_P:Bayley Fritsch_FO,1
+14,Nathan Jones,528000,Demons,MI,4,Cats,Sun 11 Apr 3:20pm,75.0,R:4_P:Nathan Jones,R:4_P:Nathan Jones_MI,1
+15,Nathan Jones,528000,Demons,MI,6,Tigers,Sat 24 Apr 7:25pm,67.54545454545455,R:6_P:Nathan Jones,R:6_P:Nathan Jones_MI,1
+16,Nathan Jones,528000,Demons,MI,8,Swans,Sat 8 May 12:00pm,77.36363636363636,R:8_P:Nathan Jones,R:8_P:Nathan Jones_MI,1
+17,Nathan Jones,528000,Demons,MI,9,Blues,Sat 15 May 12:00pm,82.45454545454545,R:9_P:Nathan Jones,R:9_P:Nathan Jones_MI,1
+18,Nathan Jones,528000,Demons,MI,12,Lions,Sat 5 Jun 12:00pm,89.9090909090909,R:12_P:Nathan Jones,R:12_P:Nathan Jones_MI,1
+19,Nathan Jones,528000,Demons,MI,13,Magpies,Sat 12 Jun 12:00pm,77.18181818181819,R:13_P:Nathan Jones,R:13_P:Nathan Jones_MI,1
+20,Nathan Jones,528000,Demons,MI,16,Giants,Sat 3 Jul 12:00pm,64.54545454545455,R:16_P:Nathan Jones,R:16_P:Nathan Jones_MI,1
+21,Nathan Jones,528000,Demons,MI,18,Hawks,Sat 17 Jul 12:00pm,84.18181818181819,R:18_P:Nathan Jones,R:18_P:Nathan Jones_MI,1
+22,Nathan Jones,528000,Demons,MI,20,Bulldogs,Sat 31 Jul 12:00pm,55.09090909090909,R:20_P:Nathan Jones,R:20_P:Nathan Jones_MI,1
+23,Nathan Jones,528000,Demons,MI,22,Crows,Sat 14 Aug 12:00pm,79.81818181818181,R:22_P:Nathan Jones,R:22_P:Nathan Jones_MI,1
+24,Nathan Jones,528000,Demons,MI,3,Giants,Sun 4 Apr 6:10pm,64.54545454545455,R:3_P:Nathan Jones,R:3_P:Nathan Jones_MI,1
+25,Nathan Jones,528000,Demons,MI,5,Hawks,Sun 18 Apr 3:20pm,84.18181818181819,R:5_P:Nathan Jones,R:5_P:Nathan Jones_MI,1
+26,Nathan Jones,528000,Demons,MI,7,Kangaroos,Sat 1 May 12:00pm,74.36363636363636,R:7_P:Nathan Jones,R:7_P:Nathan Jones_MI,1
+27,Nathan Jones,528000,Demons,MI,10,Crows,Sat 22 May 12:00pm,79.81818181818181,R:10_P:Nathan Jones,R:10_P:Nathan Jones_MI,1
+28,Nathan Jones,528000,Demons,MI,11,Bulldogs,Sat 29 May 12:00pm,55.09090909090909,R:11_P:Nathan Jones,R:11_P:Nathan Jones_MI,1
+29,Nathan Jones,528000,Demons,MI,15,Bombers,Sat 26 Jun 12:00pm,73.27272727272727,R:15_P:Nathan Jones,R:15_P:Nathan Jones_MI,1
+30,Nathan Jones,528000,Demons,MI,17,Power,Sat 10 Jul 12:00pm,83.9090909090909,R:17_P:Nathan Jones,R:17_P:Nathan Jones_MI,1
+31,Nathan Jones,528000,Demons,MI,19,Suns,Sat 24 Jul 12:00pm,76.0909090909091,R:19_P:Nathan Jones,R:19_P:Nathan Jones_MI,1
+32,Nathan Jones,528000,Demons,MI,21,Eagles,Sat 7 Aug 12:00pm,75.5,R:21_P:Nathan Jones,R:21_P:Nathan Jones_MI,1
+33,Nathan Jones,528000,Demons,MI,23,Cats,Sat 21 Aug 12:00pm,75.0,R:23_P:Nathan Jones,R:23_P:Nathan Jones_MI,1
+34,Jaidyn Stephenson,470000,Magpies,FO,23,Bombers,Sat 21 Aug 12:00pm,86.0,R:23_P:Jaidyn Stephenson,R:23_P:Jaidyn Stephenson_FO,1
+35,Levi Greenwood,398000,Magpies,MI,12,Crows,Sat 5 Jun 12:00pm,55.09090909090909,R:12_P:Levi Greenwood,R:12_P:Levi Greenwood_MI,1
+36,Bryce Gibbs,487000,Crows,DE,1,Cats,Sat 20 Mar 4:05pm,58.72727272727273,R:1_P:Bryce Gibbs,R:1_P:Bryce Gibbs_DE,1
+37,Bryce Gibbs,487000,Crows,DE,3,Suns,Fri 2 Apr 7:20pm,92.0,R:3_P:Bryce Gibbs,R:3_P:Bryce Gibbs_DE,1
+38,Bryce Gibbs,487000,Crows,DE,5,Dockers,Sun 18 Apr 12:40pm,77.0,R:5_P:Bryce Gibbs,R:5_P:Bryce Gibbs_DE,1
+39,Bryce Gibbs,487000,Crows,DE,7,Giants,Sat 1 May 12:00pm,70.36363636363636,R:7_P:Bryce Gibbs,R:7_P:Bryce Gibbs_DE,1
+40,Bryce Gibbs,487000,Crows,DE,10,Demons,Sat 22 May 12:00pm,84.18181818181819,R:10_P:Bryce Gibbs,R:10_P:Bryce Gibbs_DE,1
+41,Bryce Gibbs,487000,Crows,DE,12,Magpies,Sat 5 Jun 12:00pm,59.54545454545455,R:12_P:Bryce Gibbs,R:12_P:Bryce Gibbs_DE,1
+42,Bryce Gibbs,487000,Crows,DE,16,Lions,Sat 3 Jul 12:00pm,74.81818181818181,R:16_P:Bryce Gibbs,R:16_P:Bryce Gibbs_DE,1
+43,Bryce Gibbs,487000,Crows,DE,18,Eagles,Sat 17 Jul 12:00pm,73.45454545454545,R:18_P:Bryce Gibbs,R:18_P:Bryce Gibbs_DE,1
+44,Bryce Gibbs,487000,Crows,DE,20,Hawks,Sat 31 Jul 12:00pm,85.54545454545455,R:20_P:Bryce Gibbs,R:20_P:Bryce Gibbs_DE,1
+45,Bryce Gibbs,487000,Crows,DE,21,Power,Sat 7 Aug 12:00pm,85.54545454545455,R:21_P:Bryce Gibbs,R:21_P:Bryce Gibbs_DE,1
+46,Bryce Gibbs,487000,Crows,DE,23,Kangaroos,Sat 21 Aug 12:00pm,80.45454545454545,R:23_P:Bryce Gibbs,R:23_P:Bryce Gibbs_DE,1
+47,Bryce Gibbs,487000,Crows,DE,2,Swans,Sat 27 Mar 1:45pm,95.25,R:2_P:Bryce Gibbs,R:2_P:Bryce Gibbs_DE,1
+48,Bryce Gibbs,487000,Crows,DE,4,Kangaroos,Sun 11 Apr 1:10pm,80.45454545454545,R:4_P:Bryce Gibbs,R:4_P:Bryce Gibbs_DE,1
+49,Bryce Gibbs,487000,Crows,DE,6,Hawks,Sun 25 Apr 12:30pm,85.54545454545455,R:6_P:Bryce Gibbs,R:6_P:Bryce Gibbs_DE,1
+50,Bryce Gibbs,487000,Crows,DE,8,Power,Sat 8 May 12:00pm,85.54545454545455,R:8_P:Bryce Gibbs,R:8_P:Bryce Gibbs_DE,1
+51,Bryce Gibbs,487000,Crows,DE,9,Eagles,Sat 15 May 12:00pm,73.45454545454545,R:9_P:Bryce Gibbs,R:9_P:Bryce Gibbs_DE,1
+52,Bryce Gibbs,487000,Crows,DE,11,Tigers,Sat 29 May 12:00pm,67.45454545454545,R:11_P:Bryce Gibbs,R:11_P:Bryce Gibbs_DE,1
+53,Bryce Gibbs,487000,Crows,DE,13,Saints,Sat 12 Jun 12:00pm,76.45454545454545,R:13_P:Bryce Gibbs,R:13_P:Bryce Gibbs_DE,1
+54,Bryce Gibbs,487000,Crows,DE,15,Blues,Sat 26 Jun 12:00pm,78.63636363636364,R:15_P:Bryce Gibbs,R:15_P:Bryce Gibbs_DE,1
+55,Bryce Gibbs,487000,Crows,DE,17,Bombers,Sat 10 Jul 12:00pm,57.45454545454545,R:17_P:Bryce Gibbs,R:17_P:Bryce Gibbs_DE,1
+56,Bryce Gibbs,487000,Crows,DE,19,Bulldogs,Sat 24 Jul 12:00pm,79.63636363636364,R:19_P:Bryce Gibbs,R:19_P:Bryce Gibbs_DE,1
+57,Bryce Gibbs,487000,Crows,DE,22,Demons,Sat 14 Aug 12:00pm,84.18181818181819,R:22_P:Bryce Gibbs,R:22_P:Bryce Gibbs_DE,1
+58,Taylor Walker,366000,Crows,FO,1,Cats,Sat 20 Mar 4:05pm,46.0,R:1_P:Taylor Walker,R:1_P:Taylor Walker_FO,1
+59,Taylor Walker,366000,Crows,FO,3,Suns,Fri 2 Apr 7:20pm,53.0,R:3_P:Taylor Walker,R:3_P:Taylor Walker_FO,1
+60,Taylor Walker,366000,Crows,FO,5,Dockers,Sun 18 Apr 12:40pm,55.27272727272727,R:5_P:Taylor Walker,R:5_P:Taylor Walker_FO,1
+61,Taylor Walker,366000,Crows,FO,12,Magpies,Sat 5 Jun 12:00pm,41.54545454545455,R:12_P:Taylor Walker,R:12_P:Taylor Walker_FO,1
+62,Taylor Walker,366000,Crows,FO,16,Lions,Sat 3 Jul 12:00pm,61.90909090909091,R:16_P:Taylor Walker,R:16_P:Taylor Walker_FO,1
+63,Taylor Walker,366000,Crows,FO,18,Eagles,Sat 17 Jul 12:00pm,45.36363636363637,R:18_P:Taylor Walker,R:18_P:Taylor Walker_FO,1
+64,Taylor Walker,366000,Crows,FO,20,Hawks,Sat 31 Jul 12:00pm,52.54545454545455,R:20_P:Taylor Walker,R:20_P:Taylor Walker_FO,1
+65,Taylor Walker,366000,Crows,FO,21,Power,Sat 7 Aug 12:00pm,59.45454545454545,R:21_P:Taylor Walker,R:21_P:Taylor Walker_FO,1
+66,Taylor Walker,366000,Crows,FO,23,Kangaroos,Sat 21 Aug 12:00pm,47.18181818181818,R:23_P:Taylor Walker,R:23_P:Taylor Walker_FO,1
+67,Taylor Walker,366000,Crows,FO,2,Swans,Sat 27 Mar 1:45pm,54.5,R:2_P:Taylor Walker,R:2_P:Taylor Walker_FO,1
+68,Taylor Walker,366000,Crows,FO,4,Kangaroos,Sun 11 Apr 1:10pm,47.18181818181818,R:4_P:Taylor Walker,R:4_P:Taylor Walker_FO,1
+69,Taylor Walker,366000,Crows,FO,6,Hawks,Sun 25 Apr 12:30pm,52.54545454545455,R:6_P:Taylor Walker,R:6_P:Taylor Walker_FO,1
+70,Taylor Walker,366000,Crows,FO,8,Power,Sat 8 May 12:00pm,59.45454545454545,R:8_P:Taylor Walker,R:8_P:Taylor Walker_FO,1
+71,Taylor Walker,366000,Crows,FO,9,Eagles,Sat 15 May 12:00pm,45.36363636363637,R:9_P:Taylor Walker,R:9_P:Taylor Walker_FO,1
+72,Taylor Walker,366000,Crows,FO,13,Saints,Sat 12 Jun 12:00pm,34.36363636363637,R:13_P:Taylor Walker,R:13_P:Taylor Walker_FO,1
+73,Rory Sloane,580000,Crows,MI,3,Suns,Fri 2 Apr 7:20pm,77.9090909090909,R:3_P:Rory Sloane,R:3_P:Rory Sloane_MI,1
+74,Rory Sloane,580000,Crows,MI,5,Dockers,Sun 18 Apr 12:40pm,68.0,R:5_P:Rory Sloane,R:5_P:Rory Sloane_MI,1
+75,Rory Sloane,580000,Crows,MI,7,Giants,Sat 1 May 12:00pm,78.81818181818181,R:7_P:Rory Sloane,R:7_P:Rory Sloane_MI,1
+76,Rory Sloane,580000,Crows,MI,10,Demons,Sat 22 May 12:00pm,81.45454545454545,R:10_P:Rory Sloane,R:10_P:Rory Sloane_MI,1
+77,Rory Sloane,580000,Crows,MI,12,Magpies,Sat 5 Jun 12:00pm,57.0,R:12_P:Rory Sloane,R:12_P:Rory Sloane_MI,1
+78,Rory Sloane,580000,Crows,MI,16,Lions,Sat 3 Jul 12:00pm,76.18181818181819,R:16_P:Rory Sloane,R:16_P:Rory Sloane_MI,1
+79,Rory Sloane,580000,Crows,MI,18,Eagles,Sat 17 Jul 12:00pm,71.81818181818181,R:18_P:Rory Sloane,R:18_P:Rory Sloane_MI,1
+80,Rory Sloane,580000,Crows,MI,20,Hawks,Sat 31 Jul 12:00pm,77.81818181818181,R:20_P:Rory Sloane,R:20_P:Rory Sloane_MI,1
+81,Rory Sloane,580000,Crows,MI,21,Power,Sat 7 Aug 12:00pm,85.0,R:21_P:Rory Sloane,R:21_P:Rory Sloane_MI,1
+82,Rory Sloane,580000,Crows,MI,2,Swans,Sat 27 Mar 1:45pm,84.58333333333333,R:2_P:Rory Sloane,R:2_P:Rory Sloane_MI,1
+83,Rory Sloane,580000,Crows,MI,4,Kangaroos,Sun 11 Apr 1:10pm,59.63636363636363,R:4_P:Rory Sloane,R:4_P:Rory Sloane_MI,1
+84,Rory Sloane,580000,Crows,MI,6,Hawks,Sun 25 Apr 12:30pm,77.81818181818181,R:6_P:Rory Sloane,R:6_P:Rory Sloane_MI,1
+85,Rory Sloane,580000,Crows,MI,8,Power,Sat 8 May 12:00pm,85.0,R:8_P:Rory Sloane,R:8_P:Rory Sloane_MI,1
+86,Rory Sloane,580000,Crows,MI,9,Eagles,Sat 15 May 12:00pm,71.81818181818181,R:9_P:Rory Sloane,R:9_P:Rory Sloane_MI,1
+87,Rory Sloane,580000,Crows,MI,11,Tigers,Sat 29 May 12:00pm,80.9090909090909,R:11_P:Rory Sloane,R:11_P:Rory Sloane_MI,1
+88,Rory Sloane,580000,Crows,MI,13,Saints,Sat 12 Jun 12:00pm,56.09090909090909,R:13_P:Rory Sloane,R:13_P:Rory Sloane_MI,1
+89,Rory Sloane,580000,Crows,MI,15,Blues,Sat 26 Jun 12:00pm,88.81818181818181,R:15_P:Rory Sloane,R:15_P:Rory Sloane_MI,1
+90,Rory Sloane,580000,Crows,MI,17,Bombers,Sat 10 Jul 12:00pm,60.27272727272727,R:17_P:Rory Sloane,R:17_P:Rory Sloane_MI,1
+91,Rory Sloane,580000,Crows,MI,19,Bulldogs,Sat 24 Jul 12:00pm,75.81818181818181,R:19_P:Rory Sloane,R:19_P:Rory Sloane_MI,1
+92,Rory Sloane,580000,Crows,MI,22,Demons,Sat 14 Aug 12:00pm,81.45454545454545,R:22_P:Rory Sloane,R:22_P:Rory Sloane_MI,1
+93,Todd Goldstein,760000,Kangaroos,RU,1,Power,Sun 21 Mar 1:10pm,96.54545454545455,R:1_P:Todd Goldstein,R:1_P:Todd Goldstein_RU,1
+94,Todd Goldstein,760000,Kangaroos,RU,3,Bulldogs,Fri 2 Apr 4:20pm,75.45454545454545,R:3_P:Todd Goldstein,R:3_P:Todd Goldstein_RU,1
+95,Todd Goldstein,760000,Kangaroos,RU,4,Crows,Sun 11 Apr 1:10pm,105.54545454545455,R:4_P:Todd Goldstein,R:4_P:Todd Goldstein_RU,1
+96,Todd Goldstein,760000,Kangaroos,RU,22,Swans,Sat 14 Aug 12:00pm,78.63636363636364,R:22_P:Todd Goldstein,R:22_P:Todd Goldstein_RU,1
+97,Todd Goldstein,760000,Kangaroos,RU,2,Suns,Sat 27 Mar 7:10pm,92.63636363636364,R:2_P:Todd Goldstein,R:2_P:Todd Goldstein_RU,1
+98,Todd Goldstein,760000,Kangaroos,RU,5,Cats,Sun 18 Apr 4:40pm,91.63636363636364,R:5_P:Todd Goldstein,R:5_P:Todd Goldstein_RU,1
+99,Todd Goldstein,760000,Kangaroos,RU,21,Tigers,Sat 7 Aug 12:00pm,92.36363636363636,R:21_P:Todd Goldstein,R:21_P:Todd Goldstein_RU,1
+100,Todd Goldstein,760000,Kangaroos,RU,23,Crows,Sat 21 Aug 12:00pm,105.54545454545455,R:23_P:Todd Goldstein,R:23_P:Todd Goldstein_RU,1
+101,Ben Cunnington,503000,Kangaroos,MI,3,Bulldogs,Fri 2 Apr 4:20pm,75.36363636363636,R:3_P:Ben Cunnington,R:3_P:Ben Cunnington_MI,1
+102,Ben Cunnington,503000,Kangaroos,MI,4,Crows,Sun 11 Apr 1:10pm,72.72727272727273,R:4_P:Ben Cunnington,R:4_P:Ben Cunnington_MI,1
+103,Ben Cunnington,503000,Kangaroos,MI,18,Bombers,Sat 17 Jul 12:00pm,65.36363636363636,R:18_P:Ben Cunnington,R:18_P:Ben Cunnington_MI,1
+104,Ben Cunnington,503000,Kangaroos,MI,20,Cats,Sat 31 Jul 12:00pm,65.63636363636364,R:20_P:Ben Cunnington,R:20_P:Ben Cunnington_MI,1
+105,Ben Cunnington,503000,Kangaroos,MI,22,Swans,Sat 14 Aug 12:00pm,61.18181818181818,R:22_P:Ben Cunnington,R:22_P:Ben Cunnington_MI,1
+106,Ben Cunnington,503000,Kangaroos,MI,5,Cats,Sun 18 Apr 4:40pm,65.63636363636364,R:5_P:Ben Cunnington,R:5_P:Ben Cunnington_MI,1
+107,Ben Cunnington,503000,Kangaroos,MI,16,Bulldogs,Sat 3 Jul 12:00pm,75.36363636363636,R:16_P:Ben Cunnington,R:16_P:Ben Cunnington_MI,1
+108,Ben Cunnington,503000,Kangaroos,MI,17,Eagles,Sat 10 Jul 12:00pm,69.81818181818181,R:17_P:Ben Cunnington,R:17_P:Ben Cunnington_MI,1
+109,Ben Cunnington,503000,Kangaroos,MI,19,Blues,Sat 24 Jul 12:00pm,62.54545454545455,R:19_P:Ben Cunnington,R:19_P:Ben Cunnington_MI,1
+110,Ben Cunnington,503000,Kangaroos,MI,21,Tigers,Sat 7 Aug 12:00pm,72.36363636363636,R:21_P:Ben Cunnington,R:21_P:Ben Cunnington_MI,1
+111,Ben Cunnington,503000,Kangaroos,MI,23,Crows,Sat 21 Aug 12:00pm,72.72727272727273,R:23_P:Ben Cunnington,R:23_P:Ben Cunnington_MI,1
+112,Patrick Ryder,575000,Saints,RU,9,Cats,Sat 15 May 12:00pm,68.2,R:9_P:Patrick Ryder,R:9_P:Patrick Ryder_RU,1
+113,Patrick Ryder,575000,Saints,RU,11,Kangaroos,Sat 29 May 12:00pm,67.45454545454545,R:11_P:Patrick Ryder,R:11_P:Patrick Ryder_RU,1
+114,Patrick Ryder,575000,Saints,RU,12,Swans,Sat 5 Jun 12:00pm,66.3,R:12_P:Patrick Ryder,R:12_P:Patrick Ryder_RU,1
+115,Patrick Ryder,575000,Saints,RU,13,Crows,Sat 12 Jun 12:00pm,75.7,R:13_P:Patrick Ryder,R:13_P:Patrick Ryder_RU,1
+116,Patrick Ryder,575000,Saints,RU,18,Power,Sat 17 Jul 12:00pm,86.7,R:18_P:Patrick Ryder,R:18_P:Patrick Ryder_RU,1
+117,Patrick Ryder,575000,Saints,RU,10,Bulldogs,Sat 22 May 12:00pm,63.35,R:10_P:Patrick Ryder,R:10_P:Patrick Ryder_RU,1
+118,Patrick Ryder,575000,Saints,RU,15,Tigers,Sat 26 Jun 12:00pm,49.45,R:15_P:Patrick Ryder,R:15_P:Patrick Ryder_RU,1
+119,Patrick Ryder,575000,Saints,RU,16,Magpies,Sat 3 Jul 12:00pm,64.9,R:16_P:Patrick Ryder,R:16_P:Patrick Ryder_RU,1
+120,Patrick Ryder,575000,Saints,RU,17,Lions,Sat 10 Jul 12:00pm,65.5,R:17_P:Patrick Ryder,R:17_P:Patrick Ryder_RU,1
+121,Callum Wilkie,459000,Saints,DE,18,Power,Sat 17 Jul 12:00pm,49.0,R:18_P:Callum Wilkie,R:18_P:Callum Wilkie_DE,1
+122,Callum Wilkie,459000,Saints,DE,20,Blues,Sat 31 Jul 12:00pm,68.0,R:20_P:Callum Wilkie,R:20_P:Callum Wilkie_DE,1
+123,Callum Wilkie,459000,Saints,DE,23,Dockers,Sat 21 Aug 12:00pm,53.5,R:23_P:Callum Wilkie,R:23_P:Callum Wilkie_DE,1
+124,Callum Wilkie,459000,Saints,DE,17,Lions,Sat 10 Jul 12:00pm,59.0,R:17_P:Callum Wilkie,R:17_P:Callum Wilkie_DE,1
+125,Callum Wilkie,459000,Saints,DE,19,Eagles,Sat 24 Jul 12:00pm,53.0,R:19_P:Callum Wilkie,R:19_P:Callum Wilkie_DE,1
+126,Callum Wilkie,459000,Saints,DE,21,Swans,Sat 7 Aug 12:00pm,62.0,R:21_P:Callum Wilkie,R:21_P:Callum Wilkie_DE,1
+127,Callum Wilkie,459000,Saints,DE,22,Cats,Sat 14 Aug 12:00pm,46.5,R:22_P:Callum Wilkie,R:22_P:Callum Wilkie_DE,1
+128,Jarryn Geary,382000,Saints,DE,11,Kangaroos,Sat 29 May 12:00pm,61.333333333333336,R:11_P:Jarryn Geary,R:11_P:Jarryn Geary_DE,1
+129,Jarryn Geary,382000,Saints,DE,12,Swans,Sat 5 Jun 12:00pm,30.363636363636363,R:12_P:Jarryn Geary,R:12_P:Jarryn Geary_DE,1
+130,Jarryn Geary,382000,Saints,DE,13,Crows,Sat 12 Jun 12:00pm,38.0,R:13_P:Jarryn Geary,R:13_P:Jarryn Geary_DE,1
+131,Jarryn Geary,382000,Saints,DE,10,Bulldogs,Sat 22 May 12:00pm,52.95454545454545,R:10_P:Jarryn Geary,R:10_P:Jarryn Geary_DE,1
+132,Jarryn Geary,382000,Saints,DE,15,Tigers,Sat 26 Jun 12:00pm,55.90909090909091,R:15_P:Jarryn Geary,R:15_P:Jarryn Geary_DE,1
+133,Jarryn Geary,382000,Saints,DE,16,Magpies,Sat 3 Jul 12:00pm,56.54545454545455,R:16_P:Jarryn Geary,R:16_P:Jarryn Geary_DE,1
+134,Dylan Roberton,170000,Saints,DE,2,Demons,Sat 27 Mar 7:25pm,46.45454545454545,R:2_P:Dylan Roberton,R:2_P:Dylan Roberton_DE,1
+135,Dylan Roberton,170000,Saints,DE,4,Eagles,Sat 10 Apr 4:35pm,45.18181818181818,R:4_P:Dylan Roberton,R:4_P:Dylan Roberton_DE,1
+136,Dylan Roberton,170000,Saints,DE,5,Tigers,Thu 15 Apr 7:20pm,33.09090909090909,R:5_P:Dylan Roberton,R:5_P:Dylan Roberton_DE,1
+137,Dylan Roberton,170000,Saints,DE,7,Hawks,Sat 1 May 12:00pm,41.54545454545455,R:7_P:Dylan Roberton,R:7_P:Dylan Roberton_DE,1
+138,Dylan Roberton,170000,Saints,DE,11,Kangaroos,Sat 29 May 12:00pm,40.583333333333336,R:11_P:Dylan Roberton,R:11_P:Dylan Roberton_DE,1
+139,Dylan Roberton,170000,Saints,DE,12,Swans,Sat 5 Jun 12:00pm,34.54545454545455,R:12_P:Dylan Roberton,R:12_P:Dylan Roberton_DE,1
+140,Dylan Roberton,170000,Saints,DE,18,Power,Sat 17 Jul 12:00pm,34.90909090909091,R:18_P:Dylan Roberton,R:18_P:Dylan Roberton_DE,1
+141,Dylan Roberton,170000,Saints,DE,20,Blues,Sat 31 Jul 12:00pm,30.818181818181817,R:20_P:Dylan Roberton,R:20_P:Dylan Roberton_DE,1
+142,Dylan Roberton,170000,Saints,DE,23,Dockers,Sat 21 Aug 12:00pm,34.90909090909091,R:23_P:Dylan Roberton,R:23_P:Dylan Roberton_DE,1
+143,Dylan Roberton,170000,Saints,DE,1,Giants,Sun 21 Mar 3:20pm,36.36363636363637,R:1_P:Dylan Roberton,R:1_P:Dylan Roberton_DE,1
+144,Dylan Roberton,170000,Saints,DE,8,Suns,Sat 8 May 12:00pm,34.54545454545455,R:8_P:Dylan Roberton,R:8_P:Dylan Roberton_DE,1
+145,Dylan Roberton,170000,Saints,DE,10,Bulldogs,Sat 22 May 12:00pm,39.59090909090909,R:10_P:Dylan Roberton,R:10_P:Dylan Roberton_DE,1
+146,Dylan Roberton,170000,Saints,DE,16,Magpies,Sat 3 Jul 12:00pm,40.72727272727273,R:16_P:Dylan Roberton,R:16_P:Dylan Roberton_DE,1
+147,Dylan Roberton,170000,Saints,DE,19,Eagles,Sat 24 Jul 12:00pm,45.18181818181818,R:19_P:Dylan Roberton,R:19_P:Dylan Roberton_DE,1
+148,Dylan Roberton,170000,Saints,DE,21,Swans,Sat 7 Aug 12:00pm,34.54545454545455,R:21_P:Dylan Roberton,R:21_P:Dylan Roberton_DE,1
+149,Tom McCartin,366000,Swans,FO,11,Blues,Sat 29 May 12:00pm,56.333333333333336,R:11_P:Tom McCartin,R:11_P:Tom McCartin_FO,1
+150,Tom McCartin,366000,Swans,FO,13,Hawks,Sat 12 Jun 12:00pm,46.0,R:13_P:Tom McCartin,R:13_P:Tom McCartin_FO,1
+151,Tom McCartin,366000,Swans,FO,12,Saints,Sat 5 Jun 12:00pm,53.666666666666664,R:12_P:Tom McCartin,R:12_P:Tom McCartin_FO,1
+152,Aaron Naughton,371000,Bulldogs,FO,21,Bombers,Sat 7 Aug 12:00pm,62.666666666666664,R:21_P:Aaron Naughton,R:21_P:Aaron Naughton_FO,1
+153,Aaron Naughton,371000,Bulldogs,FO,22,Hawks,Sat 14 Aug 12:00pm,60.333333333333336,R:22_P:Aaron Naughton,R:22_P:Aaron Naughton_FO,1
+154,Luke Dahlhaus,506000,Cats,FO,10,Suns,Sat 22 May 12:00pm,83.0,R:10_P:Luke Dahlhaus,R:10_P:Luke Dahlhaus_FO,1
+155,Luke Dahlhaus,506000,Cats,FO,14,Bulldogs,Sat 19 Jun 12:00pm,59.0,R:14_P:Luke Dahlhaus,R:14_P:Luke Dahlhaus_FO,1
+156,Luke Dahlhaus,506000,Cats,FO,16,Bombers,Sat 3 Jul 12:00pm,68.9,R:16_P:Luke Dahlhaus,R:16_P:Luke Dahlhaus_FO,1
+157,Luke Dahlhaus,506000,Cats,FO,19,Tigers,Sat 24 Jul 12:00pm,70.4,R:19_P:Luke Dahlhaus,R:19_P:Luke Dahlhaus_FO,1
+158,Luke Dahlhaus,506000,Cats,FO,21,Giants,Sat 7 Aug 12:00pm,75.81818181818181,R:21_P:Luke Dahlhaus,R:21_P:Luke Dahlhaus_FO,1
+159,Luke Dahlhaus,506000,Cats,FO,11,Magpies,Sat 29 May 12:00pm,78.05,R:11_P:Luke Dahlhaus,R:11_P:Luke Dahlhaus_FO,1
+160,Luke Dahlhaus,506000,Cats,FO,13,Power,Sat 12 Jun 12:00pm,65.5,R:13_P:Luke Dahlhaus,R:13_P:Luke Dahlhaus_FO,1
+161,Luke Dahlhaus,506000,Cats,FO,15,Lions,Sat 26 Jun 12:00pm,68.2,R:15_P:Luke Dahlhaus,R:15_P:Luke Dahlhaus_FO,1
+162,Luke Dahlhaus,506000,Cats,FO,17,Blues,Sat 10 Jul 12:00pm,69.0,R:17_P:Luke Dahlhaus,R:17_P:Luke Dahlhaus_FO,1
+163,Luke Dahlhaus,506000,Cats,FO,18,Dockers,Sat 17 Jul 12:00pm,63.8,R:18_P:Luke Dahlhaus,R:18_P:Luke Dahlhaus_FO,1
+164,Luke Dahlhaus,506000,Cats,FO,20,Kangaroos,Sat 31 Jul 12:00pm,69.0,R:20_P:Luke Dahlhaus,R:20_P:Luke Dahlhaus_FO,1
+165,Joel Selwood,596000,Cats,MI,2,Lions,Fri 26 Mar 7:20pm,94.13636363636364,R:2_P:Joel Selwood,R:2_P:Joel Selwood_MI,1
+166,Joel Selwood,596000,Cats,MI,3,Hawks,Mon 5 Apr 3:20pm,91.18181818181819,R:3_P:Joel Selwood,R:3_P:Joel Selwood_MI,1
+167,Joel Selwood,596000,Cats,MI,5,Kangaroos,Sun 18 Apr 4:40pm,91.27272727272727,R:5_P:Joel Selwood,R:5_P:Joel Selwood_MI,1
+168,Joel Selwood,596000,Cats,MI,6,Eagles,Sat 24 Apr 1:45pm,88.0,R:6_P:Joel Selwood,R:6_P:Joel Selwood_MI,1
+169,Joel Selwood,596000,Cats,MI,10,Suns,Sat 22 May 12:00pm,101.0909090909091,R:10_P:Joel Selwood,R:10_P:Joel Selwood_MI,1
+170,Joel Selwood,596000,Cats,MI,14,Bulldogs,Sat 19 Jun 12:00pm,49.36363636363637,R:14_P:Joel Selwood,R:14_P:Joel Selwood_MI,1
+171,Joel Selwood,596000,Cats,MI,16,Bombers,Sat 3 Jul 12:00pm,75.0909090909091,R:16_P:Joel Selwood,R:16_P:Joel Selwood_MI,1
+172,Joel Selwood,596000,Cats,MI,19,Tigers,Sat 24 Jul 12:00pm,103.22727272727273,R:19_P:Joel Selwood,R:19_P:Joel Selwood_MI,1
+173,Joel Selwood,596000,Cats,MI,21,Giants,Sat 7 Aug 12:00pm,87.16666666666667,R:21_P:Joel Selwood,R:21_P:Joel Selwood_MI,1
+174,Joel Selwood,596000,Cats,MI,22,Saints,Sat 14 Aug 12:00pm,99.63636363636364,R:22_P:Joel Selwood,R:22_P:Joel Selwood_MI,1
+175,Joel Selwood,596000,Cats,MI,23,Demons,Sat 21 Aug 12:00pm,97.54545454545455,R:23_P:Joel Selwood,R:23_P:Joel Selwood_MI,1
+176,Joel Selwood,596000,Cats,MI,4,Demons,Sun 11 Apr 3:20pm,97.54545454545455,R:4_P:Joel Selwood,R:4_P:Joel Selwood_MI,1
+177,Joel Selwood,596000,Cats,MI,7,Swans,Sat 1 May 12:00pm,110.0,R:7_P:Joel Selwood,R:7_P:Joel Selwood_MI,1
+178,Joel Selwood,596000,Cats,MI,8,Tigers,Sat 8 May 12:00pm,103.22727272727273,R:8_P:Joel Selwood,R:8_P:Joel Selwood_MI,1
+179,Joel Selwood,596000,Cats,MI,9,Saints,Sat 15 May 12:00pm,99.63636363636364,R:9_P:Joel Selwood,R:9_P:Joel Selwood_MI,1
+180,Joel Selwood,596000,Cats,MI,11,Magpies,Sat 29 May 12:00pm,97.0909090909091,R:11_P:Joel Selwood,R:11_P:Joel Selwood_MI,1
+181,Joel Selwood,596000,Cats,MI,13,Power,Sat 12 Jun 12:00pm,86.95454545454545,R:13_P:Joel Selwood,R:13_P:Joel Selwood_MI,1
+182,Joel Selwood,596000,Cats,MI,15,Lions,Sat 26 Jun 12:00pm,94.13636363636364,R:15_P:Joel Selwood,R:15_P:Joel Selwood_MI,1
+183,Joel Selwood,596000,Cats,MI,17,Blues,Sat 10 Jul 12:00pm,100.72727272727273,R:17_P:Joel Selwood,R:17_P:Joel Selwood_MI,1
+184,Joel Selwood,596000,Cats,MI,18,Dockers,Sat 17 Jul 12:00pm,69.63636363636364,R:18_P:Joel Selwood,R:18_P:Joel Selwood_MI,1
+185,Joel Selwood,596000,Cats,MI,20,Kangaroos,Sat 31 Jul 12:00pm,91.27272727272727,R:20_P:Joel Selwood,R:20_P:Joel Selwood_MI,1
+186,Tom Hickey,418000,Eagles,RU,14,Tigers,Sat 19 Jun 12:00pm,18.2,R:14_P:Tom Hickey,R:14_P:Tom Hickey_RU,1
+187,Tom Hickey,418000,Eagles,RU,12,Blues,Sat 5 Jun 12:00pm,19.7,R:12_P:Tom Hickey,R:12_P:Tom Hickey_RU,1
+188,Joshua Kennedy,431000,Eagles,FO,1,Suns,Sun 21 Mar 3:10pm,74.0909090909091,R:1_P:Joshua Kennedy,R:1_P:Joshua Kennedy_FO,1
+189,Joshua Kennedy,431000,Eagles,FO,3,Power,Sat 3 Apr 5:10pm,77.36363636363636,R:3_P:Joshua Kennedy,R:3_P:Joshua Kennedy_FO,1
+190,Joshua Kennedy,431000,Eagles,FO,5,Magpies,Fri 16 Apr 6:10pm,67.77272727272727,R:5_P:Joshua Kennedy,R:5_P:Joshua Kennedy_FO,1
+191,Joshua Kennedy,431000,Eagles,FO,19,Saints,Sat 24 Jul 12:00pm,50.18181818181818,R:19_P:Joshua Kennedy,R:19_P:Joshua Kennedy_FO,1
+192,Joshua Kennedy,431000,Eagles,FO,21,Demons,Sat 7 Aug 12:00pm,65.5,R:21_P:Joshua Kennedy,R:21_P:Joshua Kennedy_FO,1
+193,Joshua Kennedy,431000,Eagles,FO,2,Bulldogs,Sun 28 Mar 3:20pm,49.90909090909091,R:2_P:Joshua Kennedy,R:2_P:Joshua Kennedy_FO,1
+194,Joshua Kennedy,431000,Eagles,FO,4,Saints,Sat 10 Apr 4:35pm,50.18181818181818,R:4_P:Joshua Kennedy,R:4_P:Joshua Kennedy_FO,1
+195,Joshua Kennedy,431000,Eagles,FO,6,Cats,Sat 24 Apr 1:45pm,77.54545454545455,R:6_P:Joshua Kennedy,R:6_P:Joshua Kennedy_FO,1
+196,Joshua Kennedy,431000,Eagles,FO,18,Crows,Sat 17 Jul 12:00pm,66.54545454545455,R:18_P:Joshua Kennedy,R:18_P:Joshua Kennedy_FO,1
+197,Joshua Kennedy,431000,Eagles,FO,20,Magpies,Sat 31 Jul 12:00pm,67.77272727272727,R:20_P:Joshua Kennedy,R:20_P:Joshua Kennedy_FO,1
+198,Joshua Kennedy,431000,Eagles,FO,22,Dockers,Sat 14 Aug 12:00pm,67.27272727272727,R:22_P:Joshua Kennedy,R:22_P:Joshua Kennedy_FO,1
+199,Joshua Kennedy,431000,Eagles,FO,23,Lions,Sat 21 Aug 12:00pm,59.45454545454545,R:23_P:Joshua Kennedy,R:23_P:Joshua Kennedy_FO,1
+200,Mark Hutchings,308000,Eagles,FO,7,Dockers,Sat 1 May 12:00pm,59.77777777777778,R:7_P:Mark Hutchings,R:7_P:Mark Hutchings_FO,1
+201,Mark Hutchings,308000,Eagles,FO,11,Bombers,Sat 29 May 12:00pm,53.22222222222222,R:11_P:Mark Hutchings,R:11_P:Mark Hutchings_FO,1
+202,Mark Hutchings,308000,Eagles,FO,14,Tigers,Sat 19 Jun 12:00pm,45.111111111111114,R:14_P:Mark Hutchings,R:14_P:Mark Hutchings_FO,1
+203,Mark Hutchings,308000,Eagles,FO,15,Bulldogs,Sat 26 Jun 12:00pm,47.0,R:15_P:Mark Hutchings,R:15_P:Mark Hutchings_FO,1
+204,Mark Hutchings,308000,Eagles,FO,19,Saints,Sat 24 Jul 12:00pm,45.888888888888886,R:19_P:Mark Hutchings,R:19_P:Mark Hutchings_FO,1
+205,Mark Hutchings,308000,Eagles,FO,4,Saints,Sat 10 Apr 4:35pm,45.888888888888886,R:4_P:Mark Hutchings,R:4_P:Mark Hutchings_FO,1
+206,Mark Hutchings,308000,Eagles,FO,12,Blues,Sat 5 Jun 12:00pm,28.555555555555557,R:12_P:Mark Hutchings,R:12_P:Mark Hutchings_FO,1
+207,Mark Hutchings,308000,Eagles,FO,20,Magpies,Sat 31 Jul 12:00pm,38.111111111111114,R:20_P:Mark Hutchings,R:20_P:Mark Hutchings_FO,1
+208,Mark Hutchings,308000,Eagles,FO,22,Dockers,Sat 14 Aug 12:00pm,59.77777777777778,R:22_P:Mark Hutchings,R:22_P:Mark Hutchings_FO,1
+209,Tim Kelly,730000,Eagles,MI,1,Suns,Sun 21 Mar 3:10pm,107.66666666666667,R:1_P:Tim Kelly,R:1_P:Tim Kelly_MI,1
+210,Luke Shuey,657000,Eagles,MI,1,Suns,Sun 21 Mar 3:10pm,102.18181818181819,R:1_P:Luke Shuey,R:1_P:Luke Shuey_MI,1
+211,Jack Redden,554000,Eagles,MI,1,Suns,Sun 21 Mar 3:10pm,82.45454545454545,R:1_P:Jack Redden,R:1_P:Jack Redden_MI,1
+212,Jack Redden,554000,Eagles,MI,3,Power,Sat 3 Apr 5:10pm,71.0,R:3_P:Jack Redden,R:3_P:Jack Redden_MI,1
+213,Jack Redden,554000,Eagles,MI,5,Magpies,Fri 16 Apr 6:10pm,72.86363636363636,R:5_P:Jack Redden,R:5_P:Jack Redden_MI,1
+214,Jack Redden,554000,Eagles,MI,7,Dockers,Sat 1 May 12:00pm,82.18181818181819,R:7_P:Jack Redden,R:7_P:Jack Redden_MI,1
+215,Jack Redden,554000,Eagles,MI,9,Crows,Sat 15 May 12:00pm,92.54545454545455,R:9_P:Jack Redden,R:9_P:Jack Redden_MI,1
+216,Jack Redden,554000,Eagles,MI,11,Bombers,Sat 29 May 12:00pm,89.9090909090909,R:11_P:Jack Redden,R:11_P:Jack Redden_MI,1
+217,Jack Redden,554000,Eagles,MI,14,Tigers,Sat 19 Jun 12:00pm,76.36363636363636,R:14_P:Jack Redden,R:14_P:Jack Redden_MI,1
+218,Jack Redden,554000,Eagles,MI,15,Bulldogs,Sat 26 Jun 12:00pm,70.45454545454545,R:15_P:Jack Redden,R:15_P:Jack Redden_MI,1
+219,Jack Redden,554000,Eagles,MI,17,Kangaroos,Sat 10 Jul 12:00pm,73.63636363636364,R:17_P:Jack Redden,R:17_P:Jack Redden_MI,1
+220,Jack Redden,554000,Eagles,MI,19,Saints,Sat 24 Jul 12:00pm,84.72727272727273,R:19_P:Jack Redden,R:19_P:Jack Redden_MI,1
+221,Jack Redden,554000,Eagles,MI,21,Demons,Sat 7 Aug 12:00pm,75.58333333333333,R:21_P:Jack Redden,R:21_P:Jack Redden_MI,1
+222,Jack Redden,554000,Eagles,MI,2,Bulldogs,Sun 28 Mar 3:20pm,70.45454545454545,R:2_P:Jack Redden,R:2_P:Jack Redden_MI,1
+223,Jack Redden,554000,Eagles,MI,4,Saints,Sat 10 Apr 4:35pm,84.72727272727273,R:4_P:Jack Redden,R:4_P:Jack Redden_MI,1
+224,Jack Redden,554000,Eagles,MI,6,Cats,Sat 24 Apr 1:45pm,74.63636363636364,R:6_P:Jack Redden,R:6_P:Jack Redden_MI,1
+225,Jack Redden,554000,Eagles,MI,8,Hawks,Sat 8 May 12:00pm,73.27272727272727,R:8_P:Jack Redden,R:8_P:Jack Redden_MI,1
+226,Jack Redden,554000,Eagles,MI,10,Giants,Sat 22 May 12:00pm,75.45454545454545,R:10_P:Jack Redden,R:10_P:Jack Redden_MI,1
+227,Jack Redden,554000,Eagles,MI,12,Blues,Sat 5 Jun 12:00pm,52.36363636363637,R:12_P:Jack Redden,R:12_P:Jack Redden_MI,1
+228,Jack Redden,554000,Eagles,MI,16,Swans,Sat 3 Jul 12:00pm,85.72727272727273,R:16_P:Jack Redden,R:16_P:Jack Redden_MI,1
+229,Jack Redden,554000,Eagles,MI,18,Crows,Sat 17 Jul 12:00pm,92.54545454545455,R:18_P:Jack Redden,R:18_P:Jack Redden_MI,1
+230,Jack Redden,554000,Eagles,MI,20,Magpies,Sat 31 Jul 12:00pm,72.86363636363636,R:20_P:Jack Redden,R:20_P:Jack Redden_MI,1
+231,Jack Redden,554000,Eagles,MI,22,Dockers,Sat 14 Aug 12:00pm,82.18181818181819,R:22_P:Jack Redden,R:22_P:Jack Redden_MI,1
+232,Jack Redden,554000,Eagles,MI,23,Lions,Sat 21 Aug 12:00pm,75.0909090909091,R:23_P:Jack Redden,R:23_P:Jack Redden_MI,1
+233,Steven Motlop,412000,Power,FO,2,Bombers,Sat 27 Mar 4:05pm,58.0,R:2_P:Steven Motlop,R:2_P:Steven Motlop_FO,1
+234,Steven Motlop,412000,Power,FO,1,Kangaroos,Sun 21 Mar 1:10pm,73.36363636363636,R:1_P:Steven Motlop,R:1_P:Steven Motlop_FO,1
+235,Steven Motlop,412000,Power,FO,3,Eagles,Sat 3 Apr 5:10pm,51.36363636363637,R:3_P:Steven Motlop,R:3_P:Steven Motlop_FO,1
+236,Sam Powell-Pepper,558000,Power,MI,2,Bombers,Sat 27 Mar 4:05pm,74.0,R:2_P:Sam Powell-Pepper,R:2_P:Sam Powell-Pepper_MI,1
+237,Sam Powell-Pepper,558000,Power,MI,1,Kangaroos,Sun 21 Mar 1:10pm,80.25,R:1_P:Sam Powell-Pepper,R:1_P:Sam Powell-Pepper_MI,1
+238,Xavier Duursma,539000,Power,MI,8,Crows,Sat 8 May 12:00pm,97.0,R:8_P:Xavier Duursma,R:8_P:Xavier Duursma_MI,1
+239,Xavier Duursma,539000,Power,MI,9,Bulldogs,Sat 15 May 12:00pm,72.0,R:9_P:Xavier Duursma,R:9_P:Xavier Duursma_MI,1
+240,Xavier Duursma,539000,Power,MI,22,Blues,Sat 14 Aug 12:00pm,62.5,R:22_P:Xavier Duursma,R:22_P:Xavier Duursma_MI,1
+241,Xavier Duursma,539000,Power,MI,10,Magpies,Sat 22 May 12:00pm,77.0,R:10_P:Xavier Duursma,R:10_P:Xavier Duursma_MI,1
+242,Xavier Duursma,539000,Power,MI,21,Crows,Sat 7 Aug 12:00pm,97.0,R:21_P:Xavier Duursma,R:21_P:Xavier Duursma_MI,1
+243,Xavier Duursma,539000,Power,MI,23,Bulldogs,Sat 21 Aug 12:00pm,72.0,R:23_P:Xavier Duursma,R:23_P:Xavier Duursma_MI,1
+244,Jarrod Harbrow,428000,Suns,DE,2,Kangaroos,Sat 27 Mar 7:10pm,58.18181818181818,R:2_P:Jarrod Harbrow,R:2_P:Jarrod Harbrow_DE,1
+245,Jarrod Harbrow,428000,Suns,DE,4,Blues,Sat 10 Apr 7:25pm,45.18181818181818,R:4_P:Jarrod Harbrow,R:4_P:Jarrod Harbrow_DE,1
+246,Jarrod Harbrow,428000,Suns,DE,6,Swans,Sat 24 Apr 1:45pm,68.0909090909091,R:6_P:Jarrod Harbrow,R:6_P:Jarrod Harbrow_DE,1
+247,Jarrod Harbrow,428000,Suns,DE,8,Saints,Sat 8 May 12:00pm,59.90909090909091,R:8_P:Jarrod Harbrow,R:8_P:Jarrod Harbrow_DE,1
+248,Jarrod Harbrow,428000,Suns,DE,9,Lions,Sat 15 May 12:00pm,75.36363636363636,R:9_P:Jarrod Harbrow,R:9_P:Jarrod Harbrow_DE,1
+249,Jarrod Harbrow,428000,Suns,DE,11,Hawks,Sat 29 May 12:00pm,57.72727272727273,R:11_P:Jarrod Harbrow,R:11_P:Jarrod Harbrow_DE,1
+250,Jarrod Harbrow,428000,Suns,DE,14,Power,Sat 19 Jun 12:00pm,52.083333333333336,R:14_P:Jarrod Harbrow,R:14_P:Jarrod Harbrow_DE,1
+251,Jarrod Harbrow,428000,Suns,DE,16,Tigers,Sat 3 Jul 12:00pm,53.81818181818182,R:16_P:Jarrod Harbrow,R:16_P:Jarrod Harbrow_DE,1
+252,Jarrod Harbrow,428000,Suns,DE,18,Bulldogs,Sat 17 Jul 12:00pm,55.72727272727273,R:18_P:Jarrod Harbrow,R:18_P:Jarrod Harbrow_DE,1
+253,Jarrod Harbrow,428000,Suns,DE,19,Demons,Sat 24 Jul 12:00pm,75.0,R:19_P:Jarrod Harbrow,R:19_P:Jarrod Harbrow_DE,1
+254,Jarrod Harbrow,428000,Suns,DE,22,Bombers,Sat 14 Aug 12:00pm,65.0,R:22_P:Jarrod Harbrow,R:22_P:Jarrod Harbrow_DE,1
+255,Jarrod Harbrow,428000,Suns,DE,1,Eagles,Sun 21 Mar 3:10pm,62.0,R:1_P:Jarrod Harbrow,R:1_P:Jarrod Harbrow_DE,1
+256,Jarrod Harbrow,428000,Suns,DE,3,Crows,Fri 2 Apr 7:20pm,68.36363636363636,R:3_P:Jarrod Harbrow,R:3_P:Jarrod Harbrow_DE,1
+257,Jarrod Harbrow,428000,Suns,DE,5,Bulldogs,Sat 17 Apr 1:45pm,55.72727272727273,R:5_P:Jarrod Harbrow,R:5_P:Jarrod Harbrow_DE,1
+258,Jarrod Harbrow,428000,Suns,DE,7,Magpies,Sat 1 May 12:00pm,65.81818181818181,R:7_P:Jarrod Harbrow,R:7_P:Jarrod Harbrow_DE,1
+259,Jarrod Harbrow,428000,Suns,DE,10,Cats,Sat 22 May 12:00pm,65.9090909090909,R:10_P:Jarrod Harbrow,R:10_P:Jarrod Harbrow_DE,1
+260,Jarrod Harbrow,428000,Suns,DE,13,Dockers,Sat 12 Jun 12:00pm,60.81818181818182,R:13_P:Jarrod Harbrow,R:13_P:Jarrod Harbrow_DE,1
+261,Jarrod Harbrow,428000,Suns,DE,15,Kangaroos,Sat 26 Jun 12:00pm,58.18181818181818,R:15_P:Jarrod Harbrow,R:15_P:Jarrod Harbrow_DE,1
+262,Jarrod Harbrow,428000,Suns,DE,17,Giants,Sat 10 Jul 12:00pm,52.63636363636363,R:17_P:Jarrod Harbrow,R:17_P:Jarrod Harbrow_DE,1
+263,Jarrod Harbrow,428000,Suns,DE,20,Lions,Sat 31 Jul 12:00pm,75.36363636363636,R:20_P:Jarrod Harbrow,R:20_P:Jarrod Harbrow_DE,1
+264,Jarrod Harbrow,428000,Suns,DE,21,Blues,Sat 7 Aug 12:00pm,45.18181818181818,R:21_P:Jarrod Harbrow,R:21_P:Jarrod Harbrow_DE,1
+265,Jarrod Harbrow,428000,Suns,DE,23,Swans,Sat 21 Aug 12:00pm,68.0909090909091,R:23_P:Jarrod Harbrow,R:23_P:Jarrod Harbrow_DE,1
+266,Connor Budarick,357000,Suns,DE,2,Kangaroos,Sat 27 Mar 7:10pm,41.0,R:2_P:Connor Budarick,R:2_P:Connor Budarick_DE,1
+267,Connor Budarick,357000,Suns,DE,1,Eagles,Sun 21 Mar 3:10pm,63.0,R:1_P:Connor Budarick,R:1_P:Connor Budarick_DE,1
+268,Connor Budarick,357000,Suns,DE,3,Crows,Fri 2 Apr 7:20pm,69.0,R:3_P:Connor Budarick,R:3_P:Connor Budarick_DE,1
+269,Jack Riewoldt,469000,Tigers,FO,1,Blues,Thu 18 Mar 7:25pm,67.41666666666667,R:1_P:Jack Riewoldt,R:1_P:Jack Riewoldt_FO,1
+270,Jack Riewoldt,469000,Tigers,FO,3,Swans,Sat 3 Apr 1:45pm,77.0,R:3_P:Jack Riewoldt,R:3_P:Jack Riewoldt_FO,1
+271,Jack Riewoldt,469000,Tigers,FO,7,Bulldogs,Sat 1 May 12:00pm,72.0909090909091,R:7_P:Jack Riewoldt,R:7_P:Jack Riewoldt_FO,1
+272,Jack Riewoldt,469000,Tigers,FO,8,Cats,Sat 8 May 12:00pm,69.13636363636364,R:8_P:Jack Riewoldt,R:8_P:Jack Riewoldt_FO,1
+273,Jack Riewoldt,469000,Tigers,FO,9,Giants,Sat 15 May 12:00pm,62.81818181818182,R:9_P:Jack Riewoldt,R:9_P:Jack Riewoldt_FO,1
+274,Jack Riewoldt,469000,Tigers,FO,11,Crows,Sat 29 May 12:00pm,62.81818181818182,R:11_P:Jack Riewoldt,R:11_P:Jack Riewoldt_FO,1
+275,Jack Riewoldt,469000,Tigers,FO,15,Saints,Sat 26 Jun 12:00pm,66.5,R:15_P:Jack Riewoldt,R:15_P:Jack Riewoldt_FO,1
+276,Jack Riewoldt,469000,Tigers,FO,17,Magpies,Sat 10 Jul 12:00pm,57.90909090909091,R:17_P:Jack Riewoldt,R:17_P:Jack Riewoldt_FO,1
+277,Jack Riewoldt,469000,Tigers,FO,18,Lions,Sat 17 Jul 12:00pm,70.04545454545455,R:18_P:Jack Riewoldt,R:18_P:Jack Riewoldt_FO,1
+278,Jack Riewoldt,469000,Tigers,FO,21,Kangaroos,Sat 7 Aug 12:00pm,72.0,R:21_P:Jack Riewoldt,R:21_P:Jack Riewoldt_FO,1
+279,Jack Riewoldt,469000,Tigers,FO,23,Hawks,Sat 21 Aug 12:00pm,69.63636363636364,R:23_P:Jack Riewoldt,R:23_P:Jack Riewoldt_FO,1
+280,Jack Riewoldt,469000,Tigers,FO,2,Hawks,Sun 28 Mar 1:10pm,69.63636363636364,R:2_P:Jack Riewoldt,R:2_P:Jack Riewoldt_FO,1
+281,Jack Riewoldt,469000,Tigers,FO,4,Power,Fri 9 Apr 7:20pm,54.45454545454545,R:4_P:Jack Riewoldt,R:4_P:Jack Riewoldt_FO,1
+282,Jack Riewoldt,469000,Tigers,FO,5,Saints,Thu 15 Apr 7:20pm,66.5,R:5_P:Jack Riewoldt,R:5_P:Jack Riewoldt_FO,1
+283,Jack Riewoldt,469000,Tigers,FO,6,Demons,Sat 24 Apr 7:25pm,72.18181818181819,R:6_P:Jack Riewoldt,R:6_P:Jack Riewoldt_FO,1
+284,Jack Riewoldt,469000,Tigers,FO,10,Lions,Sat 22 May 12:00pm,70.04545454545455,R:10_P:Jack Riewoldt,R:10_P:Jack Riewoldt_FO,1
+285,Jack Riewoldt,469000,Tigers,FO,12,Bombers,Sat 5 Jun 12:00pm,56.0,R:12_P:Jack Riewoldt,R:12_P:Jack Riewoldt_FO,1
+286,Jack Riewoldt,469000,Tigers,FO,14,Eagles,Sat 19 Jun 12:00pm,63.27272727272727,R:14_P:Jack Riewoldt,R:14_P:Jack Riewoldt_FO,1
+287,Jack Riewoldt,469000,Tigers,FO,16,Suns,Sat 3 Jul 12:00pm,65.72727272727273,R:16_P:Jack Riewoldt,R:16_P:Jack Riewoldt_FO,1
+288,Jack Riewoldt,469000,Tigers,FO,19,Cats,Sat 24 Jul 12:00pm,69.13636363636364,R:19_P:Jack Riewoldt,R:19_P:Jack Riewoldt_FO,1
+289,Jack Riewoldt,469000,Tigers,FO,20,Dockers,Sat 31 Jul 12:00pm,73.0,R:20_P:Jack Riewoldt,R:20_P:Jack Riewoldt_FO,1
+290,Jack Riewoldt,469000,Tigers,FO,22,Giants,Sat 14 Aug 12:00pm,62.81818181818182,R:22_P:Jack Riewoldt,R:22_P:Jack Riewoldt_FO,1
+291,Dustin Martin,713000,Tigers,MI,7,Bulldogs,Sat 1 May 12:00pm,99.54545454545455,R:7_P:Dustin Martin,R:7_P:Dustin Martin_MI,1
+292,Dustin Martin,713000,Tigers,MI,8,Cats,Sat 8 May 12:00pm,95.22727272727273,R:8_P:Dustin Martin,R:8_P:Dustin Martin_MI,1
+293,Dustin Martin,713000,Tigers,MI,6,Demons,Sat 24 Apr 7:25pm,97.72727272727273,R:6_P:Dustin Martin,R:6_P:Dustin Martin_MI,1
+294,Trent Cotchin,634000,Tigers,MI,1,Blues,Thu 18 Mar 7:25pm,82.33333333333333,R:1_P:Trent Cotchin,R:1_P:Trent Cotchin_MI,1
+295,Trent Cotchin,634000,Tigers,MI,17,Magpies,Sat 10 Jul 12:00pm,94.72727272727273,R:17_P:Trent Cotchin,R:17_P:Trent Cotchin_MI,1
+296,Trent Cotchin,634000,Tigers,MI,18,Lions,Sat 17 Jul 12:00pm,80.63636363636364,R:18_P:Trent Cotchin,R:18_P:Trent Cotchin_MI,1
+297,Trent Cotchin,634000,Tigers,MI,2,Hawks,Sun 28 Mar 1:10pm,94.18181818181819,R:2_P:Trent Cotchin,R:2_P:Trent Cotchin_MI,1
+298,Trent Cotchin,634000,Tigers,MI,19,Cats,Sat 24 Jul 12:00pm,84.22727272727273,R:19_P:Trent Cotchin,R:19_P:Trent Cotchin_MI,1
+299,Trent Cotchin,634000,Tigers,MI,20,Dockers,Sat 31 Jul 12:00pm,84.63636363636364,R:20_P:Trent Cotchin,R:20_P:Trent Cotchin_MI,1
+300,Ben McEvoy,477000,Hawks,RU,5,Demons,Sun 18 Apr 3:20pm,62.72727272727273,R:5_P:Ben McEvoy,R:5_P:Ben McEvoy_RU,1
+301,Ben McEvoy,477000,Hawks,RU,6,Crows,Sun 25 Apr 12:30pm,65.36363636363636,R:6_P:Ben McEvoy,R:6_P:Ben McEvoy_RU,1
+302,Ben McEvoy,477000,Hawks,RU,8,Eagles,Sat 8 May 12:00pm,35.72727272727273,R:8_P:Ben McEvoy,R:8_P:Ben McEvoy_RU,1
+303,Ben McEvoy,477000,Hawks,RU,9,Kangaroos,Sat 15 May 12:00pm,51.36363636363637,R:9_P:Ben McEvoy,R:9_P:Ben McEvoy_RU,1
+304,Ben McEvoy,477000,Hawks,RU,14,Bombers,Sat 19 Jun 12:00pm,54.18181818181818,R:14_P:Ben McEvoy,R:14_P:Ben McEvoy_RU,1
+305,Ben McEvoy,477000,Hawks,RU,16,Power,Sat 3 Jul 12:00pm,42.0,R:16_P:Ben McEvoy,R:16_P:Ben McEvoy_RU,1
+306,Ben McEvoy,477000,Hawks,RU,17,Dockers,Sat 10 Jul 12:00pm,49.63636363636363,R:17_P:Ben McEvoy,R:17_P:Ben McEvoy_RU,1
+307,Ben McEvoy,477000,Hawks,RU,19,Lions,Sat 24 Jul 12:00pm,64.58333333333333,R:19_P:Ben McEvoy,R:19_P:Ben McEvoy_RU,1
+308,Ben McEvoy,477000,Hawks,RU,21,Magpies,Sat 7 Aug 12:00pm,69.0,R:21_P:Ben McEvoy,R:21_P:Ben McEvoy_RU,1
+309,Ben McEvoy,477000,Hawks,RU,22,Bulldogs,Sat 14 Aug 12:00pm,69.0,R:22_P:Ben McEvoy,R:22_P:Ben McEvoy_RU,1
+310,Ben McEvoy,477000,Hawks,RU,7,Saints,Sat 1 May 12:00pm,71.54545454545455,R:7_P:Ben McEvoy,R:7_P:Ben McEvoy_RU,1
+311,Ben McEvoy,477000,Hawks,RU,10,Blues,Sat 22 May 12:00pm,44.18181818181818,R:10_P:Ben McEvoy,R:10_P:Ben McEvoy_RU,1
+312,Ben McEvoy,477000,Hawks,RU,11,Suns,Sat 29 May 12:00pm,69.63636363636364,R:11_P:Ben McEvoy,R:11_P:Ben McEvoy_RU,1
+313,Ben McEvoy,477000,Hawks,RU,13,Swans,Sat 12 Jun 12:00pm,67.0,R:13_P:Ben McEvoy,R:13_P:Ben McEvoy_RU,1
+314,Ben McEvoy,477000,Hawks,RU,15,Giants,Sat 26 Jun 12:00pm,74.72727272727273,R:15_P:Ben McEvoy,R:15_P:Ben McEvoy_RU,1
+315,Ben McEvoy,477000,Hawks,RU,18,Demons,Sat 17 Jul 12:00pm,62.72727272727273,R:18_P:Ben McEvoy,R:18_P:Ben McEvoy_RU,1
+316,Ben McEvoy,477000,Hawks,RU,20,Crows,Sat 31 Jul 12:00pm,65.36363636363636,R:20_P:Ben McEvoy,R:20_P:Ben McEvoy_RU,1
+317,Ben McEvoy,477000,Hawks,RU,23,Tigers,Sat 21 Aug 12:00pm,65.54545454545455,R:23_P:Ben McEvoy,R:23_P:Ben McEvoy_RU,1
+318,Ben McEvoy,477000,Hawks,DE,2,Tigers,Sun 28 Mar 1:10pm,65.54545454545455,R:2_P:Ben McEvoy,R:2_P:Ben McEvoy_DE,1
+319,Ben McEvoy,477000,Hawks,DE,1,Bombers,Sat 20 Mar 7:25pm,54.18181818181818,R:1_P:Ben McEvoy,R:1_P:Ben McEvoy_DE,1
+320,Ben McEvoy,477000,Hawks,DE,3,Cats,Mon 5 Apr 3:20pm,72.63636363636364,R:3_P:Ben McEvoy,R:3_P:Ben McEvoy_DE,1
+321,Ben McEvoy,477000,Hawks,DE,4,Dockers,Sun 11 Apr 2:40pm,49.63636363636363,R:4_P:Ben McEvoy,R:4_P:Ben McEvoy_DE,1
+322,James Frawley,305000,Hawks,DE,2,Tigers,Sun 28 Mar 1:10pm,51.18181818181818,R:2_P:James Frawley,R:2_P:James Frawley_DE,1
+323,James Frawley,305000,Hawks,DE,5,Demons,Sun 18 Apr 3:20pm,47.54545454545455,R:5_P:James Frawley,R:5_P:James Frawley_DE,1
+324,James Frawley,305000,Hawks,DE,6,Crows,Sun 25 Apr 12:30pm,43.09090909090909,R:6_P:James Frawley,R:6_P:James Frawley_DE,1
+325,James Frawley,305000,Hawks,DE,8,Eagles,Sat 8 May 12:00pm,37.45454545454545,R:8_P:James Frawley,R:8_P:James Frawley_DE,1
+326,James Frawley,305000,Hawks,DE,9,Kangaroos,Sat 15 May 12:00pm,52.45454545454545,R:9_P:James Frawley,R:9_P:James Frawley_DE,1
+327,James Frawley,305000,Hawks,DE,14,Bombers,Sat 19 Jun 12:00pm,40.81818181818182,R:14_P:James Frawley,R:14_P:James Frawley_DE,1
+328,James Frawley,305000,Hawks,DE,16,Power,Sat 3 Jul 12:00pm,39.72727272727273,R:16_P:James Frawley,R:16_P:James Frawley_DE,1
+329,James Frawley,305000,Hawks,DE,17,Dockers,Sat 10 Jul 12:00pm,39.18181818181818,R:17_P:James Frawley,R:17_P:James Frawley_DE,1
+330,James Frawley,305000,Hawks,DE,19,Lions,Sat 24 Jul 12:00pm,52.416666666666664,R:19_P:James Frawley,R:19_P:James Frawley_DE,1
+331,James Frawley,305000,Hawks,DE,21,Magpies,Sat 7 Aug 12:00pm,50.72727272727273,R:21_P:James Frawley,R:21_P:James Frawley_DE,1
+332,James Frawley,305000,Hawks,DE,22,Bulldogs,Sat 14 Aug 12:00pm,44.90909090909091,R:22_P:James Frawley,R:22_P:James Frawley_DE,1
+333,James Frawley,305000,Hawks,DE,1,Bombers,Sat 20 Mar 7:25pm,40.81818181818182,R:1_P:James Frawley,R:1_P:James Frawley_DE,1
+334,James Frawley,305000,Hawks,DE,3,Cats,Mon 5 Apr 3:20pm,53.45454545454545,R:3_P:James Frawley,R:3_P:James Frawley_DE,1
+335,James Frawley,305000,Hawks,DE,4,Dockers,Sun 11 Apr 2:40pm,39.18181818181818,R:4_P:James Frawley,R:4_P:James Frawley_DE,1
+336,James Frawley,305000,Hawks,DE,7,Saints,Sat 1 May 12:00pm,43.36363636363637,R:7_P:James Frawley,R:7_P:James Frawley_DE,1
+337,James Frawley,305000,Hawks,DE,10,Blues,Sat 22 May 12:00pm,46.45454545454545,R:10_P:James Frawley,R:10_P:James Frawley_DE,1
+338,James Frawley,305000,Hawks,DE,11,Suns,Sat 29 May 12:00pm,52.36363636363637,R:11_P:James Frawley,R:11_P:James Frawley_DE,1
+339,James Frawley,305000,Hawks,DE,13,Swans,Sat 12 Jun 12:00pm,61.72727272727273,R:13_P:James Frawley,R:13_P:James Frawley_DE,1
+340,James Frawley,305000,Hawks,DE,15,Giants,Sat 26 Jun 12:00pm,39.27272727272727,R:15_P:James Frawley,R:15_P:James Frawley_DE,1
+341,James Frawley,305000,Hawks,DE,18,Demons,Sat 17 Jul 12:00pm,47.54545454545455,R:18_P:James Frawley,R:18_P:James Frawley_DE,1
+342,James Frawley,305000,Hawks,DE,20,Crows,Sat 31 Jul 12:00pm,43.09090909090909,R:20_P:James Frawley,R:20_P:James Frawley_DE,1
+343,James Frawley,305000,Hawks,DE,23,Tigers,Sat 21 Aug 12:00pm,51.18181818181818,R:23_P:James Frawley,R:23_P:James Frawley_DE,1
+344,Shaun Burgoyne,435000,Hawks,FO,2,Tigers,Sun 28 Mar 1:10pm,60.09090909090909,R:2_P:Shaun Burgoyne,R:2_P:Shaun Burgoyne_FO,1
+345,Shaun Burgoyne,435000,Hawks,FO,5,Demons,Sun 18 Apr 3:20pm,69.36363636363636,R:5_P:Shaun Burgoyne,R:5_P:Shaun Burgoyne_FO,1
+346,Shaun Burgoyne,435000,Hawks,FO,6,Crows,Sun 25 Apr 12:30pm,51.45454545454545,R:6_P:Shaun Burgoyne,R:6_P:Shaun Burgoyne_FO,1
+347,Shaun Burgoyne,435000,Hawks,FO,8,Eagles,Sat 8 May 12:00pm,61.90909090909091,R:8_P:Shaun Burgoyne,R:8_P:Shaun Burgoyne_FO,1
+348,Shaun Burgoyne,435000,Hawks,FO,9,Kangaroos,Sat 15 May 12:00pm,52.27272727272727,R:9_P:Shaun Burgoyne,R:9_P:Shaun Burgoyne_FO,1
+349,Shaun Burgoyne,435000,Hawks,FO,14,Bombers,Sat 19 Jun 12:00pm,71.0909090909091,R:14_P:Shaun Burgoyne,R:14_P:Shaun Burgoyne_FO,1
+350,Shaun Burgoyne,435000,Hawks,FO,16,Power,Sat 3 Jul 12:00pm,53.09090909090909,R:16_P:Shaun Burgoyne,R:16_P:Shaun Burgoyne_FO,1
+351,Shaun Burgoyne,435000,Hawks,FO,17,Dockers,Sat 10 Jul 12:00pm,60.63636363636363,R:17_P:Shaun Burgoyne,R:17_P:Shaun Burgoyne_FO,1
+352,Shaun Burgoyne,435000,Hawks,FO,19,Lions,Sat 24 Jul 12:00pm,62.416666666666664,R:19_P:Shaun Burgoyne,R:19_P:Shaun Burgoyne_FO,1
+353,Shaun Burgoyne,435000,Hawks,FO,1,Bombers,Sat 20 Mar 7:25pm,71.0909090909091,R:1_P:Shaun Burgoyne,R:1_P:Shaun Burgoyne_FO,1
+354,Shaun Burgoyne,435000,Hawks,FO,3,Cats,Mon 5 Apr 3:20pm,69.27272727272727,R:3_P:Shaun Burgoyne,R:3_P:Shaun Burgoyne_FO,1
+355,Shaun Burgoyne,435000,Hawks,FO,4,Dockers,Sun 11 Apr 2:40pm,60.63636363636363,R:4_P:Shaun Burgoyne,R:4_P:Shaun Burgoyne_FO,1
+356,Shaun Burgoyne,435000,Hawks,FO,7,Saints,Sat 1 May 12:00pm,63.18181818181818,R:7_P:Shaun Burgoyne,R:7_P:Shaun Burgoyne_FO,1
+357,Shaun Burgoyne,435000,Hawks,FO,10,Blues,Sat 22 May 12:00pm,63.45454545454545,R:10_P:Shaun Burgoyne,R:10_P:Shaun Burgoyne_FO,1
+358,Shaun Burgoyne,435000,Hawks,FO,11,Suns,Sat 29 May 12:00pm,59.18181818181818,R:11_P:Shaun Burgoyne,R:11_P:Shaun Burgoyne_FO,1
+359,Shaun Burgoyne,435000,Hawks,FO,13,Swans,Sat 12 Jun 12:00pm,70.54545454545455,R:13_P:Shaun Burgoyne,R:13_P:Shaun Burgoyne_FO,1
+360,Shaun Burgoyne,435000,Hawks,FO,15,Giants,Sat 26 Jun 12:00pm,53.45454545454545,R:15_P:Shaun Burgoyne,R:15_P:Shaun Burgoyne_FO,1
+361,Shaun Burgoyne,435000,Hawks,FO,18,Demons,Sat 17 Jul 12:00pm,69.36363636363636,R:18_P:Shaun Burgoyne,R:18_P:Shaun Burgoyne_FO,1
+362,Jonathon Patton,191000,Hawks,FO,14,Bombers,Sat 19 Jun 12:00pm,42.0,R:14_P:Jonathon Patton,R:14_P:Jonathon Patton_FO,1
+363,Jonathon Patton,191000,Hawks,FO,13,Swans,Sat 12 Jun 12:00pm,21.88888888888889,R:13_P:Jonathon Patton,R:13_P:Jonathon Patton_FO,1
+364,Liam Shiels,647000,Hawks,MI,14,Bombers,Sat 19 Jun 12:00pm,82.9090909090909,R:14_P:Liam Shiels,R:14_P:Liam Shiels_MI,1
+365,Liam Shiels,647000,Hawks,MI,13,Swans,Sat 12 Jun 12:00pm,85.45454545454545,R:13_P:Liam Shiels,R:13_P:Liam Shiels_MI,1
+366,Tom Scully,443000,Hawks,MI,2,Tigers,Sun 28 Mar 1:10pm,61.0,R:2_P:Tom Scully,R:2_P:Tom Scully_MI,1
+367,Tom Scully,443000,Hawks,MI,5,Demons,Sun 18 Apr 3:20pm,65.9090909090909,R:5_P:Tom Scully,R:5_P:Tom Scully_MI,1
+368,Tom Scully,443000,Hawks,MI,6,Crows,Sun 25 Apr 12:30pm,50.45454545454545,R:6_P:Tom Scully,R:6_P:Tom Scully_MI,1
+369,Tom Scully,443000,Hawks,MI,8,Eagles,Sat 8 May 12:00pm,54.63636363636363,R:8_P:Tom Scully,R:8_P:Tom Scully_MI,1
+370,Tom Scully,443000,Hawks,MI,9,Kangaroos,Sat 15 May 12:00pm,70.81818181818181,R:9_P:Tom Scully,R:9_P:Tom Scully_MI,1
+371,Tom Scully,443000,Hawks,MI,14,Bombers,Sat 19 Jun 12:00pm,57.81818181818182,R:14_P:Tom Scully,R:14_P:Tom Scully_MI,1
+372,Tom Scully,443000,Hawks,MI,1,Bombers,Sat 20 Mar 7:25pm,57.81818181818182,R:1_P:Tom Scully,R:1_P:Tom Scully_MI,1
+373,Tom Scully,443000,Hawks,MI,3,Cats,Mon 5 Apr 3:20pm,61.0,R:3_P:Tom Scully,R:3_P:Tom Scully_MI,1
+374,Tom Scully,443000,Hawks,MI,4,Dockers,Sun 11 Apr 2:40pm,63.36363636363637,R:4_P:Tom Scully,R:4_P:Tom Scully_MI,1
+375,Tom Scully,443000,Hawks,MI,7,Saints,Sat 1 May 12:00pm,52.63636363636363,R:7_P:Tom Scully,R:7_P:Tom Scully_MI,1
+376,Tom Scully,443000,Hawks,MI,10,Blues,Sat 22 May 12:00pm,48.81818181818182,R:10_P:Tom Scully,R:10_P:Tom Scully_MI,1
+377,Tom Scully,443000,Hawks,MI,11,Suns,Sat 29 May 12:00pm,64.9090909090909,R:11_P:Tom Scully,R:11_P:Tom Scully_MI,1
+378,Tom Scully,443000,Hawks,MI,13,Swans,Sat 12 Jun 12:00pm,64.18181818181819,R:13_P:Tom Scully,R:13_P:Tom Scully_MI,1
+379,Tom Scully,443000,Hawks,MI,15,Giants,Sat 26 Jun 12:00pm,58.54545454545455,R:15_P:Tom Scully,R:15_P:Tom Scully_MI,1
+380,Mitch Robinson,550000,Lions,MI,23,Eagles,Sat 21 Aug 12:00pm,84.54545454545455,R:23_P:Mitch Robinson,R:23_P:Mitch Robinson_MI,1
+381,Stephen Hill,480000,Dockers,DE,4,Hawks,Sun 11 Apr 2:40pm,66.54545454545455,R:4_P:Stephen Hill,R:4_P:Stephen Hill_DE,1
+382,Stephen Hill,480000,Dockers,DE,6,Kangaroos,Sat 24 Apr 6:10pm,66.63636363636364,R:6_P:Stephen Hill,R:6_P:Stephen Hill_DE,1
+383,Stephen Hill,480000,Dockers,DE,8,Lions,Sat 8 May 12:00pm,68.63636363636364,R:8_P:Stephen Hill,R:8_P:Stephen Hill_DE,1
+384,Stephen Hill,480000,Dockers,DE,10,Swans,Sat 22 May 12:00pm,43.27272727272727,R:10_P:Stephen Hill,R:10_P:Stephen Hill_DE,1
+385,Stephen Hill,480000,Dockers,DE,12,Bulldogs,Sat 5 Jun 12:00pm,55.90909090909091,R:12_P:Stephen Hill,R:12_P:Stephen Hill_DE,1
+386,Stephen Hill,480000,Dockers,DE,13,Suns,Sat 12 Jun 12:00pm,72.63636363636364,R:13_P:Stephen Hill,R:13_P:Stephen Hill_DE,1
+387,Stephen Hill,480000,Dockers,DE,5,Crows,Sun 18 Apr 12:40pm,64.18181818181819,R:5_P:Stephen Hill,R:5_P:Stephen Hill_DE,1
+388,Stephen Hill,480000,Dockers,DE,7,Eagles,Sat 1 May 12:00pm,43.72727272727273,R:7_P:Stephen Hill,R:7_P:Stephen Hill_DE,1
+389,Stephen Hill,480000,Dockers,DE,9,Bombers,Sat 15 May 12:00pm,48.583333333333336,R:9_P:Stephen Hill,R:9_P:Stephen Hill_DE,1
+390,Stephen Hill,480000,Dockers,DE,11,Power,Sat 29 May 12:00pm,73.36363636363636,R:11_P:Stephen Hill,R:11_P:Stephen Hill_DE,1
+391,Minairo Frederick,292000,Dockers,FO,17,Hawks,Sat 10 Jul 12:00pm,45.0,R:17_P:Minairo Frederick,R:17_P:Minairo Frederick_FO,1
+392,Caleb Serong,636000,Dockers,MI,12,Bulldogs,Sat 5 Jun 12:00pm,101.0,R:12_P:Caleb Serong,R:12_P:Caleb Serong_MI,1
+393,David Mundy,631000,Dockers,MI,12,Bulldogs,Sat 5 Jun 12:00pm,66.27272727272727,R:12_P:David Mundy,R:12_P:David Mundy_MI,1
+394,David Mundy,631000,Dockers,MI,13,Suns,Sat 12 Jun 12:00pm,86.72727272727273,R:13_P:David Mundy,R:13_P:David Mundy_MI,1
+395,David Mundy,631000,Dockers,MI,11,Power,Sat 29 May 12:00pm,80.9090909090909,R:11_P:David Mundy,R:11_P:David Mundy_MI,1
+396,Sam Petrevski-Seton,516000,Blues,DE,5,Power,Sat 17 Apr 7:25pm,61.75,R:5_P:Sam Petrevski-Seton,R:5_P:Sam Petrevski-Seton_DE,1
+397,Sam Petrevski-Seton,516000,Blues,DE,6,Lions,Sat 24 Apr 4:35pm,78.0,R:6_P:Sam Petrevski-Seton,R:6_P:Sam Petrevski-Seton_DE,1
+398,Sam Petrevski-Seton,516000,Blues,DE,19,Kangaroos,Sat 24 Jul 12:00pm,71.5,R:19_P:Sam Petrevski-Seton,R:19_P:Sam Petrevski-Seton_DE,1
+399,Sam Petrevski-Seton,516000,Blues,DE,21,Suns,Sat 7 Aug 12:00pm,69.0,R:21_P:Sam Petrevski-Seton,R:21_P:Sam Petrevski-Seton_DE,1
+400,Sam Petrevski-Seton,516000,Blues,DE,7,Bombers,Sat 1 May 12:00pm,59.25,R:7_P:Sam Petrevski-Seton,R:7_P:Sam Petrevski-Seton_DE,1
+401,Sam Petrevski-Seton,516000,Blues,DE,8,Bulldogs,Sat 8 May 12:00pm,72.75,R:8_P:Sam Petrevski-Seton,R:8_P:Sam Petrevski-Seton_DE,1
+402,Sam Petrevski-Seton,516000,Blues,DE,9,Demons,Sat 15 May 12:00pm,77.75,R:9_P:Sam Petrevski-Seton,R:9_P:Sam Petrevski-Seton_DE,1
+403,Sam Petrevski-Seton,516000,Blues,DE,20,Saints,Sat 31 Jul 12:00pm,75.25,R:20_P:Sam Petrevski-Seton,R:20_P:Sam Petrevski-Seton_DE,1
+404,Eddie Betts,424000,Blues,FO,2,Magpies,Thu 25 Mar 7:20pm,50.36363636363637,R:2_P:Eddie Betts,R:2_P:Eddie Betts_FO,1
+405,Eddie Betts,424000,Blues,FO,3,Dockers,Sun 4 Apr 3:20pm,68.54545454545455,R:3_P:Eddie Betts,R:3_P:Eddie Betts_FO,1
+406,Eddie Betts,424000,Blues,FO,5,Power,Sat 17 Apr 7:25pm,68.72727272727273,R:5_P:Eddie Betts,R:5_P:Eddie Betts_FO,1
+407,Eddie Betts,424000,Blues,FO,6,Lions,Sat 24 Apr 4:35pm,62.54545454545455,R:6_P:Eddie Betts,R:6_P:Eddie Betts_FO,1
+408,Eddie Betts,424000,Blues,FO,10,Hawks,Sat 22 May 12:00pm,62.27272727272727,R:10_P:Eddie Betts,R:10_P:Eddie Betts_FO,1
+409,Eddie Betts,424000,Blues,FO,12,Eagles,Sat 5 Jun 12:00pm,53.36363636363637,R:12_P:Eddie Betts,R:12_P:Eddie Betts_FO,1
+410,Eddie Betts,424000,Blues,FO,15,Crows,Sat 26 Jun 12:00pm,67.45454545454545,R:15_P:Eddie Betts,R:15_P:Eddie Betts_FO,1
+411,Eddie Betts,424000,Blues,FO,17,Cats,Sat 10 Jul 12:00pm,61.81818181818182,R:17_P:Eddie Betts,R:17_P:Eddie Betts_FO,1
+412,Eddie Betts,424000,Blues,FO,23,Giants,Sat 21 Aug 12:00pm,56.54545454545455,R:23_P:Eddie Betts,R:23_P:Eddie Betts_FO,1
+413,Eddie Betts,424000,Blues,FO,1,Tigers,Thu 18 Mar 7:25pm,66.83333333333333,R:1_P:Eddie Betts,R:1_P:Eddie Betts_FO,1
+414,Eddie Betts,424000,Blues,FO,7,Bombers,Sat 1 May 12:00pm,60.81818181818182,R:7_P:Eddie Betts,R:7_P:Eddie Betts_FO,1
+415,Eddie Betts,424000,Blues,FO,8,Bulldogs,Sat 8 May 12:00pm,66.9090909090909,R:8_P:Eddie Betts,R:8_P:Eddie Betts_FO,1
+416,Eddie Betts,424000,Blues,FO,9,Demons,Sat 15 May 12:00pm,60.27272727272727,R:9_P:Eddie Betts,R:9_P:Eddie Betts_FO,1
+417,Eddie Betts,424000,Blues,FO,11,Swans,Sat 29 May 12:00pm,47.0,R:11_P:Eddie Betts,R:11_P:Eddie Betts_FO,1
+418,Eddie Betts,424000,Blues,FO,14,Giants,Sat 19 Jun 12:00pm,56.54545454545455,R:14_P:Eddie Betts,R:14_P:Eddie Betts_FO,1
+419,Eddie Betts,424000,Blues,FO,16,Dockers,Sat 3 Jul 12:00pm,68.54545454545455,R:16_P:Eddie Betts,R:16_P:Eddie Betts_FO,1
+420,Eddie Betts,424000,Blues,FO,22,Power,Sat 14 Aug 12:00pm,68.72727272727273,R:22_P:Eddie Betts,R:22_P:Eddie Betts_FO,1
+421,Sam Walsh,739000,Blues,MI,15,Crows,Sat 26 Jun 12:00pm,97.5,R:15_P:Sam Walsh,R:15_P:Sam Walsh_MI,1
+422,Sam Walsh,739000,Blues,MI,16,Dockers,Sat 3 Jul 12:00pm,116.0,R:16_P:Sam Walsh,R:16_P:Sam Walsh_MI,1
+423,Lochie O'Brien,304000,Blues,MI,12,Eagles,Sat 5 Jun 12:00pm,15.666666666666666,R:12_P:Lochie O'Brien,R:12_P:Lochie O'Brien_MI,1
+424,Lochie O'Brien,304000,Blues,MI,14,Giants,Sat 19 Jun 12:00pm,23.666666666666668,R:14_P:Lochie O'Brien,R:14_P:Lochie O'Brien_MI,1
+425,Paddy Dow,323000,Blues,MI,12,Eagles,Sat 5 Jun 12:00pm,37.666666666666664,R:12_P:Paddy Dow,R:12_P:Paddy Dow_MI,1
+426,Paddy Dow,323000,Blues,MI,14,Giants,Sat 19 Jun 12:00pm,38.0,R:14_P:Paddy Dow,R:14_P:Paddy Dow_MI,1
+427,Matt Guelfi,446000,Bombers,DE,23,Magpies,Sat 21 Aug 12:00pm,46.333333333333336,R:23_P:Matt Guelfi,R:23_P:Matt Guelfi_DE,1
+428,Matt Guelfi,446000,Bombers,DE,22,Suns,Sat 14 Aug 12:00pm,73.33333333333333,R:22_P:Matt Guelfi,R:22_P:Matt Guelfi_DE,1
+429,David Zaharakis,524000,Bombers,FO,7,Blues,Sat 1 May 12:00pm,90.27272727272727,R:7_P:David Zaharakis,R:7_P:David Zaharakis_FO,1
+430,David Zaharakis,524000,Bombers,FO,9,Dockers,Sat 15 May 12:00pm,80.08333333333333,R:9_P:David Zaharakis,R:9_P:David Zaharakis_FO,1
+431,David Zaharakis,524000,Bombers,FO,10,Kangaroos,Sat 22 May 12:00pm,83.36363636363636,R:10_P:David Zaharakis,R:10_P:David Zaharakis_FO,1
+432,David Zaharakis,524000,Bombers,FO,17,Crows,Sat 10 Jul 12:00pm,76.63636363636364,R:17_P:David Zaharakis,R:17_P:David Zaharakis_FO,1
+433,David Zaharakis,524000,Bombers,FO,19,Giants,Sat 24 Jul 12:00pm,71.72727272727273,R:19_P:David Zaharakis,R:19_P:David Zaharakis_FO,1
+434,David Zaharakis,524000,Bombers,FO,20,Swans,Sat 31 Jul 12:00pm,78.81818181818181,R:20_P:David Zaharakis,R:20_P:David Zaharakis_FO,1
+435,David Zaharakis,524000,Bombers,FO,23,Magpies,Sat 21 Aug 12:00pm,71.72727272727273,R:23_P:David Zaharakis,R:23_P:David Zaharakis_FO,1
+436,David Zaharakis,524000,Bombers,FO,4,Swans,Thu 8 Apr 7:20pm,78.81818181818181,R:4_P:David Zaharakis,R:4_P:David Zaharakis_FO,1
+437,David Zaharakis,524000,Bombers,FO,5,Lions,Sat 17 Apr 7:25pm,92.54545454545455,R:5_P:David Zaharakis,R:5_P:David Zaharakis_FO,1
+438,David Zaharakis,524000,Bombers,FO,6,Magpies,Sun 25 Apr 3:20pm,71.72727272727273,R:6_P:David Zaharakis,R:6_P:David Zaharakis_FO,1
+439,David Zaharakis,524000,Bombers,FO,8,Giants,Sat 8 May 12:00pm,71.72727272727273,R:8_P:David Zaharakis,R:8_P:David Zaharakis_FO,1
+440,David Zaharakis,524000,Bombers,FO,16,Cats,Sat 3 Jul 12:00pm,58.72727272727273,R:16_P:David Zaharakis,R:16_P:David Zaharakis_FO,1
+441,David Zaharakis,524000,Bombers,FO,18,Kangaroos,Sat 17 Jul 12:00pm,83.36363636363636,R:18_P:David Zaharakis,R:18_P:David Zaharakis_FO,1
+442,David Zaharakis,524000,Bombers,FO,21,Bulldogs,Sat 7 Aug 12:00pm,77.63636363636364,R:21_P:David Zaharakis,R:21_P:David Zaharakis_FO,1
+443,David Zaharakis,524000,Bombers,FO,22,Suns,Sat 14 Aug 12:00pm,54.09090909090909,R:22_P:David Zaharakis,R:22_P:David Zaharakis_FO,1
+444,Dyson Heppell,566000,Bombers,MI,1,Hawks,Sat 20 Mar 7:25pm,80.55555555555556,R:1_P:Dyson Heppell,R:1_P:Dyson Heppell_MI,1
+445,Dyson Heppell,566000,Bombers,MI,3,Saints,Sat 3 Apr 4:35pm,48.111111111111114,R:3_P:Dyson Heppell,R:3_P:Dyson Heppell_MI,1
+446,Dyson Heppell,566000,Bombers,MI,7,Blues,Sat 1 May 12:00pm,94.22222222222223,R:7_P:Dyson Heppell,R:7_P:Dyson Heppell_MI,1
+447,Dyson Heppell,566000,Bombers,MI,9,Dockers,Sat 15 May 12:00pm,89.6,R:9_P:Dyson Heppell,R:9_P:Dyson Heppell_MI,1
+448,Dyson Heppell,566000,Bombers,MI,10,Kangaroos,Sat 22 May 12:00pm,77.88888888888889,R:10_P:Dyson Heppell,R:10_P:Dyson Heppell_MI,1
+449,Dyson Heppell,566000,Bombers,MI,15,Demons,Sat 26 Jun 12:00pm,81.66666666666667,R:15_P:Dyson Heppell,R:15_P:Dyson Heppell_MI,1
+450,Dyson Heppell,566000,Bombers,MI,17,Crows,Sat 10 Jul 12:00pm,80.33333333333333,R:17_P:Dyson Heppell,R:17_P:Dyson Heppell_MI,1
+451,Dyson Heppell,566000,Bombers,MI,19,Giants,Sat 24 Jul 12:00pm,57.333333333333336,R:19_P:Dyson Heppell,R:19_P:Dyson Heppell_MI,1
+452,Dyson Heppell,566000,Bombers,MI,20,Swans,Sat 31 Jul 12:00pm,97.22222222222223,R:20_P:Dyson Heppell,R:20_P:Dyson Heppell_MI,1
+453,Dyson Heppell,566000,Bombers,MI,23,Magpies,Sat 21 Aug 12:00pm,85.11111111111111,R:23_P:Dyson Heppell,R:23_P:Dyson Heppell_MI,1
+454,Dyson Heppell,566000,Bombers,MI,2,Power,Sat 27 Mar 4:05pm,72.77777777777777,R:2_P:Dyson Heppell,R:2_P:Dyson Heppell_MI,1
+455,Dyson Heppell,566000,Bombers,MI,4,Swans,Thu 8 Apr 7:20pm,97.22222222222223,R:4_P:Dyson Heppell,R:4_P:Dyson Heppell_MI,1
+456,Dyson Heppell,566000,Bombers,MI,5,Lions,Sat 17 Apr 7:25pm,77.0,R:5_P:Dyson Heppell,R:5_P:Dyson Heppell_MI,1
+457,Dyson Heppell,566000,Bombers,MI,6,Magpies,Sun 25 Apr 3:20pm,85.11111111111111,R:6_P:Dyson Heppell,R:6_P:Dyson Heppell_MI,1
+458,Dyson Heppell,566000,Bombers,MI,11,Eagles,Sat 29 May 12:00pm,94.66666666666667,R:11_P:Dyson Heppell,R:11_P:Dyson Heppell_MI,1
+459,Dyson Heppell,566000,Bombers,MI,14,Hawks,Sat 19 Jun 12:00pm,80.55555555555556,R:14_P:Dyson Heppell,R:14_P:Dyson Heppell_MI,1
+460,Dyson Heppell,566000,Bombers,MI,16,Cats,Sat 3 Jul 12:00pm,74.55555555555556,R:16_P:Dyson Heppell,R:16_P:Dyson Heppell_MI,1
+461,Dyson Heppell,566000,Bombers,MI,18,Kangaroos,Sat 17 Jul 12:00pm,77.88888888888889,R:18_P:Dyson Heppell,R:18_P:Dyson Heppell_MI,1
+462,Dyson Heppell,566000,Bombers,MI,21,Bulldogs,Sat 7 Aug 12:00pm,82.33333333333333,R:21_P:Dyson Heppell,R:21_P:Dyson Heppell_MI,1
+463,Dyson Heppell,566000,Bombers,MI,22,Suns,Sat 14 Aug 12:00pm,85.22222222222223,R:22_P:Dyson Heppell,R:22_P:Dyson Heppell_MI,1
+464,Shane Mumford,466000,Giants,RU,1,Saints,Sun 21 Mar 3:20pm,66.4,R:1_P:Shane Mumford,R:1_P:Shane Mumford_RU,1
+465,Shane Mumford,466000,Giants,RU,3,Demons,Sun 4 Apr 6:10pm,56.8,R:3_P:Shane Mumford,R:3_P:Shane Mumford_RU,1
+466,Shane Mumford,466000,Giants,RU,6,Bulldogs,Fri 23 Apr 7:20pm,77.7,R:6_P:Shane Mumford,R:6_P:Shane Mumford_RU,1
+467,Shane Mumford,466000,Giants,RU,8,Bombers,Sat 8 May 12:00pm,71.0,R:8_P:Shane Mumford,R:8_P:Shane Mumford_RU,1
+468,Shane Mumford,466000,Giants,RU,20,Power,Sat 31 Jul 12:00pm,68.2,R:20_P:Shane Mumford,R:20_P:Shane Mumford_RU,1
+469,Shane Mumford,466000,Giants,RU,2,Dockers,Sun 28 Mar 3:10pm,55.6,R:2_P:Shane Mumford,R:2_P:Shane Mumford_RU,1
+470,Shane Mumford,466000,Giants,RU,4,Magpies,Sat 10 Apr 7:25pm,63.4,R:4_P:Shane Mumford,R:4_P:Shane Mumford_RU,1
+471,Shane Mumford,466000,Giants,RU,7,Crows,Sat 1 May 12:00pm,63.0,R:7_P:Shane Mumford,R:7_P:Shane Mumford_RU,1
+472,Shane Mumford,466000,Giants,RU,19,Bombers,Sat 24 Jul 12:00pm,71.0,R:19_P:Shane Mumford,R:19_P:Shane Mumford_RU,1
+473,Lachlan Ash,420000,Giants,DE,14,Blues,Sat 19 Jun 12:00pm,55.0,R:14_P:Lachlan Ash,R:14_P:Lachlan Ash_DE,1
+474,Lachlan Ash,420000,Giants,DE,15,Hawks,Sat 26 Jun 12:00pm,56.0,R:15_P:Lachlan Ash,R:15_P:Lachlan Ash_DE,1
+475,Lachlan Ash,420000,Giants,DE,17,Suns,Sat 10 Jul 12:00pm,59.0,R:17_P:Lachlan Ash,R:17_P:Lachlan Ash_DE,1
+476,Sam Taylor,276000,Giants,DE,3,Demons,Sun 4 Apr 6:10pm,35.666666666666664,R:3_P:Sam Taylor,R:3_P:Sam Taylor_DE,1
+477,Sam Taylor,276000,Giants,DE,6,Bulldogs,Fri 23 Apr 7:20pm,35.333333333333336,R:6_P:Sam Taylor,R:6_P:Sam Taylor_DE,1
+478,Sam Taylor,276000,Giants,DE,14,Blues,Sat 19 Jun 12:00pm,15.666666666666666,R:14_P:Sam Taylor,R:14_P:Sam Taylor_DE,1
+479,Sam Taylor,276000,Giants,DE,16,Demons,Sat 3 Jul 12:00pm,35.666666666666664,R:16_P:Sam Taylor,R:16_P:Sam Taylor_DE,1
+480,Callan Ward,461000,Giants,MI,1,Saints,Sun 21 Mar 3:20pm,74.81818181818181,R:1_P:Callan Ward,R:1_P:Callan Ward_MI,1
+481,Callan Ward,461000,Giants,MI,3,Demons,Sun 4 Apr 6:10pm,76.0909090909091,R:3_P:Callan Ward,R:3_P:Callan Ward_MI,1
+482,Callan Ward,461000,Giants,MI,6,Bulldogs,Fri 23 Apr 7:20pm,83.0909090909091,R:6_P:Callan Ward,R:6_P:Callan Ward_MI,1
+483,Callan Ward,461000,Giants,MI,8,Bombers,Sat 8 May 12:00pm,76.18181818181819,R:8_P:Callan Ward,R:8_P:Callan Ward_MI,1
+484,Callan Ward,461000,Giants,MI,10,Eagles,Sat 22 May 12:00pm,40.09090909090909,R:10_P:Callan Ward,R:10_P:Callan Ward_MI,1
+485,Callan Ward,461000,Giants,MI,14,Blues,Sat 19 Jun 12:00pm,62.72727272727273,R:14_P:Callan Ward,R:14_P:Callan Ward_MI,1
+486,Callan Ward,461000,Giants,MI,15,Hawks,Sat 26 Jun 12:00pm,63.63636363636363,R:15_P:Callan Ward,R:15_P:Callan Ward_MI,1
+487,Callan Ward,461000,Giants,MI,17,Suns,Sat 10 Jul 12:00pm,50.36363636363637,R:17_P:Callan Ward,R:17_P:Callan Ward_MI,1
+488,Callan Ward,461000,Giants,MI,18,Swans,Sat 17 Jul 12:00pm,71.0,R:18_P:Callan Ward,R:18_P:Callan Ward_MI,1
+489,Callan Ward,461000,Giants,MI,20,Power,Sat 31 Jul 12:00pm,65.0,R:20_P:Callan Ward,R:20_P:Callan Ward_MI,1
+490,Callan Ward,461000,Giants,MI,22,Tigers,Sat 14 Aug 12:00pm,70.72727272727273,R:22_P:Callan Ward,R:22_P:Callan Ward_MI,1
+491,Callan Ward,461000,Giants,MI,2,Dockers,Sun 28 Mar 3:10pm,73.81818181818181,R:2_P:Callan Ward,R:2_P:Callan Ward_MI,1
+492,Callan Ward,461000,Giants,MI,4,Magpies,Sat 10 Apr 7:25pm,63.81818181818182,R:4_P:Callan Ward,R:4_P:Callan Ward_MI,1
+493,Callan Ward,461000,Giants,MI,5,Swans,Sat 17 Apr 4:35pm,71.0,R:5_P:Callan Ward,R:5_P:Callan Ward_MI,1
+494,Callan Ward,461000,Giants,MI,7,Crows,Sat 1 May 12:00pm,84.0909090909091,R:7_P:Callan Ward,R:7_P:Callan Ward_MI,1
+495,Callan Ward,461000,Giants,MI,9,Tigers,Sat 15 May 12:00pm,70.72727272727273,R:9_P:Callan Ward,R:9_P:Callan Ward_MI,1
+496,Callan Ward,461000,Giants,MI,11,Lions,Sat 29 May 12:00pm,70.27272727272727,R:11_P:Callan Ward,R:11_P:Callan Ward_MI,1
+497,Callan Ward,461000,Giants,MI,13,Kangaroos,Sat 12 Jun 12:00pm,74.27272727272727,R:13_P:Callan Ward,R:13_P:Callan Ward_MI,1
+498,Callan Ward,461000,Giants,MI,16,Demons,Sat 3 Jul 12:00pm,76.0909090909091,R:16_P:Callan Ward,R:16_P:Callan Ward_MI,1
+499,Callan Ward,461000,Giants,MI,19,Bombers,Sat 24 Jul 12:00pm,76.18181818181819,R:19_P:Callan Ward,R:19_P:Callan Ward_MI,1
+500,Callan Ward,461000,Giants,MI,21,Cats,Sat 7 Aug 12:00pm,61.833333333333336,R:21_P:Callan Ward,R:21_P:Callan Ward_MI,1
+501,Callan Ward,461000,Giants,MI,23,Blues,Sat 21 Aug 12:00pm,62.72727272727273,R:23_P:Callan Ward,R:23_P:Callan Ward_MI,1
+502,Bryce Gibbs,487000,Crows,DE,14,_BYE,,0.0,R:14_P:Bryce Gibbs,R:14_P:Bryce Gibbs_DE,1
+503,Dylan Roberton,170000,Saints,DE,14,_BYE,,0.0,R:14_P:Dylan Roberton,R:14_P:Dylan Roberton_DE,1
+504,Jack Redden,554000,Eagles,MI,13,_BYE,,0.0,R:13_P:Jack Redden,R:13_P:Jack Redden_MI,1
+505,Jarrod Harbrow,428000,Suns,DE,12,_BYE,,0.0,R:12_P:Jarrod Harbrow,R:12_P:Jarrod Harbrow_DE,1
