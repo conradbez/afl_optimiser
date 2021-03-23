@@ -4,6 +4,14 @@
 import pandas as pd
 import numpy as np
 from pulp import *
+import requests
+import io
+import dateparser
+import fuzzy_pandas as fpd
+
+
+# %%
+PREVIOUS_ROUND = 1
 
 
 # %%
@@ -19,6 +27,7 @@ full_players = pd.read_csv(FILENAME+'.csv', index_col=0).reset_index(drop=True)
 
 full_players['Score'] = pd.to_numeric(full_players['Score'].replace('-',0))
 schedule = pd.read_csv('2021_schedule', index_col=0) 
+schedule['Date'] = pd.to_datetime(schedule['Date'])
 
 players_2021 = full_players[full_players['Year']==2021][['Name','Price','Team 1', 'Position']]
 player_prev = full_players[full_players['Name'].isin(players_2021['Name'].unique())]
@@ -40,16 +49,19 @@ missing_players['Score']=0
 missing_players['Team 2'] = '_BYE'
 
 players_schedule_score_2021 = players_schedule_score_2021.append(missing_players).reset_index(drop=True)
+
 # end add bye's
 
-P = players_schedule_score_2021
+P = players_schedule_score_2021[players_schedule_score_2021['Round'] >= PREVIOUS_ROUND]
 
 players_to_be_kept = P.copy()
 players_to_be_kept["Value"] = players_to_be_kept['Score']/players_to_be_kept['Price']
 players_to_be_kept = players_to_be_kept.groupby('Name').mean()[['Score','Value']]
 
 players_to_keep = []
-num_players_to_keep = int(len(players_to_be_kept)*0.5)
+# num_players_to_keep = int(len(players_to_be_kept)*0.2)
+num_players_to_keep = int(len(players_to_be_kept)*1)
+
 players_to_keep += list(players_to_be_kept.sort_values('Score', ascending = False).index[:num_players_to_keep])
 players_to_keep += list(players_to_be_kept.sort_values('Value', ascending = False).index[:num_players_to_keep])
 
@@ -59,6 +71,19 @@ P['Score'] = P['Score'].replace(np.nan,0)
 # P = P[P['Round']<=2]
 P['id'] = "R:"+P['Round'].astype(str)+"_P:"+P['Name']
 P['pl_pos_id'] = (P['id']+'_'+P['Position'])
+
+
+# %%
+# Set score to zero for injured players
+
+url="https://raw.githubusercontent.com/conradbez/afl_injuries/main/injuries.csv"
+s=requests.get(url).content
+Injuries=pd.read_csv(io.StringIO(s.decode('utf-8')),index_col=0)
+
+P = fpd.fuzzy_merge(P,Injuries, left_on='Name', right_on='PLAYER', join = 'left-outer', method = 'levenshtein')
+
+P.loc[(P['DATE_BACK']>P['Date'])&(~P['DATE_BACK'].isna())&(~P['Date'].isna()),'Score'] = 0
+P = P.drop(Injuries.columns, axis=1)
 
 
 # %%
@@ -118,6 +143,21 @@ for (p_id,round), pl_pos_ids in Players_Position_Casting_Series:
 
 
 # %%
+
+previous_round_players = pd.read_csv('previous_round_selection/Round_one_selection.csv')
+assert list(previous_round_players['Round'].unique()) == [PREVIOUS_ROUND]
+previous_round_players = previous_round_players['pl_pos_id'].unique()
+
+
+# %%
+# # START force select previous round players
+for pl_pos_ids in previous_round_players:
+    prob += pl_pos_ids == 1, f"Player: {pl_pos_ids},was selected in round {PREVIOUS_ROUND}"
+    print( f"Player: {pl_pos_ids},was selected in round {PREVIOUS_ROUND}")
+# END max players from each position
+
+
+# %%
 # # START max players from each position
 allowed_holds_per_position = {'DE': 8, "MI" : 10, 'RU' : 3, 'FO':9}
 for (position,round), pl_pos_ids in P[['pl_pos_id','Position','Round']].drop_duplicates().groupby(['Position', 'Round'])['pl_pos_id'].apply(list).iteritems():
@@ -152,6 +192,7 @@ prob.solve(solver)
 
 # solver = getSolver('PULP_CBC_CMD')
 # prob.solve(solver)
+
 prob.status
 
 
@@ -180,3 +221,6 @@ print(P_results.groupby(['Round','Position']).sum()['is_selected'])
 
 
 # %%
+
+
+
